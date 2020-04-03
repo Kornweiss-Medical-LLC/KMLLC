@@ -1,4 +1,5 @@
 index.md
 
-## [](docs/covid19_frontpage_letter.md)
-## [](docs/covid19_resources.md)
+# Covid-19
+## [Welcome Letter](docs/covid19_frontpage_letter.md)
+## [Resources](docs/covid19_resources.md)
