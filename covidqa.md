@@ -15,7 +15,7 @@
 ## **Is it helpful to wear a surgical mask?**  
 **A: Almost certainly yes.**
 
-It's hard to find surgical masks right now, but
+It's hard to find surgical masks right now, 
 if you have them, judicious use of the mask with good quality hand
 hygiene is probably quite effective against the virus. The most useful
 scenarios are in close contact with other people. The best time to use
