@@ -1,2 +1,2 @@
 # [Kornweissmedical.com Articles](https://kornweissmedical.com/articles)
-**This is the github repository that I use to create and store content before it goes to the main site, or becomes an email or a memo**
+**This is the github repository that I use to create and store content**
