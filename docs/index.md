@@ -2,6 +2,7 @@
 ## [Welcome Letter](./docs/covid19_frontpage_letter.md)
 ## [Resources](./docs/covid19_resources.md)
 ## Posts
+- [April 4, 2020](040420_litreview.md)
 - [March 27, 2020](032720update.md)
 - [March 19, 2020](031920update.md)
 - [March 16, 2020](031620update.md)
