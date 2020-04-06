@@ -1,0 +1,17 @@
+covid19_qa_video_index.md
+
+- [What is a virus and how does it work?](https://youtu.be/LUF7sTKONFI?t=20)
+- [How do you acquire knowledge about the coronavirus?](https://youtu.be/LUF7sTKONFI?t=399)
+- [How are researchers learning more about coronavirus?](https://youtu.be/LUF7sTKONFI?t=587)
+- [Why is developing a vaccine or treatment for coronavirus difficult?](https://youtu.be/LUF7sTKONFI?t=940)
+- [How does a vaccine differ from a treatment?](https://youtu.be/LUF7sTKONFI?t=1383)
+- [Where does treatment development stand?](https://youtu.be/LUF7sTKONFI?t=1753)
+- [Are masks helpful?](https://youtu.be/LUF7sTKONFI?t=1970)
+- [What makes a mask more or less effective?](https://youtu.be/LUF7sTKONFI?t=2377)
+- [What are best practices for using a mask?](https://youtu.be/LUF7sTKONFI?t=2704)
+- [Is the virus airborne?](https://youtu.be/LUF7sTKONFI?t=2816)
+- [Is it OK to reuse a mask?](https://youtu.be/LUF7sTKONFI?t=3128)
+- [Are gloves helpful?](https://youtu.be/LUF7sTKONFI?t=3226)
+- [What are other helpful preventive measures?](https://youtu.be/LUF7sTKONFI?t=3404)
+- [What should I do with things (e.g. groceries) I bring into my house?](https://youtu.be/LUF7sTKONFI?t=3643)
+- [How can we make the most of this situation?](https://youtu.be/LUF7sTKONFI?t=3918)

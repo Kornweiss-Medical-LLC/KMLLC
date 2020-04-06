@@ -10,7 +10,7 @@ Trusted Sources |
 [Peter Attia, MD](https://peterattiamd.com/covid-19/) | 
 [Chris Masterjohn, PhD](https://chrismasterjohnphd.com/what-im-doing-for-the-coronavirus) | 
 [Trevor Bedford, PhD](https://bedford.io/blog/) |
-[Amesh Adalja, MD](https://twitter.com/AmeshAA) |
+[Amesh Adalja, MD](http://www.trackingzebra.com/covid19) |
 
 
 Vetted Information |
