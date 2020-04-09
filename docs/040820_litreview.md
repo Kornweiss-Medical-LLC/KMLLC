@@ -37,6 +37,9 @@ factor-dependent signaling pathway [14]. As evidence, occlusion and microthrombo
 pulmonary small vessels of critical patient with COVID-19 has been reported from a recent lung organ
 dissection [15]."
 
-![](../images/anticoag_dimer/Screen&#32;Shot&#32;2020-04-08&#32;at&#32;1.18.16&#32;PM.png)
-![](../images/anticoag_dimer/Screen&#32;Shot&#32;2020-04-08&#32;at&#32;1.18.24&#32;PM.png)
-![](../images/anticoag_dimer/Screen&#32;Shot&#32;2020-04-08&#32;at&#32;1.18.43&#32;PM.png)
+![](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/articles/master/images/anticoag_dimer/Screen%20Shot%202020-04-08%20at%201.18.16%20PM.png)
+![](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/articles/master/images/anticoag_dimer/Screen&#32;Shot&#32;2020-04-08&#32;at&#32;1.18.24&#32;PM.png)
+![](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/articles/master/images/anticoag_dimer/Screen&#32;Shot&#32;2020-04-08&#32;at&#32;1.18.43&#32;PM.png)
+
+### EmCrit's Resource on This Topic
+For more discussion of this general topic, see EmCrit's resource on management of DIC/thrombosis in the setting of Covid-19 [here](https://emcrit.org/ibcc/covid19/#disseminated_intravascular_coagulation)

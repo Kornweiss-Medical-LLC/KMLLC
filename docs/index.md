@@ -7,10 +7,23 @@
 - [Covid-19 Q&A Video Index](covid19_qa_video_index.md)
 
 ## Covid-19 Updates
+- [April 8, 2020](040820_litreview.md)
+  - Recombinant ACE2-IgG Treatment
+  - D-dimer to guide anticoagulation
 - [April 5, 2020](040520_litreview.md)
+  - Masks
+  - Immunosuppression
 - [April 4, 2020](040420_litreview.md)
+  - Hydroxychloroquine
+  - Vaccine Development
+  - Transmission (Asymptomatic / Airborne)
 - [March 27, 2020](032720update.md)
+  - Question and Answer
 - [March 19, 2020](031920update.md)
+  - General discussion
 - [March 16, 2020](031620update.md)
+  - Risk Assessment
 - [March 11, 2020](031120update.md)
+  - Risk Assessment
 - [March 4, 2020](030420original.md)
+  - Original Post
