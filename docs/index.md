@@ -7,6 +7,10 @@
 - [Covid-19 Q&A Video Index](covid19_qa_video_index.md)
 
 ## Covid-19 Updates
+- [April 13, 2020](bcg_faustman_interview.md)
+  - Q&A with Dr. Faustman, head of immunobiology lab at Harvard.
+  - She and her team are working on testing the BCG vaccine for activity against CoViD-19
+  - This covers the history of the BCG vaccine, how it works, and risks and benefits.
 - [April 8, 2020](040820_litreview.md)
   - Recombinant ACE2-IgG Treatment
   - D-dimer to guide anticoagulation
