@@ -1,5 +1,19 @@
 <!--faustman_interview.md-->
 
+- [Q: What is your background?](#q-what-is-your-background)
+- [Q: What is the BCG vaccine?](#q-what-is-the-bcg-vaccine)
+- [Q: Where did the BCG vaccine come from?](#q-where-did-the-bcg-vaccine-come-from)
+- [Q: How does the BCG vaccine work?](#q-how-does-the-bcg-vaccine-work)
+- [Q: What is the "innate memory response" or "trained immunity," as it is sometimes called?](#q-what-is-the-%22innate-memory-response%22-or-%22trained-immunity%22-as-it-is-sometimes-called)
+- [Q: What is the evidence that this vaccine might work for SARS-CoV-2?](#q-what-is-the-evidence-that-this-vaccine-might-work-for-sars-cov-2)
+- [Q: Is it possible that the correlation we're seeing between the BCG vaccine and CoViD-19 is actually reflective of a connection between TB and CoViD-19?](#q-is-it-possible-that-the-correlation-were-seeing-between-the-bcg-vaccine-and-covid-19-is-actually-reflective-of-a-connection-between-tb-and-covid-19)
+- [Q: Is the vaccine safe for adults?](#q-is-the-vaccine-safe-for-adults)
+- [Q: What are the dangers?](#q-what-are-the-dangers)
+- [Q: What are all of the potential benefits?](#q-what-are-all-of-the-potential-benefits)
+- [Q: Why don't we currently use this vaccine in the United States?](#q-why-dont-we-currently-use-this-vaccine-in-the-united-states)
+- [Q: What are the obstacles to using this vaccine now?](#q-what-are-the-obstacles-to-using-this-vaccine-now)
+- [Q: What can people do to help speed clinical trials?](#q-what-can-people-do-to-help-speed-clinical-trials)
+
 ## Q: What is your background?
 
 > I am an MD/PhD.  I am head of the Immunobiology Lab at Massachusetts General Hospital.
@@ -10,7 +24,7 @@
 
 ## Q: Where did the BCG vaccine come from? 
 
-> Our strain is made in Japan.  There are multiple strain based on the orginal strain developmed at the Pasteur Institute.
+> Our strain is made in Japan.  There are multiple strains based on the orginal strain developed at the Pasteur Institute.
 
 ## Q: How does the BCG vaccine work? 
 
