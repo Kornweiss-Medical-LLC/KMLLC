@@ -56,7 +56,7 @@
 
 ##  What are all of the potential benefits? 
 
-> Shown to also possible prevent various forms of autoimmunity.
+> Shown to also possibly prevent various forms of autoimmunity.
 
 ##  Why don't we currently use this vaccine in the United States? 
 
