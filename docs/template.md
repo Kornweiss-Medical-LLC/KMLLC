@@ -7,18 +7,23 @@
       Author: Steven Kornweiss, MD
       Date:
       
-   <p class="email"><a href="mailto:steven@kornweissmedical.com">steven@kornweissmedical.com</a></p>
+   <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
 
 ---
 **Document Title and Description:**
 
+
 ---
 **Table of Contents:**
+<!-- insert table of contents -->
 
-- [References](#references)
+---
+<!-- insert body of document -->
 
 ---
 ## [References](https://www.zotero.org/groups/2437331/kornweiss_medical)
+
+---
 
 Website: <https://kornweissmedical.com>
 
