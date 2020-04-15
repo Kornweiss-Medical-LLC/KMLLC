@@ -1,26 +1,23 @@
 <!--faustman_interview.md-->
 
 - [Introduction](#introduction)
-- [What is your background?](#what-is-your-background)
 - [What is the BCG vaccine?](#what-is-the-bcg-vaccine)
 - [Where did the BCG vaccine come from?](#where-did-the-bcg-vaccine-come-from)
 - [How does the BCG vaccine work?](#how-does-the-bcg-vaccine-work)
 - [What is the "innate memory response" or "trained immunity," as it is sometimes called?](#what-is-the-%22innate-memory-response%22-or-%22trained-immunity%22-as-it-is-sometimes-called)
 - [What is the evidence that this vaccine might work for SARS-CoV-2?](#what-is-the-evidence-that-this-vaccine-might-work-for-sars-cov-2)
-- [Is it possible that the correlation we're seeing between the BCG vaccine and CoViD-19 is actually reflective of a connection between TB and CoViD-19?](#is-it-possible-that-the-correlation-were-seeing-between-the-bcg-vaccine-and-covid-19-is-actually-reflective-of-a-connection-between-tb-and-covid-19)
 - [Is the vaccine safe for adults?](#is-the-vaccine-safe-for-adults)
-- [What are the dangers?](#what-are-the-dangers)
 - [What are all of the potential benefits?](#what-are-all-of-the-potential-benefits)
 - [Why don't we currently use this vaccine in the United States?](#why-dont-we-currently-use-this-vaccine-in-the-united-states)
 - [What are the obstacles to using this vaccine now?](#what-are-the-obstacles-to-using-this-vaccine-now)
 - [What can people do to help speed clinical trials?](#what-can-people-do-to-help-speed-clinical-trials)
+- [Summary](#summary)
+- [Remaining Questions](#remaining-questions)
 
 ## Introduction
-Dr. Faustman is an immunobiologist at Massachusetts General Hospital who has long worked with the BCG vaccine. This is a vaccine which has been around for decades and is used primarily to vaccinate against tuberculosis. It's not used in the US because of our low TB rates which have been achieved primarily through sanitation and public health measures. During the current coronavirus pandemic, some epidemiologists have noticed that countries with mandatory BCG vaccination policies have suffered less severe SARS-CoV-2 outbreaks both in magnitude and severity. This recognition fits with the knowledge of the vaccine as having properties for modulating the immune system in such a way as to protect against pathogens, autoimmune conditions, and even certain cancers thought the vaccine itself is made from "weakened" mycobacterium. Below is a question and answer that was conducted electronically between myself and Dr. Faustman. A lot of the information below can be read in [this document](https://www.faustmanlab.org/wp-content/uploads/2020/04/BCGCOVID-19April2.pdf) on Dr. Faustman's website which provides the rationale for their research of the BCG vaccine as it relates to the Covid-19 pandemic.
+Dr. Faustman, MD, PhD is an immunobiologist at Massachusetts General Hospital who has long worked with the BCG vaccine. This is a vaccine which has been around for decades and is used primarily to vaccinate against tuberculosis. It's not used in the US because of our low TB rates which have been achieved primarily through sanitation and public health measures. During the current coronavirus pandemic, some epidemiologists have noticed that countries with mandatory BCG vaccination policies have suffered less severe SARS-CoV-2 outbreaks both in magnitude and severity. This recognition fits with the knowledge of the vaccine as having properties for modulating the immune system in such a way as to protect against pathogens, autoimmune conditions, and even certain cancers, though the vaccine itself is made from "weakened" mycobacterium. Below is a question and answer that was conducted electronically between myself and Dr. Faustman. I was fortunate to have her answer these questions. I have several other more detailed questions that I hope to have the chance to discuss with her in the future.
 
-## What is your background?
-
-> I am an MD/PhD.  I am head of the Immuno-biology Lab at Massachusetts General Hospital.
+For more information, take a look at [this document](https://www.faustmanlab.org/wp-content/uploads/2020/04/BCGCOVID-19April2.pdf) on Dr. Faustman's website which provides the rationale for their research of the BCG vaccine as it relates to the Covid-19 pandemic.
 
 ## What is the BCG vaccine? 
 
@@ -46,29 +43,30 @@ Dr. Faustman is an immunobiologist at Massachusetts General Hospital who has lon
 
 > Epidemiological studies provide further support by showing that vaccination with certain live vaccines is associated with lower rates of disease due to unrelated pathogens. For example, BCG vaccination in newborn children provides protection not only against tuberculosis, but has also been associated with a reduction in respiratory tract infections, neonatal sepsis, and all-cause mortality. It has been also shown that BCG vaccination in healthy adults induces long lasting immunity and protection from respiratory tract infections.  Recently, it has been demonstrated that BCG vaccination alters the epigenetic program of hematopoietic stem cells resulting in monocyte-derived macrophages that provide enhanced protection against pulmonary infection.  Multiple clinical trials have demonstrated the beneficial "off target" effects of BCG as it relates to infections.  New and very preliminary data suggests large-scale national BCG vaccination programs are associated with reduced COVID-19 morbidity and mortality across borders and age groups.
 
-##  Is it possible that the correlation we're seeing between the BCG vaccine and CoViD-19 is actually reflective of a connection between TB and CoViD-19? 
-
-> Maybe.
-
 ##  Is the vaccine safe for adults? 
 
-> Safest vaccine ever given.  Not recommended in immune compromised individuals.
-
-##  What are the dangers? 
-
-> None
+> The BCG vaccine is the safest vaccine ever given, though it is not recommended for immunocompromised individuals.
 
 ##  What are all of the potential benefits? 
 
-> Shown to also possibly prevent various forms of autoimmunity.
+> The BCG vaccine, in addition to the potential benefits described above, may also prevent various forms of autoimmunity.
 
 ##  Why don't we currently use this vaccine in the United States? 
 
-> Low TB rates.
+> The US has very low rates of tuberculosis, so there is no universal BCG vaccination policy.
 
 ##  What are the obstacles to using this vaccine now? 
 
-> Funding for controlled trials which are needed to get trials going.
+> Funding for controlled trials is needed to show whether or not this vaccine will work for infections like COVID-19.
 
 ##  What can people do to help speed clinical trials?
 > Get involved.  We need help funding trials, <http://faustmanlab.org>
+
+## Summary
+The BCG vaccine is an inexpensive, very safe, time-tested, and promising vaccination that might be useful for this and future pandemics. It has also been demonstrated to be useful in bladder cancer, and may be beneficial for some Type 1 Diabetics. There are some remaining questions in my mind that I'd like to have answered before I personally would want to take this vaccine.
+
+## Remaining Questions
+1. Despite the high level of safety, there must be some potential dangers or downsides to the vaccine, what are these and how could an individual adult assess their own risk?
+2. With respect to COVID-19, how do we know that the correlation between countries with BCG vaccination policies and COVID-19 cases is related to the BCG vaccine itself? Could the presence of a BCG vaccine policy be a marker for something else, such as a factor related to environmental exposures, microbiome, other immune factors, or some societal or cultural factor?
+3. Is the vaccine effective if given to adults? Most countries use the BCG vaccine primarily in infants and young children, and usually not over age 35.
+4. If it is effective in adults, how quickly might it work against an acute infection such as COVID-19?
