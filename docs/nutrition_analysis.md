@@ -1,6 +1,9 @@
 <link rel="stylesheet" type="text/css" href="template.css">
+<style>
+img #body { width: 75%;}
+</style>
 
-![](images/kmllc-icon-black.png)
+![](images/kmllc-icon-black.png){#icon}
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
@@ -75,7 +78,7 @@ So, to make improvements, it's best to identify the current state of affairs. Th
 
 *Whole foods are highlighted, processed foods left with white background*
 
-![](images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.34%20PM.png)
+![](images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.34%20PM.png){#body}
 
 The right-most column shows calories. Calories is the unit of measure of energy. So, you can think of these numbers as units of energy. Taking in excess energy compared to energy expenditure requires storing this energy as fat (fat can be stored under the skin, within muscles, and within other organs as well) and glycogen (this is the storage form of carbohydrate and can be found in every organ, and most abundantly in muscle). 
 
