@@ -27,7 +27,6 @@ Nutrition Analysis
   - [2. Remove any energy dense/nutrient poor foods](#2-remove-any-energy-densenutrient-poor-foods)
   - [3. Add energy poor nutrient dense foods](#3-add-energy-poor-nutrient-dense-foods)
   - [4. Look at micronutrients in cronometer](#4-look-at-micronutrients-in-cronometer)
-- [- use built-in RDAs at first, and later, if able, you can titrate micronutrient requirements.](#ul-liuse-built-in-rdas-at-first-and-later-if-able-you-can-titrate-micronutrient-requirementsli-ul)
 - [References](#references)
 
 <!-- insert body -->
@@ -109,8 +108,12 @@ So, if you were this individual, and you wanted to improve nutrient intake while
 
 ### 4. Look at micronutrients in cronometer
 - use built-in RDAs at first, and later, if able, you can titrate micronutrient requirements.
+  
 ---
+
 ## [References](https://www.zotero.org/groups/2437331/kornweiss_medical)
+
+---
 
 Website: <https://kornweissmedical.com>
 
