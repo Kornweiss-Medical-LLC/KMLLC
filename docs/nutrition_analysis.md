@@ -59,11 +59,11 @@ Nutrition Analysis
 - You can think of micronutrients as "parts" - these are "parts" of a machine that don't provide energy for the machine to run, nor are they really structural (i.e. building-blocks), but rather they're special parts or substances that enable the machine to run properly.
 - Your body, under normal circumstances, is good at regulating micronutrients and compensating for short-term deficits. But, long-term deficits can cause serious problems that can be hard to diagnose.
 - There are "recommended daily" intakes and allowances for micronutrients to try to prevent deficiencies in "the general public."
-- In my opinion, the best way to make sure you are replete in micronutrients it to compose your diet primarily of what I call "nutrient-dense energy-poor whole foods." These are foods like meat, fish, and above-ground vegetables such as green leaves, peppers, sprouts, crucifers. Fruit, nuts, and seeds are also featured in this category, but less so. The reason to form the core of the diet out of these foods, is that a diverse intake of these will lead to a full complement of micronutrients, but will live ample room to titrate other foods to meet energy demands.
+- In my opinion, the best way to make sure you are replete in micronutrients is˝ to compose your diet primarily of what I call "nutrient-dense energy-poor whole foods." These are foods like meat, fish, and above-ground vegetables such as green leaves, peppers, sprouts, crucifers. Fruit, nuts, and seeds are also featured in this category, but less so. The reason to form the core of the diet out of these foods, is that a diverse intake of these will lead to a full complement of micronutrients, but will leave ample room to titrate other foods to meet energy demands.
 - Once micronutrient needs are met, one can add other foods like - additional fruits, nuts, seeds, oils, root vegetables (e.g. potatoes, beets, carrots), grains, rice, and pasta.
 
 ## Where and How do I Start to Figure this Out?
-*The best way to figure out what to do in any big project, is first to asses the current situation.*
+*The best way to figure out what to do in any big project, is first to assess the current situation.*
 
 Making changes to your diet is really hard, and making tons of changes at once is nearly impossible.
 
@@ -104,7 +104,7 @@ So, if you were this individual, and you wanted to improve nutrient intake while
 - In this example, we can remove peanut butter (1 tbsp - and save ~100 calories) without losing hardly any micronutrients. We can also remove the 14 crackers, and achieve another 130 kcal deficit without losing any micronutrients. Do this with any similar foods. Cronometer is your friend in looking at micronutrient content.
 
 ### 3. Add energy poor nutrient dense foods
-- Add green leaves, crucifers (broccolli, cauliflower, cabbage, etc), peppers, and if desired, some roots like carrots. Be careful of beets and potatoes - high energy content.
+- Add green leaves, crucifers (broccoli, cauliflower, cabbage, etc), peppers, and if desired, some roots like carrots. Be careful of beets and potatoes - high energy content.
 
 ### 4. Look at micronutrients in cronometer
 - use built-in RDAs at first, and later, if able, you can titrate micronutrient requirements.
