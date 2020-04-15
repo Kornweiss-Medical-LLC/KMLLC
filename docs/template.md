@@ -1,7 +1,7 @@
 <!-- template.md -->
 <link rel="stylesheet" type="text/css" href="template.css">
 
-![](../images/kmllc-icon-black.png)
+![icon](../images/kmllc-icon-black.png)
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD

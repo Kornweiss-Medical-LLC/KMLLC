@@ -23,6 +23,10 @@ h1,h2,h3,h4 {
       font-family: georgia;
 }
 
-img {
+img[alt=icon] {
     width: 100px;
+}
+
+img[alt=body] {
+      width: 50%;
 }
