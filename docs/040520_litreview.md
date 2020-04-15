@@ -9,7 +9,7 @@ The first line of the discussion section says:
 
 But, let's take a look at the data collected from the 4 patients enrolled in the study:
 
-![](https://acp.silverchair-cdn.com/acp/content_public/journal/aim/0/m201342tt1.jpeg?Expires=1586307852&Signature=bjN~QermmhZc~hmomQzmuGiC34w9Oi6sfqv2As7DwaWquOhs-ZMhiI9M9VOIM~I88nrt0SjVhDzwbATRSJLr~gTdRtEtaOtVhNDUkBSqDtoB9HvfZI5~PYBzTiNjT4O0rVuhJH0js9P5vUm-euxkrQ3bOsjohXP5ZBcXqwB1n1WqCCTk1hzew1jYyj3bvW8oLuH0kbl~82~yDQmeFudHxvoI6FfDBf3~8wXk3VAskyA7rVKt2cIQaeshxwz8EQX6ANouYjuQa2in4FaqbIr5PPu43aJ-9rwxigEOJeHxDo8DTn7iKTRFAyhtCBvgK63qjhdkXKk~YFehKmfFhiy0zg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+![](images/annals_mask_data.jpg)
 
 The numbers are in log copies per mL and ND means (not-detected). This means that the inside of the masks seems not to have virus on them, the outside does, and a petri dish with viral medium held 20cm from the patient's mouth while they're coughing grows virus whether they're wearing a surgical, cotton, or no mask.
 

@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="template.css">
 
-![](/images/kmllc-icon-black.png)
+![](images/kmllc-icon-black.png)
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
@@ -75,7 +75,7 @@ So, to make improvements, it's best to identify the current state of affairs. Th
 
 *Whole foods are highlighted, processed foods left with white background*
 
-![](/images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.34%20PM.png)
+![](images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.34%20PM.png)
 
 The right-most column shows calories. Calories is the unit of measure of energy. So, you can think of these numbers as units of energy. Taking in excess energy compared to energy expenditure requires storing this energy as fat (fat can be stored under the skin, within muscles, and within other organs as well) and glycogen (this is the storage form of carbohydrate and can be found in every organ, and most abundantly in muscle). 
 
@@ -85,7 +85,7 @@ Imagine you filled the gas-tank of your car, but you wanted your car to have mor
 
 **Now look at this image, which shows the macro breakdown of the highlighted food items in the previous picture (whole-foods only)**
 
-![](/images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.45%20PM.png)
+![](images/cs_crono_041520/Screen%20Shot%202020-04-15%20at%2012.02.45%20PM.png)
 
 We see that when a handful of processed foods are eliminated, the caloric intake is only 1545 calories. For a young, healthy, athletic woman, this is almost certainly a caloric deficit. Go back up to the previous image, and notice how much food can be consumed without consuming a huge amount of energy. Adding in just a few processed foods like protein shakes, crackers, and popcorn gets you back up to 2225 calories. And - I was even generous including the peanut butter, which I consider to be processed. Peanuts are, of course, the unprocessed version.
 
