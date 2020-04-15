@@ -1,4 +1,4 @@
-## Recent Content
+## Covid-19 Content
 - [Welcome Letter](covid19_frontpage_letter.md)
 - [Resources](covid19_resources.md)
 - [Covid-19 Goodness](covid19_goodness.md)
