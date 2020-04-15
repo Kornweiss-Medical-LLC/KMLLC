@@ -1,12 +1,12 @@
 <link rel="stylesheet" type="text/css" href="template.css">
 
-![](../images/kmllc-icon-black.png)
+![](/images/kmllc-icon-black.png)
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
-      Date:
+      Date: 2020-04-15
       
-   <p class="email"><a href="mailto:steven@kornweissmedical.com">steven@kornweissmedical.com</a></p>
+   <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
 
 ---
 **Document Title and Description:**
