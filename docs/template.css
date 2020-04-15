@@ -1,0 +1,28 @@
+template.css
+/* css for template doc */
+
+body {
+    background-color: white;
+}
+
+pre {
+      width: 300px;
+}
+   
+code {
+      font-family: "courier";
+      font-size: 16px;
+}
+
+a,p,li {
+      font-family:"times new roman";
+      font-size: 1.04em;
+}
+
+h1,h2,h3,h4 {
+      font-family: georgia;
+}
+
+img {
+    width: 100px;
+}
