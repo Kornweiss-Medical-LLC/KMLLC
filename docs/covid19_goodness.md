@@ -1,14 +1,30 @@
 covid19_goodness.md
 
-- [Recognizing the Value of Direct Care (4/8/20)](#recognizing-the-value-of-direct-care-4820)
-- ["*More Progress, Faster, Is Our Best Defense Against This Pandemic and Future Ones*" (4/7/20)](#%22more-progress-faster-is-our-best-defense-against-this-pandemic-and-future-ones%22-4720)
-- [What's good about a quarantine? (4/5/20)](#whats-good-about-a-quarantine-4520)
-- [An Awesome Article about Healthcare Deregulation (4/5/20)](#an-awesome-article-about-healthcare-deregulation-4520)
-
 **Achieving Values during a Pandemic**
-*Last Updated: 2020-04-08*
+*Last Updated: 2020-04-16*
 
-This post is a collection of great things that have resulted from the 2019 novel coronavirus and the subsequent pandemic. My plan is to add to this list on a daily basis. I'll add to the top of the page and I'll date my additions.
+This post is a collection of great things that have resulted from the 2019 novel coronavirus and the subsequent pandemic. My plan is to add to this list on a regular basis. I'll add to the top of the page and I'll date my additions.
+
+### Self-Inoculate Against Depression (4/17/20)
+In [this blog post](https://www.thinkingdirections.com/inoculating-yourself-against-depression/), [@JeanFMoroney](https://twitter.com/JeanFMoroney) shows how, despite the pandemic, one can pursue values despite a negative outlook. She writes:
+
+> "I’ve seriously entertained some pretty dire outcomes, but instead of letting them send me into depression, I am motivated to pursue values. I have been writing more, better, clearer prose. I am experimenting with improv games on Zoom with friends. I am flirting with my husband."
+
+She goes on to say:
+
+> "Don’t get me wrong, I’ve had some bad days in the last few weeks. But I’m inoculated against spiraling down into depression by my understanding of the relationship of reason and emotion."
+
+Jean gives us three main points, which she expands upon in the post. I've reworded the points a bit, so any errors are my own:
+
+1. Facts do not determine emotions, evaluations do.
+2. Accepting facts requires evaluation, which causes emotions that are sometimes unpleasant.
+3. Objectivity blunts the pain that often accompanies self-criticism.
+
+If you want to understand these points more fully, read and enjoy [the full post](https://www.thinkingdirections.com/inoculating-yourself-against-depression/).
+
+### Learning About the Immune System (4/16/20)
+
+[This](https://www.youtube.com/watch?v=GIJK3dwCWCw) is a really entertaining, fast paced, thorough review of the immune system. It's simple enough to be understood by people with a high-school biology education, yet detailed enough to be useful for those who have been to medical school but who haven't studied immunology for several years.
 
 ### Recognizing the Value of Direct Care (4/8/20)
 
