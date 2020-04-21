@@ -17,16 +17,10 @@ Nutrition Analysis
 **Table of Contents:**
 
 - [Macronutrients](#macronutrients)
-  - [1.  Building-block requirement](#1-building-block-requirement)
-  - [2. Desired energy balance](#2-desired-energy-balance)
 - [Micronutrients](#micronutrients)
 - [Where and How do I Start to Figure this Out?](#where-and-how-do-i-start-to-figure-this-out)
 - [Logging](#logging)
 - [What to do now?](#what-to-do-now)
-  - [1. Reduce unnecessary protein](#1-reduce-unnecessary-protein)
-  - [2. Remove any energy dense/nutrient poor foods](#2-remove-any-energy-densenutrient-poor-foods)
-  - [3. Add energy poor nutrient dense foods](#3-add-energy-poor-nutrient-dense-foods)
-  - [4. Look at micronutrients in cronometer](#4-look-at-micronutrients-in-cronometer)
 - [References](#references)
 
 <!-- insert body -->
@@ -35,7 +29,7 @@ Nutrition Analysis
 - You can think of protein as building blocks (though they contribute to energy intake if taken in excess).
 - You can think of fat and carbohydrates as your two energy/fuel sources.
 - Under normal circumstances, to determine appropriate macronutrient intake, you need to determine 2 primary things:
-  ### 1.  Building-block requirement
+  ### 1. Building-block requirement
     - This depends primarily on maintenance of existing muscle mass, and desired gain/loss of additional muscle
     - If you merely want to maintain, the general approach is to take in at least 1 g/kg-body-weight/day of protein
     - If you want to gain, the approach is to take an additional 1g/kg/day of desired additional muscle gain per day
