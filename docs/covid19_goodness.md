@@ -1,9 +1,14 @@
 covid19_goodness.md
 
 **Achieving Values during a Pandemic**
-*Last Updated: 2020-04-16*
+*Last Updated: 2020-04-21*
 
 This post is a collection of great things that have resulted from the 2019 novel coronavirus and the subsequent pandemic. My plan is to add to this list on a regular basis. I'll add to the top of the page and I'll date my additions.
+
+### Van Down by The River
+This update has absolutely nothing to do with the coronavirus. It's insight into a source of perennial comedy genius, Chris Farley's character Matt Foley. Apparently this skit was written by Bob Odenkirk! Watch Conan O'Brien interview Bob about the history of this skit.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRabYPab204" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Self-Inoculate Against Depression (4/17/20)
 In [this blog post](https://www.thinkingdirections.com/inoculating-yourself-against-depression/), [@JeanFMoroney](https://twitter.com/JeanFMoroney) shows how, despite the pandemic, one can pursue values despite a negative outlook. She writes:
