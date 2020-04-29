@@ -29,10 +29,10 @@ img {
       margin-right: auto;
 }
 
-img[alt=icon] {
+em > img {
     width: 100px;
 }
 
-img[alt=body] {
+strong > img {
       width: 75%;
 }
