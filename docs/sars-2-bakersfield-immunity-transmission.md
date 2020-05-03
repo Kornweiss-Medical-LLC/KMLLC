@@ -19,7 +19,7 @@ Here is [the joint statement](https://www.acep.org/corona/COVID-19/covid-19-arti
 Immunity and Antibody Dependent Enhancement (ADE)
 ---
 
-Take home message here is that I think the preponderance of the evidence suggests most people will develop some degree of immunity against SARS-CoV-2. However, there is an issue of antibody dependent enhancement, which under certain circumstances could cause some people with non-neutralizing antibodies to actually develop worse disease as a result. This situation could arise from ineffective vaccinations, viral mutations, or cross-immunity from exposure to viruses with similar antigens. (Disclaimer: not an expert on this topic).
+The take home message here is that *I think* the preponderance of the evidence suggests most people will develop some degree of immunity against SARS-CoV-2. However, there is an issue of antibody dependent enhancement, which under certain circumstances could cause some people with non-neutralizing antibodies to actually develop worse disease as a result. This situation could arise from ineffective vaccinations, viral mutations, or cross-immunity from exposure to viruses with similar antigens. (Disclaimer: I am not an expert on this topic).
 
 [Preprint](https://www.medrxiv.org/content/10.1101/2020.03.30.20047365v2) demonstrating neutralizing antibodies in patients recovered from Covid-19.
 
