@@ -42,7 +42,7 @@ Most of the evidence presented on the transmission of SARS-CoV-2 is flavored in 
 Here's an excerpt:
 > "Among 121 HCP exposed to a patient with unrecognized COVID-19, 43 became symptomatic and were tested for SARS-CoV-2, of whom three had positive test results; all three had unprotected patient contact. Exposures while performing physical examinations or during nebulizer treatments were more common among HCP with COVID-19."
 
-I cited different numbers in my video which represent a subset of the healthcare personnel in the study. See excerpted table below:
+Only 3 out of 121 health care personnel exposed to this patient became infected. Out of the 121, 37 had exposure to aerosol generating procedures. Only 3 out of these 37 became infected. See excerpted table below:
 
 ![](https://kornweiss-medical-llc.github.io/articles/images/agp-hcp-exposure.png)
 
