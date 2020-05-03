@@ -29,11 +29,10 @@ Take home message here is that I think the preponderance of the evidence suggest
 288 different domains of S protein, including S1, RBD, and S2, may all contribute to the
 289 neutralization."
 
-[Article](https://www.sciencedirect.com/science/article/pii/S1286457920300344) on Covid-19 and ADE.
-
-[Cell Paper](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(18)31125-2) on Antibody Dependent Enhancement (ADE) in Ebola.
-
-[This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478436/) on ADE in SaRS-CoV shows "evidence of a detrimental role of anti–S-IgG in ALI during SARS-CoV infection."
+### Other Resources:
+- [Article](https://www.sciencedirect.com/science/article/pii/S1286457920300344) on Covid-19 and ADE.
+- [Cell Paper](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(18)31125-2) on Antibody Dependent Enhancement (ADE) in Ebola.
+- [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478436/) on ADE in SaRS-CoV shows "evidence of a detrimental role of anti–S-IgG in ALI during SARS-CoV infection."
 
 Transmission
 ---
@@ -43,13 +42,13 @@ Most of the evidence presented on the transmission of SARS-CoV-2 is flavored in 
 Here's an excerpt:
 > "Among 121 HCP exposed to a patient with unrecognized COVID-19, 43 became symptomatic and were tested for SARS-CoV-2, of whom three had positive test results; all three had unprotected patient contact. Exposures while performing physical examinations or during nebulizer treatments were more common among HCP with COVID-19."
 
-I cited different numbers in my video which represented a subset of the healthcare personnel in the study. See excerpted table below:
+I cited different numbers in my video which represent a subset of the healthcare personnel in the study. See excerpted table below:
 
 ![](https://kornweiss-medical-llc.github.io/articles/images/agp-hcp-exposure.png)
 
 Video Corrections
 ---
 
-Around minute 11 I talk about "antibodies killing a virus." This is very loose language and really misrepresents viruses and the functioning of antibodies. Firstly, viruses are not living, so they cannot be killed. I should have used a different term such as "neutralizing." 
+- ~11:30 - I talk about "antibodies killing a virus." This is very loose language and really misrepresents viruses and the functioning of antibodies. Firstly, viruses are not living, so they cannot be killed. I should have used a different term such as "neutralizing." 
 
-Secondly, antibodies do not neutralize viruses on their own. Antibodies are involved in the immune response to bacteria and viruses, but they are just one of many components of an immune response. See [this really cool video](https://twitter.com/stevenkornweiss/status/1250131886065754112?s=20) which gives a great lesson on the workings of the human immune system.
+- ~12:00 - Antibodies do not neutralize viruses on their own. Antibodies are involved in the immune response to bacteria and viruses, but they are just one of many components of an immune response. See [this really cool video](https://twitter.com/stevenkornweiss/status/1250131886065754112?s=20) which gives a great lesson on the workings of the human immune system.
