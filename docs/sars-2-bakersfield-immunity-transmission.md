@@ -29,7 +29,7 @@ Take home message here is that I think the preponderance of the evidence suggest
 288 different domains of S protein, including S1, RBD, and S2, may all contribute to the
 289 neutralization."
 
-### Other Resources:
+### Other Sources:
 - [Article](https://www.sciencedirect.com/science/article/pii/S1286457920300344) on Covid-19 and ADE.
 - [Cell Paper](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(18)31125-2) on Antibody Dependent Enhancement (ADE) in Ebola.
 - [This paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478436/) on ADE in SaRS-CoV shows "evidence of a detrimental role of anti–S-IgG in ALI during SARS-CoV infection."
