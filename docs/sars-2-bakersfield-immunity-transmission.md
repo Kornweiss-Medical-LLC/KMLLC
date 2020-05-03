@@ -6,9 +6,9 @@ The Bakersfield Doctor Fiasco
 ---
 
 ### My Opinion:
-Two ER trained doctors in Bakersfield, CA held a press conference last week that garnered a ton of attention. They had ~5 million Youtube views and ended up on a major Fox news program. They were advocating for an end to lockdowns based on flawed interpretations of their data from testing patients for Covid-19 in their Urgent Care system. They also made appeals to authority and misrepresented their level of expertise in epidemiology, immunology and microbiology, making several very suspect statements.
+Two emergency medicine trained doctors in Bakersfield, CA held a press conference last week that garnered a ton of attention. They had ~5 million Youtube views and ended up on a major Fox news program. They were advocating for an end to "lockdowns" based on a flawed interpretation of their Covid-19 testing data, which was obtained from their own urgent care centers. They also made appeals to authority and misrepresented their level of expertise in epidemiology, immunology and microbiology. They made several very suspect statements that, if followed, could theoretically lead to individuals increasing their risk of infection.
 
-Nonetheless, I think given the context of the current information environment, with wild speculation from everyone (government, experts, amateurs, and maybe including myself), these guys shouldn't have been condemned in total, only in partial. They should have been celebrated for their efforts to support freedom and business, including their own. They should have been condemned for any fraud they may have committed.
+Despite these issues, I think given the context of the current information environment, with speculation coming from every direction (government, experts, and amateurs), these guys shouldn't have been condemned in total, only in partial. They should have been celebrated for their efforts to support freedom and business, including their own. They should have been condemned for any fraud they may have committed.
 
 ### Other Opinions:
 Zdogg MD Coverage: https://zdoggmd.com/covid-politics/
