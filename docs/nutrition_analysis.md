@@ -24,6 +24,12 @@ Nutrition Analysis
 - [References](#references)
 
 <!-- insert body -->
+## The Framework of My Approach to Nutrition
+1. First I write down an explicit goal such as, "I primarily want to optimize for longevity, but I don't want to sacrifice looking and feeling strong, energetic, and lean."
+2. Then I evaluate my current nutrition status, my health and fitness.
+3. Nutrition is evaluated by recording everything I eat for at least a 1 week time period, assuming this week is mostly representative of my "usual diet."
+4. For me, evaluating my health and fitness seems second nature because I've been doing it for such a long time. But for someone who may be embarking on their first attempt to make such a plan, simple metrics could be established such as weight, BMI (and/or body fat %), and perhaps basic labs like %HbA1c
+
 ## Macronutrients
 - Macronutrients include protein, fat, and carbohydrate.
 - You can think of protein as building blocks (though they contribute to energy intake if taken in excess).
