@@ -45,9 +45,11 @@ Here's an excerpt:
 
 I cited different numbers in my video which represented a subset of the healthcare personnel in the study. See excerpted table below:
 
-![](images/agp-hcp-exposure.png)
+![](https://kornweiss-medical-llc.github.io/articles/images/agp-hcp-exposure.png)
 
-# Video Corrections:
+Video Corrections
+---
+
 Around minute 11 I talk about "antibodies killing a virus." This is very loose language and really misrepresents viruses and the functioning of antibodies. Firstly, viruses are not living, so they cannot be killed. I should have used a different term such as "neutralizing." 
 
 Secondly, antibodies do not neutralize viruses on their own. Antibodies are involved in the immune response to bacteria and viruses, but they are just one of many components of an immune response. See [this really cool video](https://twitter.com/stevenkornweiss/status/1250131886065754112?s=20) which gives a great lesson on the workings of the human immune system.
