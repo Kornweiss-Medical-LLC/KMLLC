@@ -43,9 +43,7 @@ Here's an excerpt:
 
 I cited different numbers in my video which represented a subset of the healthcare personnel in the study. See excerpted table below:
 
-![](../images/agp-hcp-exposure.png)
-
-
+![](/images/agp-hcp-exposure.png)
 
 # Video Corrections:
 Around minute 11 I talk about "antibodies killing a virus." This is very loose language and really misrepresents viruses and the functioning of antibodies. Firstly, viruses are not living, so they cannot be killed. I should have used a different term such as "neutralizing." 
