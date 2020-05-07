@@ -5,6 +5,8 @@
 - [Covid-19 Q&A Video Index](covid19_qa_video_index.md)
 
 ## Covid-19 Updates
+- [May 7, 2020](nutrition-approach_1.md)
+  - Intro to nutrition framework
 - [May 5, 2020](bakersfield-post.md)
   - My take on the Bakersfield doctors
   - A brief commentary on immunity
