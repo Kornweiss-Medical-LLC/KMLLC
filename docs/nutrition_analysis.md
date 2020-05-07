@@ -24,35 +24,92 @@ Nutrition Analysis
 - [References](#references)
 
 <!-- insert body -->
-## The Framework of My Approach to Nutrition
-1. First I write down an explicit goal such as, "I primarily want to optimize for longevity, but I don't want to sacrifice looking and feeling strong, energetic, and lean."
-2. Then I evaluate my current nutrition status, my health and fitness.
-3. Nutrition is evaluated by recording everything I eat for at least a 1 week time period, assuming this week is mostly representative of my "usual diet."
-4. For me, evaluating my health and fitness seems second nature because I've been doing it for such a long time. But for someone who may be embarking on their first attempt to make such a plan, simple metrics could be established such as weight, BMI (and/or body fat %), and perhaps basic labs like %HbA1c
+## Nutrition Framework
+
+Overview:
+   - Set a goal
+   - Determine metrics
+   - Assess the current situation
+   - Remove contradictions
+   - Add essentials
+   - Execute new plan
+   - Reassess
+   - Repeat
+
+# Filling in the Framework
+   
+## Goals and Metrics
+
+First, I write down an explicit goal such as, "I want to lose 5 pounds." Or, a much broader goal, such as, "I want to live as long as possible, but I also want to look and feel strong, energetic, and lean." For a narrow goal, like the first one, I might only track weight. For a broader goal, like the second one, I might need to establish a longer list of metrics to track my progress (e.g. weight, body fat %, subjective energy level, exercise capacity, hba1c%, lipids, etc.).
+
+In reality, I don't have just one goal at a time, but I do work on one goal at a time. What I have is a hierarchy of goals that is ruled by a broad goal, but is executed in terms of simpler goals like the first one above.
+
+## Assessment
+After my goal is established, I evaluate my current nutrition status by tracking everything I eat and drink for a minimum of 1 week (not as hard as it sounds - I will demonstrate how to do this simply in a later post. To avoid appearing enigmatic here, the basic approach is to use an app called Cronometer).
+
+## Identify and Remove Contradictions
+
+Next, I evaluate which parts of my current nutrition contradict my goal. If my goal is to lose weight, the obvious contradiction would be any food that provides excess energy intake - i.e. too many calories.
+
+So, in this instance, my intervention would be to eliminate any food that is a source of excess energy but which is not essential to my other nutrition needs - i.e. vitamins, minerals, essential fats, amino acids, etc.
+
+## Add Essentials
+
+I add necessities that were missing (e.g. sources of calcium, vitamin A, C, D, choline, etc.) without adding back any excess energy. The best way to do this is usually to use nutrient dense, energy poor foods. I'll discuss this in more detail in a later post - but examples of nutrient-dense energy-poor foods are non-root vegetables such as green leaves, peppers, crucifers, fish, lean meat, eggs, and organ meats.
+
+## Execute New Plan
+
+Lastly, I track *everything* I consume until I learn how to eat my new plan without tracking.
+
+## Reassess and Repeat
+
+I follow metrics for a predetermined time frame and then reassess the original goal and my progress towards that goal. The time frame needs to be long enough to see the relationship between cause and effect; that is, between intervention and results. The time frame should be short enough to maintain motivation and to make quick improvements. In the case of losing 5 pounds, this is reasonably achievable in 2-6 weeks, so this interval would be a good reassessment time period.
+
+Once the reassessment is done - repeat the whole process, including adjusting the goal if needed.
+
+In my next post, I'll break down more details and explain how to execute the above plan with specific examples.
+
+# Nutrition Facts
+
+It is necessary to understand some basics of nutrition before this type of plan can be executed. Of course it's possible to adopt a cookie cutter nutrition plan, but this will only get you so far. Understanding some nutrition basics will enable you to make infinite adjustments, achieve new goals, and to consistently improve independently without trying to seek out a pre-made plan that applies only to some non-existant "average" person, but not to you in particular.
 
 ## Macronutrients
-- Macronutrients include protein, fat, and carbohydrate.
-- You can think of protein as building blocks (though they contribute to energy intake if taken in excess).
-- You can think of fat and carbohydrates as your two energy/fuel sources.
-- Under normal circumstances, to determine appropriate macronutrient intake, you need to determine 2 primary things:
-  ### 1. Building-block requirement
-    - This depends primarily on maintenance of existing muscle mass, and desired gain/loss of additional muscle
-    - If you merely want to maintain, the general approach is to take in at least 1 g/kg-body-weight/day of protein
-    - If you want to gain, the approach is to take an additional 1g/kg/day of desired additional muscle gain per day
-    - If you want to lose muscle, likely the best approach is to use the maintenance dose of protein, but to go into an energy deficit and to use a lack of exercise stimulus in regard to the muscle groups that you want to decrease in mass.
+*Proteins, fats, and carbohydrates.*
+
+### Protein
+*Used to make muscle and enzymes*
+
+Protein is a nitrogenous organic compound made up of amino acids. Amino acids from dietary protein are used to build muscle and enzymes. Protein can also be metabolized to release energy if consumed in excess or in energy poor states such as starvation. Protein contributes relatively little to energy consumption under most circumstances in comparison to fats and carbohydrates.
+
+### Fat and Carbohydrate
+
+You can think of fat and carbohydrates as your two energy/fuel sources. These fuels can be burned as they are consumed, but they can also be stored in various locations in different forms (e.g. muscle glycogen, subcutaneous adipocytes, muscle triglyceride, visceral adipocytes, etc.). Fats and carbohydrates play many other roles in biology including cell signaling, immunity, structure, and many other roles. But, for nutrition purposes, the simplest starting place is to consider these macronutrients as your fuel mixture.
+
+## Determining Macronutrient Intake
+
+
+Under normal circumstances, to determine appropriate macronutrient intake, you need to determine 2 primary things:
+
+### 1. Building-block requirement
+  - This depends primarily on maintenance of existing muscle mass and desired gain/loss of additional muscle
+  - If you merely want to maintain, a safe starting point is to take in at least 1 g/kg-body-weight/day of protein
+  - If you want to gain, an initial approach can be to take an additional 1g/kg/day of desired additional muscle gain. 
+
+- #### Example: 
+  If you weigh 70kg, take 70g protein to maintain current mass. If you want to gain 5kg of muscle, take an additional 5g of protein daily until goal weight is reached, at which point the new maintenance dose is 75g.
   
-  ### 2. Desired energy balance
-   - This depends on existing fuel stores (fat, glycogen) and the desire to gain or lose these stores (gain or lose weight).
-   - If you want to maintain weight - you calculate or estimate basal metabolic rate and match caloric intake to this.
-   - If you want to gain weight - you add on top of basal rate, usually primarily in the form of carbohydrate or fat.
-   - If you want to lose weight - decrease energy intake or expend more energy.
-     #### Decreasing energy intake
-       - 3 ways to do this
-         1. Decrease daily caloric intake spread roughly evenly across time and macro groups (e.g. general dieting, portion control, fasting-mimicking diet etc.)
-         2. Decrease feeding time window or frequency (e.g. intermittent fasting, time-restricted feeding)
-         3. Decrease a specific macronutrient group (e.g. low-fat, keto, low-carb, etc.)
-      
-        - You can also combine the above 3 strategies, though cutting more than one thing at a time (time window, macro group, caloric intake), the more difficult to maintain, and the more likely are deficiencies to arise and cause unintended consequences.
+### 2. Desired energy balance
+  - This depends on existing fuel stores (fat, glycogen) and the desire to gain or lose these stores (gain or lose weight).
+  - If you want to maintain weight - you calculate or estimate basal metabolic rate and match caloric intake to this.
+  - If you want to gain weight - you add on top of basal rate, usually primarily in the form of carbohydrate or fat.
+  - If you want to lose weight - decrease energy intake or expend more energy.
+    #### Decreasing energy intake
+      - 3 ways to do this
+        1. Decrease daily caloric intake spread roughly evenly across time and macro groups (e.g. general dieting, portion control, fasting-mimicking diet etc.)
+        2. Decrease feeding time window or frequency (e.g. intermittent fasting, time-restricted feeding)
+        3. Decrease a specific macronutrient group (e.g. low-fat, keto, low-carb, etc.)
+    
+      - You can also combine the above 3 strategies, though cutting more than one thing at a time (time window, macro group, caloric intake), the more difficult to maintain, and the more likely are deficiencies to arise and cause unintended consequences.
 
 ## Micronutrients
 - Micronutrients are all other nutrients - vitamins (e.g. B vitamins, A, C, D, etc), minerals (Calcium, Potassium, Zinc, Iron, etc.)
