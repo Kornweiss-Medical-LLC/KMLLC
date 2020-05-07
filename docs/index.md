@@ -5,6 +5,10 @@
 - [Covid-19 Q&A Video Index](covid19_qa_video_index.md)
 
 ## Covid-19 Updates
+- [May 5, 2020](bakersfield-post.md)
+  - My take on the Bakersfield doctors
+  - A brief commentary on immunity
+  - Presentation of a healthcare transmission case study
 - [April 15, 2020](faustman_interview.md)
   - Q&A with Dr. Faustman, head of immunobiology lab at Harvard.
   - She and her team are working on testing the BCG vaccine for activity against CoViD-19
