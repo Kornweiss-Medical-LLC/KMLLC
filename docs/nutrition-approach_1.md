@@ -21,7 +21,7 @@ I add necessities that were missing (e.g. sources of calcium, vitamin A, C, D, c
 
 ## Execute Your New Plan
 
-Lastly, I track *everything* I consume until I learn how to eat my new plan without tracking.
+Lastly, I track *everything* I consume until I learn how to execute my new plan without tracking.
 
 ## Reassess and Repeat
 
