@@ -7,7 +7,7 @@
   - [How to Record](#how-to-record)
   - [Review the Data](#review-the-data)
   - [Learn from Tracking](#learn-from-tracking)
-  - [Use App Features to Meet Nutrition Requirements](#use-app-features-to-meet-nutrition-requirements)
+  - [Use App Features to Meet Nutrition Requirements and Be Efficient](#use-app-features-to-meet-nutrition-requirements-and-be-efficient)
 - [Conclusion](#conclusion)
 
 # Introduction
@@ -49,7 +49,7 @@ As you enter foods throughout the day, you'll receive feedback from the graphs. 
 ## Learn from Tracking
 Pay attention to the nutrition information and target values as you enter items for the day. After a few days of doing this, you'll see which foods contain which nutrients and in what amounts. After a few weeks, you'll start to naturally remember this without much extra effort on your part. You might also notice that some of your foods contain a lot of energy (measured in calories) but very few nutrients (e.g. rice, candy, ice-cream). You'll notice that some are the opposite (e.g. peppers, spinach, fish). You'll be getting a nutrition education while you track.
 
-## Use App Features to Meet Nutrition Requirements
+## Use App Features to Meet Nutrition Requirements and Be Efficient
 ### Use The Oracle Button
 Use the Oracle button to receive suggestions for foods that could complete your remaining nutrition requirements for the day. In the mid-afternoon, if my micronutrient graphs are coming up short, I will use this button to help come up with some creative ideas of foods that could round out my daily nutrition. Common deficiencies include Zinc, Vitamin A, Vitamin C, Selenium, and Vitamin D -- and thus, the Oracle might often suggest foods rich in these nutrients - fish, organ meats, and dark green leafy vegetables for example.
 
