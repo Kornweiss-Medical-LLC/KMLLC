@@ -9,6 +9,7 @@ This site is for the purpose of drafting and sharing new content as it is create
 
 ## Articles / Posts
 - [May 15, 2020](cronometer-tracking.md)
+  - Blog post explaining why/how to track nutrition using Cronometer
 - [May 7, 2020](nutrition-approach_1.md)
   - Intro to nutrition framework
 - [May 5, 2020](bakersfield-post.md)
