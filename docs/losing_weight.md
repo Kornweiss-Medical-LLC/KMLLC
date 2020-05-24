@@ -1,18 +1,31 @@
 <!--losing_weight.md-->
 
+- [Introduction](#introduction)
+- [Causes of Excess Energy Consumption](#causes-of-excess-energy-consumption)
+- [Tactics to Avoid Each Cause of Excess Energy Consumption](#tactics-to-avoid-each-cause-of-excess-energy-consumption)
+  - [How to Avoid Eating Energy Dense, Nutrient Poor Foods](#how-to-avoid-eating-energy-dense-nutrient-poor-foods)
+  - [How to Impose Food Limits](#how-to-impose-food-limits)
+  - [How to Impose Time Restrictions](#how-to-impose-time-restrictions)
+  - [How to Impose Quantity Restrictions](#how-to-impose-quantity-restrictions)
+  - [How to Create a standing long-term nutrition goal](#how-to-create-a-standing-long-term-nutrition-goal)
+  - [Eliminate carbohydrate dependence](#eliminate-carbohydrate-dependence)
+  - [Integrating the Plan](#integrating-the-plan)
+  - [Tips and Tricks](#tips-and-tricks)
+  
 # Introduction
 
 ***Purpose***: This post explains how to lose weight, or more precisely, how to eliminate the intake of excess energy.
 
 ***Reason***: The consumption of excess energy for one's given purpose contributes towards feeling and looking heavy, sluggish, and uncomfortable, and eventually, or maybe even quickly, contributes towards ill-health, followed by, in many cases, an early demise. On the flip side, consuming adequate energy is time and money efficient, and contributes towards a body and mind that operate energetically, and necessarily give the same integrated appearance of a healthy, able, productive mind and body.
 
-# Factors that Cause Excess Energy Consumption
-1. Eating significant amounts of energy dense, nutrient poor foods
-2. Lacking "food" limits
-3. Lacking time limits
-4. Lacking quantity limits
-5. Lacking a long-term nutrition goal
-6. Carbohydrate dependence
+# Causes of Excess Energy Consumption
+1. Availability of energy-dense foods
+2. Eating energy-dense foods
+3. Lacking "food" limits
+4. Lacking time limits
+5. Lacking quantity limits
+6. Lacking a long-term nutrition goal
+7. Carbohydrate dependence
 
 # Tactics to Avoid Each Cause of Excess Energy Consumption
 ## How to Avoid Eating Energy Dense, Nutrient Poor Foods
