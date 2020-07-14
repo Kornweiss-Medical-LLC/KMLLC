@@ -5,7 +5,7 @@
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
-      Date:
+      Date: July 13th, 2020
       
    <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
 
@@ -17,7 +17,7 @@ How I Sleep So Well.
 **Table of Contents:**
 <!-- insert table of contents -->
 
-- [- References](#ullireferencesliul)
+
 - [Justice](#justice)
 - [Timing](#timing)
 - [Preparation](#preparation)
@@ -30,6 +30,7 @@ How I Sleep So Well.
 - [Workouts](#workouts)
 - [Supplements](#supplements)
 - [References](#references)
+  
 ---
 <!-- insert body of document -->
 ## Justice
@@ -89,7 +90,10 @@ I used to take a melatonin lozenge, phosphatidylserine, and [Doc Parsley's Sleep
 That's all for now. Scroll down to see references that I trust and havel earned from.
 
 ---
-## [References](https://www.zotero.org/groups/2437331/kornweiss_medical)
+
+## References
+
+[Reference Library](https://www.zotero.org/groups/2437331/kornweiss_medical)
 
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/ (The Sleep-Promoting and Hypothermic Effects of Glycine are Mediated by NMDA Receptors in the Suprachiasmatic Nucleus)
 
@@ -98,8 +102,6 @@ That's all for now. Scroll down to see references that I trust and havel earned 
 [3]: https://chrismasterjohnphd.com/recommendations/2017/07/29/my-recommendations-for-better-sleep
 
 [4]: 
-
----
 
 Website: <https://kornweissmedical.com>
 
