@@ -85,7 +85,7 @@ Perform high intensity workouts early in the day. Many people I know find that h
 
 ## Supplements
 
-I used to take a melatonin lozenge, phosphatidylserine, and [Doc Parsley's Sleep Remedy](https://store.docparsley.com/products/sleep-remedy), but now I just take the sleep remedy which contains all 3 ingredients, and several others. Some nights I feel as though this really helps, and on others it's hard to tell the difference. Still, I think there is reason to believe that this supplement is safe and likely effective for many people. It's a worthy addition on evening's when you need to get to sleep or recalibrate your sleep pattern. It certainly won't knock you out, but it also won't make you feel groggy when you wake up.
+I used to take a melatonin lozenge, phosphatidylserine, and [Doc Parsley's Sleep Remedy](https://store.docparsley.com/products/sleep-remedy), but now I just take the sleep remedy which contains all 3 ingredients, and several others. I use this on rare occasions, but not as a matter of routine. Some nights I feel as though this really helps, and on others it's hard to tell the difference. Still, I think there is reason to believe that this supplement is safe and likely effective for many people. It's a worthy addition on evenings when you need to get to sleep or recalibrate your sleep pattern. It certainly won't knock you out, but it also won't make you feel groggy when you wake up.
 
 That's all for now. Scroll down to see references that I trust and havel earned from.
 
