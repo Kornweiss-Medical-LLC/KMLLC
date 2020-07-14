@@ -69,7 +69,7 @@ There is probably a good balance here that can be found on a case-by-case basis.
 
 ## Food
 
-Try to wrap up meals at least 3 hrs before bed. If you need to eat closer to bed time, keep it down to small items; low fat and low protein. A personal favorite snack to have late at night if I'm getting hungry before bed is a cup of bone broth. It'll take away hunger and may even help with sleep due to its glycine content <sup>[1]</sup>. I've measured my own blood sugar, sleep latency, heart rate, heart rate variability, and sleep disruptions after eating large mixed meals just before bedtime, and there is a big-time negative effect. My blood sugar stays elevated all night, my heart rate can run 10 beats higher than baseline, my heart rate variability plummets, and I can lose an additional 20-30 minutes over the course of the night in disruptions. There are several other reasons not to eat close to bedtime that are outside the scope of this article.
+Try to wrap up meals at least 3 hrs before bed. If you need to eat closer to bed time, keep it down to small items; low fat and low protein. A personal favorite snack to have late at night if I'm getting hungry before bed is a cup of bone broth. It'll take away hunger and may even help with sleep due to its glycine content <sup>[1]</sup>. I've measured my own blood sugar, sleep latency, heart rate, heart rate variability, and sleep disruptions after eating large mixed meals just before bedtime, and there is a big-time negative effect. My blood sugar stays elevated all night, my heart rate can run 10 beats higher than baseline, my heart rate variability plummets, and I can lose an additional 20-30 minutes over the course of the night in disruptions. There are several other reasons not to eat close to bedtime that are outside the scope of this article<sup>[2]</sup>.
 
 ## Sound
 
@@ -97,11 +97,7 @@ That's all for now. Scroll down to see references that I trust and havel earned 
 
 [1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4397399/ (The Sleep-Promoting and Hypothermic Effects of Glycine are Mediated by NMDA Receptors in the Suprachiasmatic Nucleus)
 
-[2]: https://peterattiamd.com/category/sleep/
-
-[3]: https://chrismasterjohnphd.com/recommendations/2017/07/29/my-recommendations-for-better-sleep
-
-[4]: 
+[2]: https://chrismasterjohnphd.com/recommendations/2017/07/29/my-recommendations-for-better-sleep
 
 Website: <https://kornweissmedical.com>
 
