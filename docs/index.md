@@ -5,10 +5,7 @@
 This site is for the purpose of drafting and sharing new content as it is created. It is intended primarily for internal use, but is publicly accessible for ease of access. Use of any information contained here-in is at the user's own risk. This information is not medical advice. No doctor-patient relationship is formed by the mere fact of accessing this page or reading its contents.
 
 ## Covid-19 Specific Content
-- [Welcome Letter](covid19_frontpage_letter.md)
-- [Resources](covid19_resources.md)
-- [Covid-19 Goodness](covid19_goodness.md)
-- [Covid-19 Q&A Video Index](covid19_qa_video_index.md)
+- [Resources](covid_19_resources.md)
 
 ## Articles / Posts
 - [July 13th, 2020](sleep_recommendations.md)
