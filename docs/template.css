@@ -19,6 +19,10 @@ a,p,li {
       font-size: 1.04em;
 }
 
+p.title {
+      font-size: 2em;
+}
+
 h1,h2,h3,h4 {
       font-family: georgia;
 }
