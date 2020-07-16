@@ -1,24 +1,16 @@
 <!-- template.md -->
 <link rel="stylesheet" type="text/css" href="template.css">
 
-*![](../images/kmllc-icon-black.png)*
-
-      Kornweiss Medical LLC
-      Author: Steven Kornweiss, MD
-      Date: July 13th, 2020
-      
-   <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
-
----
-**Document Title and Description:**
+<p class="title">
 How I Sleep So Well.
+</p>
 
 ---
 **Table of Contents:**
 <!-- insert table of contents -->
 
 
-- [Justice](#justice)
+- [Being Awake](#being-awake)
 - [Timing](#timing)
 - [Preparation](#preparation)
 - [Cognitive Off-loading](#cognitive-off-loading)
@@ -33,15 +25,19 @@ How I Sleep So Well.
   
 ---
 <!-- insert body of document -->
-## Justice
+## Being Awake
+
+More than anything else, I think that what you do while you're awake determines how well you'll sleep.
 
 Those who sleep most soundly, are those who live most soundly. Living soundly means living with purpose and integrity - with values and with moral consistency.
 
 Pursuing values is hard work. Do it all day, and you'll be tired. The more tired you are at the end of the day, the better you'll sleep.
 
-Besides the mental and physical exhaustion, you will be able to judge yourself as having earned your rest. When you lie down in a dark quiet room, instead of your subconscious mind raising questions and criticisms, it will be quiet and satisfied.
+Besides the mental and physical exhaustion, you will be able to judge yourself as having earned your rest. When you lie down in a dark quiet room, instead of your subconscious mind raising questions and criticisms, it will be quiet because it will be satisfied and at peace.
 
-With that being said, here are all of the sleep tactics that I've found to be helpful:
+There aren't any sleep hacks, supplements, medications, or blue-blockers that will overcome a mind at war with itself.
+
+With that said, here are all of the sleep tactics that I've found to be helpful:
 
 ## Timing
 
