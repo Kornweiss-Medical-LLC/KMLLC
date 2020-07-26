@@ -11,7 +11,10 @@
 
 ---
 **Document Title and Description:**
+<p class="title">
+<!-- insert title here -->
 
+</p>
 
 ---
 **Table of Contents:**
