@@ -92,85 +92,109 @@ I prefer the first method, which is to use the calculators built into [Cronomete
 
 Before you do either method, you'll need 3 pieces of information: your body weight, your height, and your % body fat.
 
+#### Measure your height in feet and inches, or cm.
+
 #### Body Weight
 Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedence scale](https://amzn.to/39qvvg7) "which will also allow you to measure % body fat.
-
-#### Measure your height in feet and inches, or cm.
   
 #### Your Body Fat % 
-You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods listed below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7) ".
+This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7) ".
 
 
-<table><tbody><tr></tr><tr><td><span><strong><span>Method</span></strong></span></td><td><span><strong><span>Price</span></strong></span></td><td><span><strong><span>Notes</span></strong></span></td></tr><tr><td><span>guess.</span></td><td><span>$0</span></td><td><span>Completely inaccurate.</span></td></tr><tr><td><span><span><a title="url: https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html" class="rm-alias rm-alias-external" href="https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html">use images</a></span>.</span></td><td><span>$0</span></td><td><span>Variable accuracy depending on visceral fat and fat distribution.
-The link sends you to a pretty cool website which helps with this.</span></td></tr><tr><td><span>use <span><a title="url: https://amzn.to/32QO4J3" class="rm-alias rm-alias-external" href="https://amzn.to/32QO4J3">calipers</a></span>.</span></td><td><span>~$13</span></td><td><span>May be inaccurate for amateurs and requires familiarizing yourself with the technique.</span></td></tr><tr><td><span>measure neck, waist, and hip circumference with a <span><a title="url: https://amzn.to/3jCIZtH" class="rm-alias rm-alias-external" href="https://amzn.to/3jCIZtH">tape measure</a></span> and then use this <span><a title="url: https://www.calculator.net/body-fat-calculator.html" class="rm-alias rm-alias-external" href="https://www.calculator.net/body-fat-calculator.html">calculator</a></span>.</span></td><td><span>~$14</span></td><td><span>Variable accuracy.</span></td></tr><tr><td><span><span><a title="url: https://amzn.to/39qvvg7" class="rm-alias rm-alias-external" href="https://amzn.to/39qvvg7">impedence scale</a></span> </span></td><td><span>~$45</span></td><td><span>This scale was recommended by Tim Ferris in his book <span><a title="url: https://amzn.to/3f4KywV" class="rm-alias rm-alias-external" href="https://amzn.to/3f4KywV">The 4-Hour Body</a></span>.</span></td></tr><tr><td><span><span><a title="url: https://www.cosmed.com/en/products/body-composition/bod-pod" class="rm-alias rm-alias-external" href="https://www.cosmed.com/en/products/body-composition/bod-pod">BodPod</a></span></span></td><td><span>~$50</span></td><td><span>Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes</span></td></tr><tr><td><span><span><a title="url: https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry" class="rm-alias rm-alias-external" href="https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry">DEXA</a></span> scan</span></td><td><span>~$50 and up</span></td><td><span>Most accurate.
+<table><tbody><tr></tr><tr><td><span><strong><span>Method</span></strong></span></td><td><span><strong><span>Price</span></strong></span></td><td><span><strong><span>Notes</span></strong></span></td></tr><tr><td><span>guess</span></td><td><span>$0</span></td><td><span>Completely inaccurate.</span></td></tr><tr><td><span><span><a title="url: https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html" class="rm-alias rm-alias-external" href="https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html">use images</a></td><td><span>$0</span></td><td><span>Variable accuracy depending on visceral fat and fat distribution.
+The link sends you to a pretty cool website which helps with this.</span></td></tr><tr><td><span>use <span><a title="url: https://amzn.to/32QO4J3" class="rm-alias rm-alias-external" href="https://amzn.to/32QO4J3">calipers</a></td><td><span>~$13</span></td><td><span>May be inaccurate for amateurs and requires familiarizing yourself with the technique.</span></td></tr><tr><td><span>measure neck, waist, and hip circumference with a <span><a title="url: https://amzn.to/3jCIZtH" class="rm-alias rm-alias-external" href="https://amzn.to/3jCIZtH">tape measure</a></span> and then use this <span><a title="url: https://www.calculator.net/body-fat-calculator.html" class="rm-alias rm-alias-external" href="https://www.calculator.net/body-fat-calculator.html">calculator</a></td><td><span>~$14</span></td><td><span>Variable accuracy.</span></td></tr><tr><td><span><span><a title="url: https://amzn.to/39qvvg7" class="rm-alias rm-alias-external" href="https://amzn.to/39qvvg7">impedence scale</a></span> </span></td><td><span>~$45</span></td><td><span>This scale was recommended by Tim Ferris in his book <span><a title="url: https://amzn.to/3f4KywV" class="rm-alias rm-alias-external" href="https://amzn.to/3f4KywV">The 4-Hour Body</a></span>.</span></td></tr><tr><td><span><span><a title="url: https://www.cosmed.com/en/products/body-composition/bod-pod" class="rm-alias rm-alias-external" href="https://www.cosmed.com/en/products/body-composition/bod-pod">BodPod</a></span></span></td><td><span>~$50</span></td><td><span>Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes</span></td></tr><tr><td><span><span><a title="url: https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry" class="rm-alias rm-alias-external" href="https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry">DEXA</a></span> scan</span></td><td><span>~$50 and up</span></td><td><span>Most accurate.
 Might require a physician's order.
 Will tell you bone mineral density and body composition of individual body parts</span></td></tr></tbody></table>
 
-Will tell you bone mineral density and body composition of individual body parts
-    - Method Number 1: Use the profile and ketogenic calculator in Cronometer. (Don't panic - it's designed for a ketogenic diet, but it can be used for any diet)
-        1. I use this method because it's the easiest and most accurate individualized method that I'm aware of.
-        2. Navigate to the website [Cronometer.com](https://cronometer.com/). It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app.
-        3. Enter your sex, weight, height, and body fat % into Cronometer.
-            1. Make sure the BMR is calculated.
-            2. Select an activity level.
-                1. Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
-            3. Here's what you should see (with your own data):
-                1. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
-        4. Next, go to the "Targets" tab, which is at the top of the screen next to "Profile."
-            1. For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"
-            2. For "Set macro targets using" select "Ketogenic Calculator"
-                1. Yes, do this even if you have no interest in a ketogenic diet.
-        5. Now you'll see a box that says "Your Keto Calculator"
-            1. Here's what you should see at this point ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
-            2. Make the selections seen in the image (or whatever you'd like to choose).
-                1. For "Select your Keto program..." choose "Custom"
-                2. For "Grams of protein per kg of lean body mass", a good starting point is 1.5 for an active individual who exercises on a daily basis.
-                3. This last box, Grams of non-fiber carbohydrates per day is the big decision.
-                    1. Personally, I aim for 50 grams daily with the athletic bonus toggle turned on.
-                    2. For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even __some__ bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For larger than average individuals, athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or even 300 grams per day.
-                    3. For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
-                    4. For a rough idea of what you can eat with a daily allowance of 100 grams of carbohydrate:
-                        1. You could have all of these foods in the following amounts:
-                            1. 1/2 cup of white rice
-                            2. 1 cup of blueberries
-                            3. 1/4 cup of ice cream
-                            4. 3 6-inch long carrots
-                            5. A large tomato (3 inch diameter)
-                            6. 1/2 cup of pecans
-                            7. 1 large red bell pepper
-                            8. 1.5 cups of broccoli
-                            9. 2 tbsp of half and half
-                            10. 1/2 cup of whole milk yogurt
-                            11. 1/2 of a sweet potato (5 inches long and 2 inches wide)
-                        2. Or:
-                            1. 13 heads of romaine lettuce (626 g in weight each)
-                        3. Or:
-                            1. 3 snickers bars
-                        4. Or:
-                            1. 2.5 bags of potato chips ("grab bag" size)
-                        5. Or:
-                            1. 4 bananas
-                        6. Or:
-                            1. 2 cups of Ben & Jerry's Chocolate Chip Cookie Dough
-                        7. Or:
-                            1. 2 cups of granola
-                        8. Or:
-                            1. 5 slices of store bought white bread
-                        9. Or:
-                            1. 6 slices of whole wheat bread (homemade/bakery)
-                    5. With these parameters set, Cronometer will automatically calculate your macronutrient targets.
-        6. To see your calculated macronutrient targets, go to the "Diary."
-            1. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FkigscS0Vw6.png?alt=media&token=63f850af-c909-47d5-874a-3cb839b4a614)
-            2. See those wheels and bars at the bottom of the screen; let's zoom in:
-                1. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2F0p8iakb7aS.png?alt=media&token=9e5f4878-ec1e-44ae-9024-895c49d53b78)
-                2. If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
-                    1. Here are my personal macronutrient requirements:
-                        1. Protein 90 g
-                        2. Net Carbs 50 g
-                        3. Fat 177.8 g
-                    2. On the particular day in the image I consumed more protein than needed, hit my carb target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned.
-            3. That's it, you now have targets for your daily macronutrient intake.
-    - Method Number 2: Calculate your macronutrient requirements manually.
+
+## Macro Calculation Method Number 1: Cronometer.com
+
+**Use the profile settings and ketogenic calculator in Cronometer. (Don't panic - it's designed for a ketogenic diet, but it can be used for any diet)**
+
+I use this method because it's the easiest and most accurate individualized method that I'm aware of.
+
+**Steps:**
+
+1. Navigate to the website [Cronometer.com](https://cronometer.com/).
+
+    > It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
+
+2. Enter your sex, weight, height, and body fat % into Cronometer.
+   > Make sure the BMR is calculated.
+   
+3. Select an activity level. 
+   
+   > Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
+
+    Here's the screen you should see (with your own data):
+    ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
+
+4. Next, go to the "Targets" tab, which is at the top of the screen next to "Profile."
+   
+   > For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"<br><br>For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
+   
+   Now you'll see a box that says "Your Keto Calculator.
+   
+   Here's the screen you should see at this point. Yours may or may not have the exact same selections. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
+   
+   >For "Select your Keto program..." choose "Custom"<br><br>For "Grams of protein per kg of lean body mass", a good starting point is 1.5 for an active individual who exercises on a daily basis.<br><br>This last box, Grams of non-fiber carbohydrates per day is the big decision.
+   
+   Personally, I aim for 50 grams daily with the athletic bonus toggle turned on.
+
+   #### Carbohydrate Requirements
+   
+    > For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.<br><br>For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+    
+#### Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:
+     
+    You could have all of these foods in the following amounts:
+         - 1/2 cup of white rice
+         - 1 cup of blueberries
+         - 1/4 cup of ice cream
+         - 3 6-inch long carrots
+         - A large tomato (3 inch diameter)
+         - 1/2 cup of pecans
+         - 1 large red bell pepper
+         - 1.5 cups of broccoli
+         - 2 tbsp of half and half
+         -  1/2 cup of whole milk yogurt
+         - 1/2 of a sweet potato (5x2 inches)
+     Or:
+         - 13 heads of romaine lettuce
+           - (626 g in weight each)
+     Or:
+         - 3 snickers bars
+     Or:
+         - 2.5 bags of potato chips
+           - ("grab bag" size)
+     Or:
+         - 4 bananas
+     Or:
+         - 2 cups of Ben & Jerry's
+           - Chocolate Chip Cookie Dough
+     Or:
+         - 2 cups of granola
+     Or:
+         - 5 slices of store bought white bread
+     Or:
+         - 6 slices of whole wheat bread
+           - (homemade/bakery)
+
+With these parameters set, Cronometer will automatically calculate your macronutrient targets.
+   
+1.  To see your calculated macronutrient targets, go to the "Diary."
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FkigscS0Vw6.png?alt=media&token=63f850af-c909-47d5-874a-3cb839b4a614)
+
+2. Let's zoom in on the gauges:
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2F0p8iakb7aS.png?alt=media&token=9e5f4878-ec1e-44ae-9024-895c49d53b78)
+
+    If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
+    
+    >Here are my personal macronutrient requirements from the image above: <br><br>Protein 90 g<br><br>Net Carbs 50 g<br><br>Fat 177.8 g<br><br>**Note**: on the particular day in the image I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
+    
+    That's it, you now have targets for your daily macronutrient intake.
+    
+## Method Number 2: Calculate your macronutrient requirements manually.
         1. This process is the same as above, but you'll have to do some of the calculations on your own.
         2. Repeat step 2 above "Measure your height in feet and inches, or cm."
         3. Calculate your TDEE (total daily energy expenditure)
@@ -215,18 +239,18 @@ Will tell you bone mineral density and body composition of individual body parts
             3. Carbohydrate requirement: 100 grams, which is 400 calories
             4. Fat requirement: 167.5 grams, which is 1508 calories
 - Conclusion:
-    - Now that we have these macronutrient requirements calculated, what are we going to do with them?
-    - Test them out. I recommend using [Cronometer.com](https://cronometer.com/) to track your diet for short periods of time to check that you're on the path you want to be on.
-    - Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
-    - While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkin's, "low-carb high-fat," "keto," and so on and so forth.
-    - Overall, this is another tool that you can use to gain control over your nutrition.
-    - And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, this is the easy part. The hard part is consistently eating with purpose every day.
+## Now that we have these macronutrient requirements calculated, what are we going to do with them?
+## Test them out. I recommend using [Cronometer.com](https://cronometer.com/) to track your diet for short periods of time to check that you're on the path you want to be on.
+## Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
+## While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkin's, "low-carb high-fat," "keto," and so on and so forth.
+## Overall, this is another tool that you can use to gain control over your nutrition.
+## And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, this is the easy part. The hard part is consistently eating with purpose every day.
 - Other people have written informatively on this topic. Here are some resources I read in researching for this post:
-    - “Protein requirements in humans | The American Journal of Clinical Nutrition | Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
-    - A. L. Merrill and B. K. Watt, __Energy Value of Foods: Basis and Derivation,__. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
-    - M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” __Journal of Applied Physiology__, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
-    - [“How do you determine if you’re getting enough protein? | Masterjohn Q&A Files #18,”](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) __Chris Masterjohn, PhD__, Dec. 03, 2019. 
-    - [“How to Calculate Macronutrient Ratios that Work for You,”](https://chriskresser.com/how-to-calculate-macronutrient-ratios-that-work-for-you/) __Chris Kresser__, Aug. 23, 2019.
-    - [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), __Mark Sisson__
-    - C. K. Martin __et al.__, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” __Obesity__, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
-    - Others: [My Research Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/QD9GP58F)
+## “Protein requirements in humans | The American Journal of Clinical Nutrition | Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
+## A. L. Merrill and B. K. Watt, __Energy Value of Foods: Basis and Derivation,__. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
+## M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” __Journal of Applied Physiology__, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
+## [“How do you determine if you’re getting enough protein? | Masterjohn Q&A Files #18,”](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) __Chris Masterjohn, PhD__, Dec. 03, 2019. 
+## [“How to Calculate Macronutrient Ratios that Work for You,”](https://chriskresser.com/how-to-calculate-macronutrient-ratios-that-work-for-you/) __Chris Kresser__, Aug. 23, 2019.
+## [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), __Mark Sisson__
+## C. K. Martin __et al.__, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” __Obesity__, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
+## Others: [My Research Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/QD9GP58F)
