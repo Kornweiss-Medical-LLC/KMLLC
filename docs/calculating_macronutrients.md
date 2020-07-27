@@ -107,43 +107,47 @@ Might require a physician's order.
 Will tell you bone mineral density and body composition of individual body parts</span></td></tr></tbody></table>
 
 
-## Macro Calculation Method Number 1: Cronometer.com
+## Method Number 1: Cronometer.com
 
 **Use the profile settings and ketogenic calculator in Cronometer. (Don't panic - it's designed for a ketogenic diet, but it can be used for any diet)**
 
 I use this method because it's the easiest and most accurate individualized method that I'm aware of.
 
-**Steps:**
+### Navigate to the website [Cronometer.com](https://cronometer.com/)
 
-1. Navigate to the website [Cronometer.com](https://cronometer.com/).
+>It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
 
-    > It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
+### Enter your sex, weight, height, and body fat % into Cronometer.
+> Make sure the BMR is calculated.
+   
+### Select an activity level. 
+> Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
 
-2. Enter your sex, weight, height, and body fat % into Cronometer.
-   > Make sure the BMR is calculated.
-   
-3. Select an activity level. 
-   
-   > Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
+**Here's the screen you should see (with your own data):**
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
 
-    Here's the screen you should see (with your own data):
-    ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
+### Choose your Protein and Carbohydrate Requirements
 
-4. Next, go to the "Targets" tab, which is at the top of the screen next to "Profile."
+Go to the "Targets" tab, which is at the top of the screen next to "Profile."
    
-   > For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"<br><br>For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
+For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"<br><br>For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
    
-   Now you'll see a box that says "Your Keto Calculator.
+Now you'll see a box that says "Your Keto Calculator.
    
-   Here's the screen you should see at this point. Yours may or may not have the exact same selections. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
+Here's the screen you should see at this point. Yours may or may not have the exact same selections. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
    
-   >For "Select your Keto program..." choose "Custom"<br><br>For "Grams of protein per kg of lean body mass", a good starting point is 1.5 for an active individual who exercises on a daily basis.<br><br>This last box, Grams of non-fiber carbohydrates per day is the big decision.
-   
-   Personally, I aim for 50 grams daily with the athletic bonus toggle turned on.
+Make the following selections:
+- Custom
+- 1-1.5 g/kg/lean body mass/day
+  >A good starting point 1.5 for an active individual who exercises on a daily basis is 1.5 g/kg/lean body mass
+- 50-100 grams
+  >This number, grams of non-fiber carbohydrates per day is the big decision. Based on this number, the calculator will determine your fat requirement based on your remaining energy intake that was not satisfied by protein and carbohydrate.
+  
+  "Optimal" carbohydrate intake is a conroversial topic, but here is a simplified explanation of my approach.
 
-   #### Carbohydrate Requirements
+#### Carbohydrate Requirements
    
-    > For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.<br><br>For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+> For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.<br><br>For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
     
 #### Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:
      
@@ -181,76 +185,140 @@ I use this method because it's the easiest and most accurate individualized meth
            - (homemade/bakery)
 
 With these parameters set, Cronometer will automatically calculate your macronutrient targets.
+
+### View your Calculated Macronutrient Requirements
    
-1.  To see your calculated macronutrient targets, go to the "Diary."
+To see your calculated macronutrient targets, go to the "Diary."
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FkigscS0Vw6.png?alt=media&token=63f850af-c909-47d5-874a-3cb839b4a614)
 
-2. Let's zoom in on the gauges:
+Let's zoom in on the gauges:
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2F0p8iakb7aS.png?alt=media&token=9e5f4878-ec1e-44ae-9024-895c49d53b78)
 
-    If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
+If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
     
-    >Here are my personal macronutrient requirements from the image above: <br><br>Protein 90 g<br><br>Net Carbs 50 g<br><br>Fat 177.8 g<br><br>**Note**: on the particular day in the image I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
+>Here are my personal macronutrient requirements from the image above: <br><br>Protein 90 g<br><br>Net Carbs 50 g<br><br>Fat 177.8 g<br><br>**Note**: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
     
-    That's it, you now have targets for your daily macronutrient intake.
+That's it, you now have targets for your daily macronutrient intake.
+If you chose this method, there's no great reason to read on unless further discussion of how this calculation can be done manually is of interest to you.
     
 ## Method Number 2: Calculate your macronutrient requirements manually.
-        1. This process is the same as above, but you'll have to do some of the calculations on your own.
-        2. Repeat step 2 above "Measure your height in feet and inches, or cm."
-        3. Calculate your TDEE (total daily energy expenditure)
-            1. [Use this calculator](https://www.calculator.net/tdee-calculator.html)
-                1. Expand the "+Settings" and select:
-                    1. Katch-McArdle and enter your body fat %
-                2. Example:
-                    1. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FwMXwOnWLw4.png?alt=media&token=3a6efd23-c51b-4351-9e93-b1e76fc5ba55)
-        4. Calculate your Lean Body Mass
-            1. Do it manually (Recommended)
-                1. [Convert your weight to Kg](https://www.google.com/search?q=lbs+to+kg&oq=lbs+to+kg&aqs=chrome..69i57j0l7.858j0j4&sourceid=chrome&ie=UTF-8)
-                2. Lean body mass = weight in kg * (1 - body fat %)
-            2. OR [Use this calculator](https://www.calculator.net/lean-body-mass-calculator.html?ctype=standard&csex=m&cage=n&cheightfeet=5&cheightinch=5&cpound=158&cheightmeter=180&ckg=60&x=93&y=24)
-                1. If you navigate to the link above, it'll start out populated with my personal data. You can see the system is calculating my body fat % at 24-30 depending on the equation used. I know that this is factually inaccurate by at least 10%. This is why I recommend measuring body fat % using one of the above methods, and then calculating lean body mass based on that number.
-        5. Calculate protein requirement
-            1. Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass 
-                1. Example for a lean body mass of 70 kg
-                    1. "Protein: 1.5 g/kg/day * 70 kg * 1 day = 98 grams of protein"
-                        1. "98 grams * 4 calories / gram = 392 calories from protein"
-                            1. [This is how we know](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Classics/ah74.pdf) the energy content of different foods and macronutrients.
-        6. Determine remaining energy requirements after protein intake.
-            1. TDEEE - Calories from protein = Remaining Energy Needs
-                1. Example:
-                    1. TDEE = 2300 kcal - 392 kcal from protein = 1908 remaining kcal
-        7. Choose a daily carbohydrate intake
-            1. See above: "For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even __some__ bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For larger than average individuals, athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or even 300 grams per day."
-        8. Calculate amount of energy from carbohydate:
-            1. Example: Let's say we selected 100 grams of carbohydate in the prior step.
-                1. Carbohydrate has 4 kcal of energy per gram on average
-                2. 4 kcal/g * 100 grams of carbohydrate = 400 kcal
-        9. Subtract energy from carbohydrate from remaining daily energy requirement
-            1. Example:
-                1. TDEE = 2300 kcal - 392 kcal from protein - 400 kcal from carbohydrate = 1508 kcal
-        10. Calculate amount of fat required to meet the remainder of daily energy requirements:
-            1. Example:
-                1. Remaining energy requirements = 1508 kcal
-                2. Amount of energy in fat is 9 kcal/g 
-                3. 1508 kcal / 9 kcal/g = 167.5 grams of fat
-        11. Review the results - we have made the following determinations:
-            1. Total daily energy expenditure: 2300 kcal
-            2. Protein requirement: 98 grams, which is 392 calories
-            3. Carbohydrate requirement: 100 grams, which is 400 calories
-            4. Fat requirement: 167.5 grams, which is 1508 calories
-- Conclusion:
-## Now that we have these macronutrient requirements calculated, what are we going to do with them?
-## Test them out. I recommend using [Cronometer.com](https://cronometer.com/) to track your diet for short periods of time to check that you're on the path you want to be on.
-## Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
-## While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkin's, "low-carb high-fat," "keto," and so on and so forth.
-## Overall, this is another tool that you can use to gain control over your nutrition.
-## And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, this is the easy part. The hard part is consistently eating with purpose every day.
-- Other people have written informatively on this topic. Here are some resources I read in researching for this post:
-## “Protein requirements in humans | The American Journal of Clinical Nutrition | Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
-## A. L. Merrill and B. K. Watt, __Energy Value of Foods: Basis and Derivation,__. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
-## M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” __Journal of Applied Physiology__, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
-## [“How do you determine if you’re getting enough protein? | Masterjohn Q&A Files #18,”](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) __Chris Masterjohn, PhD__, Dec. 03, 2019. 
-## [“How to Calculate Macronutrient Ratios that Work for You,”](https://chriskresser.com/how-to-calculate-macronutrient-ratios-that-work-for-you/) __Chris Kresser__, Aug. 23, 2019.
-## [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), __Mark Sisson__
-## C. K. Martin __et al.__, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” __Obesity__, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
-## Others: [My Research Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/QD9GP58F)
+
+This process is the same as above, but you'll have to do some multiplication and subtraction on your own.
+
+Repeat step 2 above "Measure your height in feet and inches, or cm."
+
+### Calculate your TDEE (total daily energy expenditure)
+
+>[Use this calculator](https://www.calculator.net/tdee-calculator.html)
+   <br>Expand the "+Settings" and select:
+   <br>Katch-McArdle and enter your body fat %
+   
+Example:
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FwMXwOnWLw4.png?alt=media&token=3a6efd23-c51b-4351-9e93-b1e76fc5ba55)
+   
+### Calculate your Lean Body Mass
+
+Do it manually (Recommended)   
+>[Convert your weight to Kg](https://www.google.com/search?q=lbs+to+kg&oq=lbs+to+kg&aqs=chrome..69i57j0l7.858j0j4&sourceid=chrome&ie=UTF-8)
+    <br>Lean body mass = weight in kg * (1 - body fat %)
+
+OR [Use this calculator](https://www.calculator.net/lean-body-mass-calculator.html?ctype=standard&csex=m&cage=n&cheightfeet=5&cheightinch=5&cpound=158&cheightmeter=180&ckg=60&x=93&y=24)
+
+>If you navigate to the link above, it'll start out populated with my personal data. You can see the system is calculating my body fat % at 24-30 depending on the equation used. I know that this is factually inaccurate by at least 10%. This is why I recommend measuring body fat % using one of the above methods, and then calculating lean body mass based on that number.
+
+### Calculate Energy Obtained from Protein
+   
+   Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass.
+
+   > We'll need to know the average energy content of each macronutrient. Protein contains 4 kcal (calories) per gram, carbohydrates 4 kcal/g, and Fat 9 kcal/g. Those numbers come from [here](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Classics/ah74.pdf).
+
+**Example for a lean body mass of 70 kg at a dose of 1.5 g/kg/day**
+>The dose of protein was discussed a bit above in [method 1](#choose-your-protein-and-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020)
+
+```
+1.5 g of protein/kg/day * 70 kg * 1 day
+= 98 grams of protein
+
+98 grams * 4 calories / gram
+= 392 calories from protein
+```
+
+### Determine Remaining Energy Requirements
+
+TDEEE - Calories from protein = Remaining Energy Needs
+
+**Example:**
+```
+TDEE = 2300 kcal
+- 392 kcal from protein
+= 1908 remaining kcal
+```
+
+### Choose a Daily Carbohydrate Intake
+
+>The dose of carbohydrate was discussed above in [method 1](#carbohydrate-requirements).
+
+### Calculate Energy Obtained from Carbohydrate
+
+Example: Based on 100 grams of carbohydate daily.
+>Carbohydrate has 4 kcal of energy per gram on average
+```
+4 kcal/g * 100 grams of carbohydrate
+= 400 kcal
+```
+
+### Calculate Remaining Energy Requirements
+
+Subtract energy from carbohydrate from remaining daily energy requirement
+
+**Example:**
+
+```
+TDEE = 2300 kcal
+- 392 kcal from protein
+- 400 kcal from carbohydrate
+= 1508 kcal
+
+### Calculate Fat Requirement
+
+**Example:**
+```
+Remaining energy requirements = 1508 kcal
+Amount of energy in fat is 9 kcal/g 
+1508 kcal / 9 kcal/g
+= 167.5 grams of fat
+
+### Review the results - we have made the following determinations:
+   1. Total daily energy expenditure: 2300 kcal
+   2. Protein requirement: 98 grams, which is 392 calories
+   3. Carbohydrate requirement: 100 grams, which is 400 calories
+   4. Fat requirement: 167.5 grams, which is 1508 calories
+
+## What to Do Once You've Calculated Your Macronutrient Requirements
+
+Now that we have these macronutrient requirements calculated, what are we going to do with them?
+
+Test them out.
+
+I recommend using [Cronometer.com](https://cronometer.com/) to track your diet for short periods of time to check that you're on the path you want to be on.
+
+Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
+
+While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkin's, "low-carb high-fat," "keto," and so on and so forth.
+
+Overall, this is another tool that you can use to gain control over your nutrition.
+
+And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, this is the easy part. The hard part is consistently eating with purpose every day.
+
+Other people have written informatively on this topic. Here are some resources I read in researching for this post.
+
+## References
+
+- “Protein requirements in humans | The American Journal of Clinical Nutrition | Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
+- A. L. Merrill and B. K. Watt, *Energy Value of Foods: Basis and Derivation,***. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
+- M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” *Journal of Applied Physiology*, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
+- [“How do you determine if you’re getting enough protein? | Masterjohn Q&A Files #18,”](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) *Chris Masterjohn, PhD*, Dec. 03, 2019. 
+- [“How to Calculate Macronutrient Ratios that Work for You,”](https://chriskresser.com/how-to-calculate-macronutrient-ratios-that-work-for-you/) *Chris Kresser*, Aug. 23, 2019.
+- [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), *Mark Sisson*
+- C. K. Martin *et al.*, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” *Obesity*, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
+- Others: [My Research Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/QD9GP58F)
