@@ -34,7 +34,7 @@ Two Ways to Calculate Your Macronutrient Ratios for a Quantified and Modifiable 
 <!-- insert body of document -->
 ## Introduction
 
-If you want to read a little bit about nutrition and biochemistry, learn what macronutrients are, and find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read on. If you just want to see how to calculate your macronutrient requirements, [skip ahead to calculating macros.](#calculating-macronutrient-requirements)
+If you want to read about nutrition, biochemistry, macronutrients, and you want to find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read this introduction. If you just want to see how to calculate your macronutrient requirements, [skip ahead](#calculating-macronutrient-requirements).
 
 ---
 
