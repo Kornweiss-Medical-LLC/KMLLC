@@ -122,9 +122,9 @@ People differ from one another in lean body mass, activity level, ability to abs
 ## Calculating Macronutrient Requirements
 Now that we've discussed macronutrients and the reasons for calculating them, here are two ways to do it. 
 
-The first method is to use a nutrition tracking app called Cronometer. The second method is to perform the calculations manually. 
+The first method is to use a nutrition tracking app called Cronometer(https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). The second method is to perform the calculations manually. 
 
-I prefer the first method, which is to use the calculators built into [Cronometer.com](https://cronometer.com/). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
+I prefer the first method, which is to use the calculators built into [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
 
 ### Information You Need
 Before you perform either method, you'll need to know 3 things:
@@ -159,9 +159,13 @@ This is the hardest number to obtain accurately. You can obtain your [estimated 
 
 I use this method because it's the easiest and most accurate individualized method that I'm aware of.
 
-### Navigate to the website [Cronometer.com](https://cronometer.com/)
+### Navigate to the website [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=) and create an account if you don't already have one.
 
->It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
+>***Disclosure:*** The link above is an affiliate link and I will get a small commission (very small) if you create an account using the link above. If you prefer to sign up without giving me a commission, then just click this link ([https://cronometer.com](https://cronometer.com)) instead or navigate to the same address.
+
+OR - use the mobile app.
+
+>If you use the mobile app, just know that my screenshots of Cronometer are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there. They are very similar.
 
 ### Enter your sex, weight, height, and body fat % into Cronometer.
 
