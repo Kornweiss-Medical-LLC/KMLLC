@@ -23,7 +23,7 @@ Two Ways to Calculate Your Macronutrient Ratios for a Quantified and Modifiable 
 <!-- insert table of contents -->
 - [Introduction](#introduction)
 - [Why Calculate Macronutrient Requirements?](#why-calculate-macronutrient-requirements)
-- [*Specific* Nutritional Requirements are Not Necessarily Generalizable Across People or Within the Same Person Across Time](#specific-nutritional-requirements-are-not-necessarily-generalizable-across-people-or-within-the-same-person-across-time)
+- [*Specific* Nutritional Requirements are for Individuals](#specific-nutritional-requirements-are-for-individuals)
 - [Calculating Macronutrient Requirements](#calculating-macronutrient-requirements)
 - [Method Number 1: Cronometer.com](#method-number-1-cronometercom)
 - [Method Number 2: Manual](#method-number-2-manual)
@@ -88,7 +88,7 @@ You might be asking, why don't we just calculate total energy needs then? What r
 ## Why Calculate Macronutrient Requirements?
 
 ### Reason #1
-We have [separate (though overlapping) pathways](http://biochemical-pathways.com/#/map/1) for absorbing, processing, storing, and utilizing each macronutrient, and thus different requirements for each.
+We have [separate (though overlapping) pathways](http://biochemical-pathways.com/#/map/1) for absorbing, processing, storing, and utilizing each macronutrient, and thus, different requirements for each.
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FXHZMNJh8jK.svg?alt=media&token=9843416a-3134-46a7-a7ab-9c7b15b4f314) By <a href="//commons.wikimedia.org/wiki/User:Chakazul" title="User:Chakazul">Chakazul</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49095520">Link</a>
 
@@ -111,8 +111,11 @@ Foods that predominate in each macronutrient class tend to be more or less dense
 
 For example, foods that are mostly made out of fat, such as butter and oil are often relatively poor in most vitamins and minerals, but can be rich in fat soluble vitamins like D and E. Dairy, which, depending on processing, can be either high or low fat, is rich in calcium. Most foods that are mostly carbohydrate are poor in fat soluble vitamins and calcium, but may be rich in other nutrients. Starchy vegetables like potatoes, for example, are rich in magnesium and potassium, which are hard to find in most foods that are primarily fat. There are exceptions, like liver, for example, which is high in fat and rich in vitamins and minerals. Foods that are predominantly protein like chicken breast are rich in vitamin B3, B6, and choline, but relatively poor in most other micronutrients.
 
-## *Specific* Nutritional Requirements are Not Necessarily Generalizable Across People or Within the Same Person Across Time
-Before diving into the calculations, I want to say that I think it's important to calculate macronutrients on an individual basis, and repeatedly over time. People differ from one another in lean body mass, activity level, personal preferences, and food tolerance. The macronutrient amounts and ratios that work for one person may not work for another. Just because my protein intake is 100 grams daily, doesn't mean that will work for someone else or that it will work for me in 3 months from now. Avoiding dietary dogma is another discussion entirely. The best writing I've seen on the topic is by [Chris Masterjohn, PhD](https://chrismasterjohnphd.com/) in his article ["Against Dietary Dogmatism."](https://chrismasterjohnphd.com/blog/2011/08/17/against-dietary-dogmatis).
+## *Specific* Nutritional Requirements are for Individuals
+
+Specific nutritional requirements are not necessarily generalizable across people or within the same person across time. It's true that there are are general requirements that apply to almost all people, but specific requirements can be significantly different.
+
+People differ from one another in lean body mass, activity level, ability to absorb certain nutrients, ability to tolerate certain foods, not to mention personal preferences. The macronutrient amounts and ratios that work for one person may not work for another. Just because my protein intake is 100 grams daily, doesn't mean that will work for someone else or that it will work for me in 3 months from now. Avoiding dietary dogma is important. The best writing I've seen on the topic is by [Chris Masterjohn, PhD](https://chrismasterjohnphd.com/) in his article ["Against Dietary Dogmatism."](https://chrismasterjohnphd.com/blog/2011/08/17/against-dietary-dogmatis).
 
 ## Calculating Macronutrient Requirements
 Now that we've discussed macronutrients and the reasons for calculating them, here are two ways to do it. 
