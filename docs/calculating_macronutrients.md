@@ -48,7 +48,7 @@ The useful substances that we absorb when eating food, at base, are elements and
 
 There are a multitude of nutrients; too many to know and understand, even for the professional biochemist. So, in order to make use of expert knowledge of nutrition and biochemistry, we need simple but accurate categories of nutrients that we can apply to our individual diets.
 
-One of the most useful methods of categorizing our food is by its energy content and type. There are three major classes of biomolecules that contribute to the energy content of our food. These three classes are fat, protein, and carbohydrate. In nutrition, these 3 classes of biomolecules are commonly referred to as *the* [macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients) because they are the three most abundant classes of biomolecules in our diet. There are other macronutrients, and there are also "micronutrients," discussion of which is out of the scope of this article.
+One of the most useful methods of categorizing our food is by its energy content and type. There are three major classes of biomolecules that contribute to the energy content of our food. These three classes are fat, protein, and carbohydrate. In nutrition, these 3 classes of biomolecules are commonly referred to as *the* [macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients) because they are the three most abundant classes of biomolecules in our diet. There are other macronutrients, and there are also "micronutrients," the discussion of which is out of the scope of this article.
 
 All nutrients, macro, micro, and otherwise, are important because they each support one or more of the 3 needs of a living human: the structural elements, the functional moving parts, and the fuel.
 
@@ -133,13 +133,13 @@ Before you perform either method, you'll need to know 3 things:
 3. Your % body fat.
 
 #### Body Weight
-Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedence scale](https://amzn.to/39qvvg7)" which will also allow you to measure % body fat.
+Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedance scale](https://amzn.to/39qvvg7)" which will also allow you to measure % body fat.
 
 #### Height
 Measure your height in feet and inches, or cm.
   
 #### Your Body Fat % 
-This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7)".
+This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedance scale](https://amzn.to/39qvvg7)".
 
 **Methods of Measuring % Body Fat**
 
@@ -149,7 +149,7 @@ This is the hardest number to obtain accurately. You can obtain your [estimated 
 | use images. | $0 | Variable accuracy depending on visceral fat and fat distribution. The link sends you to a pretty cool website which helps with this. |
 | use calipers. | ~$13 | May be inaccurate for amateurs and requires familiarizing yourself with the technique. |
 | measure neck, waist, and hip circumference with a tape measure and then use this calculator. | ~$14 | Variable accuracy. |
-| impedence scale  | ~$45 | This scale was recommended by Tim Ferris in his book The 4-Hour Body. |
+| impedance scale  | ~$45 | This scale was recommended by Tim Ferris in his book The 4-Hour Body. |
 | BodPod | ~$50 | Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes |
 | DEXA scan | ~$50 and up | Most accurate. Might require a physician's order. Will tell you bone mineral density and body composition of individual body parts |
 
@@ -196,11 +196,11 @@ Make the following selections:
 
 #### A Word on Carbohydrate Requirements
 
-"Optimal" carbohydrate intake is currently a very conroversial topic, but here is a brief discussion of thoughts at the time of this article's original publication.
+"Optimal" carbohydrate intake is currently a very controversial topic, but here is a brief discussion of thoughts at the time of this article's original publication.
    
 For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
 
-For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+For people with very high activity levels - like endurance athletes, CrossFit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
     
 #### Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:
      
@@ -302,7 +302,7 @@ OR [Use this calculator](https://www.calculator.net/lean-body-mass-calculator.ht
 
 ### Determine Remaining Energy Requirements
 
-TDEEE - Calories from protein = Remaining Energy Needs
+TDEE - Calories from protein = Remaining Energy Needs
 
 **Example:**
 ```
@@ -317,7 +317,7 @@ TDEE = 2300 kcal
 
 ### Calculate Energy Obtained from Carbohydrate
 
-Example: Based on 100 grams of carbohydate daily.
+Example: Based on 100 grams of carbohydrate daily.
 >Carbohydrate has 4 kcal of energy per gram on average
 
 ```
