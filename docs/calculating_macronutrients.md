@@ -90,7 +90,9 @@ You might be asking, why don't we just calculate total energy needs then? What r
 ### Reason #1
 We have [separate (though overlapping) pathways](http://biochemical-pathways.com/#/map/1) for absorbing, processing, storing, and utilizing each macronutrient, and thus, different requirements for each.
 
-![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FXHZMNJh8jK.svg?alt=media&token=9843416a-3134-46a7-a7ab-9c7b15b4f314) By <a href="//commons.wikimedia.org/wiki/User:Chakazul" title="User:Chakazul">Chakazul</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49095520">Link</a>
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FXHZMNJh8jK.svg?alt=media&token=9843416a-3134-46a7-a7ab-9c7b15b4f314) 
+
+By [Chakazul](commons.wikimedia.org/wiki/User:Chakazul) - Own work, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Link](https://commons.wikimedia.org/w/index.php?curid=49095520)
 
 #### Carbohydrates
 For example, after being eaten, carbohydrates are broken down into sugars in the small bowel ([Holmes 1971](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1176254/)). These sugars are then directly absorbed across the bowel wall into the bloodstream, and can be immediately delivered and used by almost any cell of any organ. Excess carbohydrates are taken up by different cell types such as liver and muscle and stored as a conglomerate of sugar molecules, called glycogen. Excess sugar can also be stored in fat cells through a process called [de novo lipogenesis](https://bit.ly/3g5vO2j) which actually creates fatty acids by stringing together carbon molecules from sugar.
