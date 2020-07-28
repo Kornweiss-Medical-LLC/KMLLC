@@ -3,9 +3,9 @@
 
 *![](../images/kmllc-icon-black.png)*
 
-      Kornweiss Medical LLC
-      Author: Steven Kornweiss, MD
-      Date:
+>Kornweiss Medical LLC  
+Author: Steven Kornweiss, MD  
+Date: July 27, 2020
       
    <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
 
