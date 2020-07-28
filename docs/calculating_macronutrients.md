@@ -177,22 +177,24 @@ I use this method because it's the easiest and most accurate individualized meth
 
 Go to the "Targets" tab, which is at the top of the screen next to "Profile."
    
-For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"<br><br>For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
+For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"
+
+For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
    
-Now you'll see a box that says "Your Keto Calculator.
+Now you'll see a box that says "Your Keto Calculator."
    
 Here's the screen you should see at this point. Yours may or may not have the exact same selections. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
    
 Make the following selections:
-- Custom
-- 1-1.5 g/kg/lean body mass/day
-  >A good starting point 1.5 for an active individual who exercises on a daily basis is 1.5 g/kg/lean body mass
-- 50-100 grams
+- Ketogenic calculator: Custom
+- Protein: 1-1.5 g/kg/lean body mass/day
+  >A good starting point for an active individual who exercises on a daily basis is 1.5 g/kg/lean body mass
+- Carbohydrate: 50-100 grams
   >This number, grams of non-fiber carbohydrates per day is the big decision. Based on this number, the calculator will determine your fat requirement based on your remaining energy intake that was not satisfied by protein and carbohydrate.
-  
-  "Optimal" carbohydrate intake is a conroversial topic, but here is a simplified explanation of my approach.
 
-#### Carbohydrate Requirements
+#### A Word on Carbohydrate Requirements
+
+"Optimal" carbohydrate intake is currently a very conroversial topic, but here is a brief discussion of thoughts at the time of this article's original publication.
    
 For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
 
