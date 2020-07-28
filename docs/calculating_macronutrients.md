@@ -40,15 +40,17 @@ If you want to read a little bit about nutrition and biochemistry, learn what ma
 
 How can we know what to eat? 
 
-We can rely on intuition, but it has been well established, most thoroughly by [Stephan Guyenet, Ph.D](https://amzn.to/2ZUMGTT), that in the modern food environment, our intuition, our hunger and cravings, often give us the wrong answers.
+We can rely on intuition, but it has been well established, most thoroughly by [Stephan Guyenet, Ph.D](https://amzn.to/2ZUMGTT), that in the modern food environment, our intuition, our hunger and cravings, often betray us.
 
 Another approach is to try to understand [which substances the human body and mind requires to function and thrive](https://en.wikipedia.org/wiki/Composition_of_the_human_body), and then to figure out how we get these substances from food.
 
 The useful substances that we absorb when eating food, at base, are elements and molecules. Potassium is an element, [EPA](https://en.wikipedia.org/wiki/Eicosapentaenoic_acid) (a fat) is a molecule, lysine (an [amino-acid](https://en.wikipedia.org/wiki/Amino_acid)) is a molecule. The subset of elements and molecules obtained from diet that are required for our bodies and minds to grow and function properly are collectively called "nutrients." 
 
-There are nearly limitless combinations of elements and molecules in our food, a multitude of nutrients, more than anybody can know about. So, in order to have any useful knowledge of nutrients, we need to categorize them; to simplify them.
+There are a multitude of nutrients; too many to know and understand, even for the professional biochemist. So, in order to make use of expert knowledge of nutrition and biochemistry, we need simple but accurate categories of nutrients that we can apply to our individual diets.
 
-One of the most useful methods of categorizing our food is by its energy content; and there are three major classes of biomolecules that contribute to the energy content of our food. These three classes are fat, protein, and carbohydrate. In nutrition, these 3 classes of biomolecules are commonly referred to as *the* [macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients). There are other macronutrients, and there are also "micronutrients". All nutrients are important because they support one of the 3 needs of a living human: the structural elements, the functional moving parts, and the fuel.
+One of the most useful methods of categorizing our food is by its energy content and type. There are three major classes of biomolecules that contribute to the energy content of our food. These three classes are fat, protein, and carbohydrate. In nutrition, these 3 classes of biomolecules are commonly referred to as *the* [macronutrients](https://en.wikipedia.org/wiki/List_of_macronutrients) because they are the three most abundant classes of biomolecules in our diet. There are other macronutrients, and there are also "micronutrients," discussion of which is out of the scope of this article.
+
+All nutrients, macro, micro, and otherwise, are important because they each support one or more of the 3 needs of a living human: the structural elements, the functional moving parts, and the fuel.
 
 ### Structure
 The structure of our body can be thought of as the framework, like the chassis of a car, the case of a watch, or the frame of a house.
@@ -57,13 +59,13 @@ We need building blocks to make the structure of the physical body - the hair, s
 
 In this category I place protein, fat, and minerals. Proteins are present in every cell as enzymes, channels, and signaling molecules, but structurally comprise much of the skin, hair, and muscles. Fats make up the cell membrane of every cell and insulate our nerves. Minerals such as calcium make up our [bones](https://en.wikipedia.org/wiki/Bone).
 
-### Function - Moving Parts (or the mechanism)
+### Function - Moving Parts (or *"the mechanism")*
 
-I created this category, which, to my knowledge doesn't exist elsewhere in the nutrition or biochemistry world. If you find it somewhere else, let me know so I can give proper credit. If it doesn't make sense, you have only me to blame.
+I created this category, which, to my knowledge doesn't exist elsewhere in the nutrition or biochemistry lexicon. If you find it somewhere else, let me know so I can give proper credit. If it doesn't make sense, you have only me to blame. I won't claim too much originality, because this concept is really implicit in biochemistry.
 
-I think of this category as akin to the movement of a watch; the springs, levers, jewels, lubricant, and crown; or like the motor and transmission of a car; the pistons, cranks, fly-wheel, steering wheel, axles, gears, fans, coolant, and oil.
+I think of this category as akin to the movement of a watch; the springs, levers, jewels, lubricant, and crown; or like the motor and transmission of a car; the pistons, cranks, fly-wheel, steering wheel, axles, gears, fans, coolant, and oil; in short, the moving parts.
 
-These are not really the structural elements of the machine, but they're substantial moving parts that make it live and breathe. These parts make the watch tick and the car *drive* (which in this era of "self-driving" cars, is a turn of phrase that actually makes sense).
+Though these are attached to the framework, they're more functional fixtures than structural elements. These are the parts that make a machine or human live and breathe. These parts make the watch tick and the car *drive* (which in this era of "self-driving" cars, is a turn of phrase that actually makes sense).
 
 In humans, the analogous parts are the enzymes, channels, pumps, shuttles, binders, transporters, signaling molecules, vesicles, cilia, and more.
 
@@ -71,15 +73,15 @@ In humans, the analogous parts are the enzymes, channels, pumps, shuttles, binde
 
 We need fuel, or energy for the engine to run. Fuel is any form of stored energy that can be released. In the case of humans, we're quite similar to gas powered engines or fires - we break down hydrocarbons - fats and carbohydrates to release the energy stored in their bonds. The details of the process whereby this happens inside of human cells is different than what happens in a fire or inside of a gas powered car engine, but in essence it's the same.
 
-The fuels are originally made by fusing atoms together - either under heated and pressurized conditions in the earth's crust in the case of fossil fuels, or by photosynthesis in the case of plant life, or by the work of animal metabolism. When the atoms and molecules in these fuels are broken down, when they're separated, they move around. This movement is tiny, but if you combine the movement of millions of such atoms into a tiny space and make them all move in the same way, the movement adds up to bigger and bigger movements - the up and down movement of a piston in the cylinder of a car engine, or the contraction and relaxation of the biceps muscle of a weight-lifter doing curls.
+The fuels are originally made by fusing atoms together - either under heated and pressurized conditions in the earth's crust in the case of fossil fuels, or by photosynthesis in the case of plant life, or by the work of animal metabolism. When the atoms and molecules in these fuels are broken down, when they're separated, they move around. This movement is undetectable to us on the atomic scale, but if you combine the movement of millions of such atoms into a tiny space and make them all move in the same way, the movement adds up to bigger and bigger movements - the up and down movement of a piston in the cylinder of a car engine, or the contraction and relaxation of the biceps muscle of a weight-lifter doing curls.
 
-Unlike in a car where there is usually one motor and one fuel tank, or a watch where there is one movement and one spring, the human body can burn multiple types of fuel, has no central fuel tank, and has multiple tiny motors in each cell instead of one big motor.  The human body has a distributed fuel tank - each cell can store fuel, some cells store fuel as carbohydrate, some as fat, and some as both. Just like a car's fuel tank, the human fuel tank does have a limited, if expandable, capacity.
+Unlike in a car where there is usually one motor and one fuel tank, or a watch where there is one movement and one spring, the human body can burn multiple types of fuel (in a nutritional context), has no central fuel tank, and has multiple tiny motors in each cell as opposed to one big motor.  The human body has a distributed fuel tank - most cells can store fuel; some cells store fuel as carbohydrate, some as fat, and some as both. Just like a car's fuel tank, the human fuel tank does have a limited, if expandable, capacity.
 
 To fuel properly, we need to understand the types of fuel we can process, and in what amounts they're each needed. 
 
-In this category are all three macronutrients - fats, protein, and carbohydrates.
+In this category are all three macronutrient fuel sources - fats, protein, and carbohydrates.
   
-All three needs (structure, function, and fuel) are important, but on a daily basis, it's primarily the fuel that needs to be replenished (unless fuel stores are over-flowing, in which case the primary nutrients that are needed are structural and functional elements). Of course, we need a constant intake of nutrients like calcium and electrolytes to keep our cells functioning properly, but if we eat a diverse whole-food diet with the proper quantities of macronutrients for our individual needs, we're likely to fulfill most of our other needs automatically.
+All three needs (structure, function, and fuel) are important, but on a daily basis, it's primarily the fuel that needs to be replenished (unless fuel stores are over-flowing, in which case the primary nutrients that are needed are structural and functional elements). Of course, we need a constant intake of nutrients like calcium and electrolytes to keep our cells functioning properly as well, but if we eat a diverse whole-food diet with the proper quantities of macronutrients for our individual needs, we're likely to fulfill most of our structural and functional needs automatically.
 
 You might be asking, why don't we just calculate total energy needs then? What reason is there to look at individual macronutrients?
 
@@ -102,12 +104,12 @@ Proteins (large molecules built from many amino acids) are broken down in the bo
 You can learn more about nutrient absorption [here](https://www.khanacademy.org/test-prep/mcat/organ-systems/the-gastrointestinal-system/v/small-intestine-part-3-absorption).
 
 ### Reason #2
-Each macronutrient tends to have different neurohormonal effects on satiety and [metabolism](https://en.wikipedia.org/wiki/Metabolism), which means that a proper macronutrient balance should reduce excess hunger and therefore excess energy intake.
+Each macronutrient tends to have different neuro-hormonal effects on satiety and [metabolism](https://en.wikipedia.org/wiki/Metabolism), which means that a proper macronutrient balance should reduce excess hunger and therefore excess energy intake.
 
 ### Reason #3
 Foods that predominate in each macronutrient class tend to be more or less dense in other nutrients that are important for structural or functional reasons. As a result, a proper intake of diverse foods from each macronutrient category makes it more likely that we'll have a nutritionally complete diet.
 
-For example, foods that are mostly made out of fat, such as butter and oil are often relatively poor in most vitamins and minerals, but can be rich in fat soluble vitamins like D and E. Dairy, which, through processing can be either high or low fat, is rich in calcium. Most foods that are mostly carbohydrate are poor in fat soluble vitamins and calcium, but may be rich in other nutrients. Starchy vegetables like potatoes, for example, are rich in magnesium and potassium, which are hard to find in most foods that are primarily fat. There are exception, like liver, for example, which is high in fat and rich in vitamins and minerals. Foods that are predominantly protein like chicken breast are rich in vitamin B3, B6, and Choline, but relatively poor in most other micronutrients.
+For example, foods that are mostly made out of fat, such as butter and oil are often relatively poor in most vitamins and minerals, but can be rich in fat soluble vitamins like D and E. Dairy, which, depending on processing, can be either high or low fat, is rich in calcium. Most foods that are mostly carbohydrate are poor in fat soluble vitamins and calcium, but may be rich in other nutrients. Starchy vegetables like potatoes, for example, are rich in magnesium and potassium, which are hard to find in most foods that are primarily fat. There are exceptions, like liver, for example, which is high in fat and rich in vitamins and minerals. Foods that are predominantly protein like chicken breast are rich in vitamin B3, B6, and choline, but relatively poor in most other micronutrients.
 
 ## *Specific* Nutritional Requirements are Not Necessarily Generalizable Across People or Within the Same Person Across Time
 Before diving into the calculations, I want to say that I think it's important to calculate macronutrients on an individual basis, and repeatedly over time. People differ from one another in lean body mass, activity level, personal preferences, and food tolerance. The macronutrient amounts and ratios that work for one person may not work for another. Just because my protein intake is 100 grams daily, doesn't mean that will work for someone else or that it will work for me in 3 months from now. Avoiding dietary dogma is another discussion entirely. The best writing I've seen on the topic is by [Chris Masterjohn, PhD](https://chrismasterjohnphd.com/) in his article ["Against Dietary Dogmatism."](https://chrismasterjohnphd.com/blog/2011/08/17/against-dietary-dogmatis).
@@ -125,9 +127,8 @@ Before you perform either method, you'll need to know 3 things:
 2. Your height
 3. Your % body fat.
 
-
 #### Body Weight
-Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedence scale](https://amzn.to/39qvvg7) "which will also allow you to measure % body fat.
+Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedence scale](https://amzn.to/39qvvg7)" which will also allow you to measure % body fat.
 
 #### Height
 Measure your height in feet and inches, or cm.
