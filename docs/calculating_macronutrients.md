@@ -134,9 +134,10 @@ Obtain your body weight in pounds or kg from any accurate scale. If you don't ha
 Measure your height in feet and inches, or cm.
   
 #### Your Body Fat % 
-This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7) ".
+This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7)".
 
 **Methods of Measuring % Body Fat**
+
 <table><tbody><tr></tr><tr><td><span><strong><span>Method</span></strong></span></td><td><span><strong><span>Price</span></strong></span></td><td><span><strong><span>Notes</span></strong></span></td></tr><tr><td><span>guess</span></td><td><span>$0</span></td><td><span>Completely inaccurate.</span></td></tr><tr><td><span><span><a title="url: https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html" class="rm-alias rm-alias-external" href="https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html">use images</a></td><td><span>$0</span></td><td><span>Variable accuracy depending on visceral fat and fat distribution.
 The link sends you to a pretty cool website which helps with this.</span></td></tr><tr><td><span>use <span><a title="url: https://amzn.to/32QO4J3" class="rm-alias rm-alias-external" href="https://amzn.to/32QO4J3">calipers</a></td><td><span>~$13</span></td><td><span>May be inaccurate for amateurs and requires familiarizing yourself with the technique.</span></td></tr><tr><td><span>measure neck, waist, and hip circumference with a <span><a title="url: https://amzn.to/3jCIZtH" class="rm-alias rm-alias-external" href="https://amzn.to/3jCIZtH">tape measure</a></span> and then use this <span><a title="url: https://www.calculator.net/body-fat-calculator.html" class="rm-alias rm-alias-external" href="https://www.calculator.net/body-fat-calculator.html">calculator</a></td><td><span>~$14</span></td><td><span>Variable accuracy.</span></td></tr><tr><td><span><span><a title="url: https://amzn.to/39qvvg7" class="rm-alias rm-alias-external" href="https://amzn.to/39qvvg7">impedence scale</a></span> </span></td><td><span>~$45</span></td><td><span>This scale was recommended by Tim Ferris in his book <span><a title="url: https://amzn.to/3f4KywV" class="rm-alias rm-alias-external" href="https://amzn.to/3f4KywV">The 4-Hour Body</a></span>.</span></td></tr><tr><td><span><span><a title="url: https://www.cosmed.com/en/products/body-composition/bod-pod" class="rm-alias rm-alias-external" href="https://www.cosmed.com/en/products/body-composition/bod-pod">BodPod</a></span></span></td><td><span>~$50</span></td><td><span>Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes</span></td></tr><tr><td><span><span><a title="url: https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry" class="rm-alias rm-alias-external" href="https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry">DEXA</a></span> scan</span></td><td><span>~$50 and up</span></td><td><span>Most accurate.
 Might require a physician's order.
@@ -250,8 +251,6 @@ If you chose this method, there's no great reason to read on unless further disc
 ## Method Number 2: Manual
 
 This process is the same as above, but you'll have to do some multiplication and subtraction on your own.
-
-Repeat step 2 above "Measure your height in feet and inches, or cm."
 
 ### Calculate your TDEE (total daily energy expenditure)
 
