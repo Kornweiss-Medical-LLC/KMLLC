@@ -13,7 +13,7 @@ Date: July 27, 2020
 **Document Title and Description:**
 <p class="title">
 <!-- insert title here -->
-Two Ways to Calculate Your Macronutrient Ratios for a Quantified and Modifiable Approach to Nutrition
+Why and How to Calculate Daily Macronutrient Requirements: 2 Methods
 </p>
 
 **Theme**: Calculating your daily macronutrient requirements is a simple activity that can be done in 5 or 10 minutes, and is an essential step in formulating almost any nutrition plan.
