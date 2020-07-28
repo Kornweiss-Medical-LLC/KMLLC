@@ -364,10 +364,10 @@ Other people have written informatively on this topic. Here are some resources I
 
 ## References
 
-- “Protein requirements in humans | The American Journal of Clinical Nutrition | Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
+- “Protein requirements in humans, The American Journal of Clinical Nutrition, Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
 - A. L. Merrill and B. K. Watt, *Energy Value of Foods: Basis and Derivation,***. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
 - M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” *Journal of Applied Physiology*, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
-- [“How do you determine if you’re getting enough protein? | Masterjohn Q&A Files #18,”](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) *Chris Masterjohn, PhD*, Dec. 03, 2019. 
+- [“How do you determine if you’re getting enough protein? - Masterjohn Q&A Files #18"](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) *Chris Masterjohn, PhD*, Dec. 03, 2019. 
 - [“How to Calculate Macronutrient Ratios that Work for You,”](https://chriskresser.com/how-to-calculate-macronutrient-ratios-that-work-for-you/) *Chris Kresser*, Aug. 23, 2019.
 - [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), *Mark Sisson*
 - C. K. Martin *et al.*, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” *Obesity*, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
