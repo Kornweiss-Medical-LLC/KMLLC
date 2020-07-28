@@ -122,7 +122,7 @@ People differ from one another in lean body mass, activity level, ability to abs
 ## Calculating Macronutrient Requirements
 Now that we've discussed macronutrients and the reasons for calculating them, here are two ways to do it. 
 
-The first method is to use a nutrition tacking app called Cronometer. The second method is to perform the calculations manually. 
+The first method is to use a nutrition tracking app called Cronometer. The second method is to perform the calculations manually. 
 
 I prefer the first method, which is to use the calculators built into [Cronometer.com](https://cronometer.com/). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
 
