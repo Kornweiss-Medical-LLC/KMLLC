@@ -366,7 +366,7 @@ I recommend using [Cronometer.com](https://cronometer.com/) to track your diet f
 
 Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
 
-While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkin's, "low-carb high-fat," "keto," and so on and so forth.
+While this is just one way to obtain some control over your nutrition. It's a time tested strategy that forms the basis of the nutrition plan for most athletes. It's also implicit (or sometimes explicit) in almost any marketed diet plan that you might be interested in trying (not that I'm recommending any of these) - zone, paleo, Atkins, "low-carb high-fat," "keto," and so on and so forth.
 
 Overall, this is another tool that you can use to gain control over your nutrition.
 
