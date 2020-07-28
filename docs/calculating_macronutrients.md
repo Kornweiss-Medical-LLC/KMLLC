@@ -312,6 +312,7 @@ TDEE = 2300 kcal
 
 Example: Based on 100 grams of carbohydate daily.
 >Carbohydrate has 4 kcal of energy per gram on average
+
 ```
 4 kcal/g * 100 grams of carbohydrate
 = 400 kcal
