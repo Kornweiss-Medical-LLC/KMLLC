@@ -364,9 +364,9 @@ While this is just one way to obtain some control over your nutrition. It's a ti
 
 Overall, this is another tool that you can use to gain control over your nutrition.
 
-And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, this is the easy part. The hard part is consistently eating with purpose every day.
+And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, doing these calculations is the easy part. The hard part is following your nutrition plan consistently, which requires a clear purpose followed by discipline.
 
-Other people have written informatively on this topic. Here are some resources I read in researching for this post.
+Other people have written informatively on this topic. Here are some of the resources I read in researching this post.
 
 ## References
 
