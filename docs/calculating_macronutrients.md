@@ -1,11 +1,42 @@
+<!-- template.md -->
+<link rel="stylesheet" type="text/css" href="template.css">
 
-- "Main Idea:: Calculating your daily macronutrient requirements is a simple activity that can be done in 5 or 10 minutes, and is an essential step in formulating almost any nutrition plan."
-  
-# Two Ways to Calculate Your Macronutrient Ratios for a Quantified and Modifiable Approach to Nutrition
-  
+*![](../images/kmllc-icon-black.png)*
+
+      Kornweiss Medical LLC
+      Author: Steven Kornweiss, MD
+      Date:
+      
+   <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
+
+---
+**Document Title and Description:**
+<p class="title">
+<!-- insert title here -->
+Two Ways to Calculate Your Macronutrient Ratios for a Quantified and Modifiable Approach to Nutrition
+</p>
+
+**Theme**: Calculating your daily macronutrient requirements is a simple activity that can be done in 5 or 10 minutes, and is an essential step in formulating almost any nutrition plan.
+
+---
+**Table of Contents:**
+<!-- insert table of contents -->
+- [Introduction](#introduction)
+- [Why Calculate Macronutrient Requirements?](#why-calculate-macronutrient-requirements)
+- [*Specific* Nutritional Requirements are Not Necessarily Generalizable Across People or Within the Same Person Across Time](#specific-nutritional-requirements-are-not-necessarily-generalizable-across-people-or-within-the-same-person-across-time)
+- [Calculating Macronutrient Requirements](#calculating-macronutrient-requirements)
+- [Method Number 1: Cronometer.com](#method-number-1-cronometercom)
+- [Method Number 2: Manual](#method-number-2-manual)
+- [What to Do Once You've Calculated Your Macronutrient Requirements](#what-to-do-once-youve-calculated-your-macronutrient-requirements)
+- [References](#references)
+
+---
+<!-- insert body of document -->
 ## Introduction
 
-[Skip ahead to calculating macros.](#calculating-macronutrient-requirements)
+If you want to read a little bit about nutrition and biochemistry, learn what macronutrients are, and find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read on. If you just want to see how to calculate your macronutrient requirements, [skip ahead to calculating macros.](#calculating-macronutrient-requirements)
+
+---
 
 How can we know what to eat? 
 
@@ -27,13 +58,14 @@ We need building blocks to make the structure of the physical body - the hair, s
 In this category I place protein, fat, and minerals. Proteins are present in every cell as enzymes, channels, and signaling molecules, but structurally comprise much of the skin, hair, and muscles. Fats make up the cell membrane of every cell and insulate our nerves. Minerals such as calcium make up our [bones](https://en.wikipedia.org/wiki/Bone).
 
 ### Function - Moving Parts (or the mechanism)
-I created this category, which, to my knowledge doesn't exist elsewhere in the nutrition world. If you find it somewhere else, let me know so I can give proper credit. If it doesn't make sense, you have only me to blame.
 
-I think of this category as akin to the movement of a watch; the springs, levers, jewels, lubricant, and crown; or like the motor and transmission of a car; the pistons, cranks, fly-wheel, steering wheel, axles, gears, fans, coolant, and oil. 
+I created this category, which, to my knowledge doesn't exist elsewhere in the nutrition or biochemistry world. If you find it somewhere else, let me know so I can give proper credit. If it doesn't make sense, you have only me to blame.
 
-These are not really the major structural elements of the machine, but they're substantial moving parts that give it function. These parts make the watch tick and make the car *drive* (which in the era of self driving cars, is a turn of phrase that actually makes sense).
+I think of this category as akin to the movement of a watch; the springs, levers, jewels, lubricant, and crown; or like the motor and transmission of a car; the pistons, cranks, fly-wheel, steering wheel, axles, gears, fans, coolant, and oil.
 
-In this category, I place electrolytes like potassium and magnesium, enzymes like pancreatic lipase or HMG-CoA Reductase which are proteins made of amino acids, metals like iron and copper, and vitamins like Vitamin A and D.
+These are not really the structural elements of the machine, but they're substantial moving parts that make it live and breathe. These parts make the watch tick and the car *drive* (which in this era of "self-driving" cars, is a turn of phrase that actually makes sense).
+
+In humans, the analogous parts are the enzymes, channels, pumps, shuttles, binders, transporters, signaling molecules, vesicles, cilia, and more.
 
 ### Fuel (or energy)
 
@@ -51,7 +83,7 @@ All three needs (structure, function, and fuel) are important, but on a daily ba
 
 You might be asking, why don't we just calculate total energy needs then? What reason is there to look at individual macronutrients?
 
-## Here are a few reasons:
+## Why Calculate Macronutrient Requirements?
 
 ### Reason #1
 We have [separate (though overlapping) pathways](http://biochemical-pathways.com/#/map/1) for absorbing, processing, storing, and utilizing each macronutrient, and thus different requirements for each.
@@ -81,26 +113,29 @@ For example, foods that are mostly made out of fat, such as butter and oil are o
 Before diving into the calculations, I want to say that I think it's important to calculate macronutrients on an individual basis, and repeatedly over time. People differ from one another in lean body mass, activity level, personal preferences, and food tolerance. The macronutrient amounts and ratios that work for one person may not work for another. Just because my protein intake is 100 grams daily, doesn't mean that will work for someone else or that it will work for me in 3 months from now. Avoiding dietary dogma is another discussion entirely. The best writing I've seen on the topic is by [Chris Masterjohn, PhD](https://chrismasterjohnphd.com/) in his article ["Against Dietary Dogmatism."](https://chrismasterjohnphd.com/blog/2011/08/17/against-dietary-dogmatis).
 
 ## Calculating Macronutrient Requirements
-
 Now that we've discussed macronutrients and the reasons for calculating them, here are two ways to do it. 
 
 The first method is to use a nutrition tacking app called Cronometer. The second method is to perform the calculations manually. 
 
-I prefer the first method, which is to use the calculators built into [Cronometer.com](https://cronometer.com/) (there's a web app and a mobile app). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your diet, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
+I prefer the first method, which is to use the calculators built into [Cronometer.com](https://cronometer.com/). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
 
 ### Information You Need
+Before you perform either method, you'll need to know 3 things:
+1. Your body weight
+2. Your height
+3. Your % body fat.
 
-Before you do either method, you'll need 3 pieces of information: your body weight, your height, and your % body fat.
-
-#### Measure your height in feet and inches, or cm.
 
 #### Body Weight
 Obtain your body weight in pounds or kg from any accurate scale. If you don't have one, consider buying an "[impedence scale](https://amzn.to/39qvvg7) "which will also allow you to measure % body fat.
+
+#### Height
+Measure your height in feet and inches, or cm.
   
 #### Your Body Fat % 
 This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedence scale](https://amzn.to/39qvvg7) ".
 
-
+**Methods of Measuring % Body Fat**
 <table><tbody><tr></tr><tr><td><span><strong><span>Method</span></strong></span></td><td><span><strong><span>Price</span></strong></span></td><td><span><strong><span>Notes</span></strong></span></td></tr><tr><td><span>guess</span></td><td><span>$0</span></td><td><span>Completely inaccurate.</span></td></tr><tr><td><span><span><a title="url: https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html" class="rm-alias rm-alias-external" href="https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html">use images</a></td><td><span>$0</span></td><td><span>Variable accuracy depending on visceral fat and fat distribution.
 The link sends you to a pretty cool website which helps with this.</span></td></tr><tr><td><span>use <span><a title="url: https://amzn.to/32QO4J3" class="rm-alias rm-alias-external" href="https://amzn.to/32QO4J3">calipers</a></td><td><span>~$13</span></td><td><span>May be inaccurate for amateurs and requires familiarizing yourself with the technique.</span></td></tr><tr><td><span>measure neck, waist, and hip circumference with a <span><a title="url: https://amzn.to/3jCIZtH" class="rm-alias rm-alias-external" href="https://amzn.to/3jCIZtH">tape measure</a></span> and then use this <span><a title="url: https://www.calculator.net/body-fat-calculator.html" class="rm-alias rm-alias-external" href="https://www.calculator.net/body-fat-calculator.html">calculator</a></td><td><span>~$14</span></td><td><span>Variable accuracy.</span></td></tr><tr><td><span><span><a title="url: https://amzn.to/39qvvg7" class="rm-alias rm-alias-external" href="https://amzn.to/39qvvg7">impedence scale</a></span> </span></td><td><span>~$45</span></td><td><span>This scale was recommended by Tim Ferris in his book <span><a title="url: https://amzn.to/3f4KywV" class="rm-alias rm-alias-external" href="https://amzn.to/3f4KywV">The 4-Hour Body</a></span>.</span></td></tr><tr><td><span><span><a title="url: https://www.cosmed.com/en/products/body-composition/bod-pod" class="rm-alias rm-alias-external" href="https://www.cosmed.com/en/products/body-composition/bod-pod">BodPod</a></span></span></td><td><span>~$50</span></td><td><span>Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes</span></td></tr><tr><td><span><span><a title="url: https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry" class="rm-alias rm-alias-external" href="https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry">DEXA</a></span> scan</span></td><td><span>~$50 and up</span></td><td><span>Most accurate.
 Might require a physician's order.
@@ -201,7 +236,7 @@ If you hover over any of those items in the web app, or click them in the mobile
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on unless further discussion of how this calculation can be done manually is of interest to you.
     
-## Method Number 2: Calculate your macronutrient requirements manually.
+## Method Number 2: Manual
 
 This process is the same as above, but you'll have to do some multiplication and subtraction on your own.
 
@@ -322,3 +357,14 @@ Other people have written informatively on this topic. Here are some resources I
 - [“How Much Protein Should You Be Eating?”](https://www.marksdailyapple.com/how-much-protein-should-you-be-eating/), *Mark Sisson*
 - C. K. Martin *et al.*, “Change in Food Cravings, Food Preferences, and Appetite During a Low-Carbohydrate and Low-Fat Diet,” *Obesity*, vol. 19, no. 10, pp. 1963–1970, 2011, doi: [10.1038/oby.2011.62](https://doi.org/10.1038/oby.2011.62).
 - Others: [My Research Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/QD9GP58F)
+
+---
+
+Website: <https://kornweissmedical.com>
+
+---
+**Disclaimer:**
+
+This document is intended for distribution to clients(patients) of Kornweiss Medical LLC.
+
+If you are not a client(patient), and you are in receipt of this document, please disregard any medical advice contained herein. Your receipt and/or reading of this document does not constitute a doctor/patient relationship. The use of this information and the materials herein is at the user's own risk. The content of this document is not a substitute for professional medical advice, diagnosis, or treatment. Users should seek professional medical advice for any symptoms or medical conditions they may have.
