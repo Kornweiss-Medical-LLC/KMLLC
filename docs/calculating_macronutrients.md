@@ -142,7 +142,6 @@ The link sends you to a pretty cool website which helps with this.</span></td></
 Might require a physician's order.
 Will tell you bone mineral density and body composition of individual body parts</span></td></tr></tbody></table>
 
-
 ## Method Number 1: Cronometer.com
 
 **Use the profile settings and ketogenic calculator in Cronometer. (Don't panic - it's designed for a ketogenic diet, but it can be used for any diet)**
@@ -154,12 +153,15 @@ I use this method because it's the easiest and most accurate individualized meth
 >It's possible to do the same thing from the mobile app, but my screenshots are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
 
 ### Enter your sex, weight, height, and body fat % into Cronometer.
-> Make sure the BMR is calculated.
+
+>Make sure the BMR is calculated.
    
 ### Select an activity level. 
-> Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
+
+>Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
 
 **Here's the screen you should see (with your own data):**
+
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
 
 ### Choose your Protein and Carbohydrate Requirements
@@ -183,7 +185,9 @@ Make the following selections:
 
 #### Carbohydrate Requirements
    
-> For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.<br><br>For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
+
+For people with very high activity levels - like endurance athletes, Crossfit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
     
 #### Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:
      
@@ -232,7 +236,13 @@ Let's zoom in on the gauges:
 
 If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
     
->Here are my personal macronutrient requirements from the image above: <br><br>Protein 90 g<br><br>Net Carbs 50 g<br><br>Fat 177.8 g<br><br>**Note**: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
+**Here are my personal macronutrient requirements from the image above:**
+
+- Protein 90 g  
+- Net Carbs 50 g  
+- Fat 177.8 g
+
+>***Note***: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
     
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on unless further discussion of how this calculation can be done manually is of interest to you.
