@@ -146,12 +146,12 @@ This is the hardest number to obtain accurately. You can obtain your [estimated 
 | Method | Price | Notes |
 |-|-|-|
 | guess | $0 | Completely inaccurate. |
-| use images | $0 | Variable accuracy depending on visceral fat and fat distribution. The link sends you to a pretty cool website which helps with this. |
-| use calipers | ~$13 | May be inaccurate for amateurs and requires familiarizing yourself with the technique. |
-| measure neck, waist, and hip circumference with a tape measure and then use this calculator. | ~$14 | Variable accuracy. |
-| impedance scale  | ~$45 | This scale was recommended by Tim Ferris in his book The 4-Hour Body. |
-| BodPod | ~$50 | Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes |
-| DEXA scan | ~$50 and up | Most accurate. Might require a physician's order. Will tell you bone mineral density and body composition of individual body parts |
+| [use images](https://www.estimatebodyfat.com/body-fat-percentages-of-men-and-women-with-pictures-and-charts.html) | $0 | Variable accuracy depending on visceral fat and fat distribution. The link sends you to a pretty cool website which helps with this. |
+| use [calipers](https://amzn.to/32QO4J3) | ~$13 | May be inaccurate for amateurs and requires familiarizing yourself with the technique. |
+| measure neck, waist, and hip circumference with a [tape measure](https://amzn.to/3jCIZtH) and then use [this calculator](https://www.calculator.net/body-fat-calculator.html) | ~$14 | Variable accuracy. |
+| [impedance scale](https://amzn.to/39qvvg7)  | ~$45 | This scale was recommended by Tim Ferris in his book [The 4-Hour Body](https://amzn.to/3f4KywV) |
+| [BodPod](https://www.cosmed.com/en/products/body-composition/bod-pod) | ~$50 | Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes |
+| [DEXA](https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry) scan | ~$50 and up | Most accurate. Might require a physician's order. Will tell you bone mineral density and body composition of individual body parts |
 
 ## Method Number 1: Cronometer.com
 
