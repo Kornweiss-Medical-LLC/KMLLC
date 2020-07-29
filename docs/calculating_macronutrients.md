@@ -145,9 +145,9 @@ This is the hardest number to obtain accurately. You can obtain your [estimated 
 
 | Method | Price | Notes |
 |-|-|-|
-| guess. | $0 | Completely inaccurate. |
-| use images. | $0 | Variable accuracy depending on visceral fat and fat distribution. The link sends you to a pretty cool website which helps with this. |
-| use calipers. | ~$13 | May be inaccurate for amateurs and requires familiarizing yourself with the technique. |
+| guess | $0 | Completely inaccurate. |
+| use images | $0 | Variable accuracy depending on visceral fat and fat distribution. The link sends you to a pretty cool website which helps with this. |
+| use calipers | ~$13 | May be inaccurate for amateurs and requires familiarizing yourself with the technique. |
 | measure neck, waist, and hip circumference with a tape measure and then use this calculator. | ~$14 | Variable accuracy. |
 | impedance scale  | ~$45 | This scale was recommended by Tim Ferris in his book The 4-Hour Body. |
 | BodPod | ~$50 | Will tell you your weight, body volume, fat and fat-free mass, and your lung volumes |
