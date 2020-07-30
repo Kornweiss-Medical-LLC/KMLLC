@@ -16,7 +16,7 @@ Date: July 27, 2020
 Why and How to Calculate Daily Macronutrient Requirements: 2 Methods
 </p>
 
-**Theme**: Calculating your daily macronutrient requirements is a simple activity that can be done in 5 or 10 minutes, and is an essential step in formulating almost any nutrition plan.
+**Theme**: Calculating your daily macronutrient requirements is a simple activity that can be done in 5 or 10 minutes, and is an essential step in formulating and understanding almost any nutrition plan.
 
 ---
 **Table of Contents:**
@@ -32,6 +32,8 @@ Why and How to Calculate Daily Macronutrient Requirements: 2 Methods
 
 ---
 <!-- insert body of document -->
+>Notice: This article contains affiliate links. There is more information on this at the [bottom of the page](#affiliate-message).
+
 ## Introduction
 
 If you want to read about nutrition, biochemistry, macronutrients, and you want to find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read this introduction. If you just want to see how to calculate your macronutrient requirements, [skip ahead](#calculating-macronutrient-requirements).
@@ -92,7 +94,7 @@ We have [separate (though overlapping) pathways](http://biochemical-pathways.com
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FXHZMNJh8jK.svg?alt=media&token=9843416a-3134-46a7-a7ab-9c7b15b4f314) 
 
-By [Chakazul](commons.wikimedia.org/wiki/User:Chakazul) - Own work, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Link](https://commons.wikimedia.org/w/index.php?curid=49095520)
+*By [Chakazul](commons.wikimedia.org/wiki/User:Chakazul) - Own work, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), [Link](https://commons.wikimedia.org/w/index.php?curid=49095520)*
 
 #### Carbohydrates
 For example, after being eaten, carbohydrates are broken down into sugars in the small bowel ([Holmes 1971](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1176254/)). These sugars are then directly absorbed across the bowel wall into the bloodstream, and can be immediately delivered and used by almost any cell of any organ. Excess carbohydrates are taken up by different cell types such as liver and muscle and stored as a conglomerate of sugar molecules, called glycogen. Excess sugar can also be stored in fat cells through a process called [de novo lipogenesis](https://bit.ly/3g5vO2j) which actually creates fatty acids by stringing together carbon molecules from sugar.
@@ -111,7 +113,7 @@ Each macronutrient tends to have different neuro-hormonal effects on satiety and
 ### Reason #3
 Foods that predominate in each macronutrient class tend to be more or less dense in other nutrients that are important for structural or functional reasons. As a result, a proper intake of diverse foods from each macronutrient category makes it more likely that we'll have a nutritionally complete diet.
 
-For example, foods that are mostly made out of fat, such as butter and oil are often relatively poor in most vitamins and minerals, but can be rich in fat soluble vitamins like D and E. Dairy, which, depending on processing, can be either high or low fat, is rich in calcium. Most foods that are mostly carbohydrate are poor in fat soluble vitamins and calcium, but may be rich in other nutrients. Starchy vegetables like potatoes, for example, are rich in magnesium and potassium, which are hard to find in most foods that are primarily fat. There are exceptions, like liver, for example, which is high in fat and rich in vitamins and minerals. Foods that are predominantly protein like chicken breast are rich in vitamin B3, B6, and choline, but relatively poor in most other micronutrients.
+For example, foods that are mostly made out of fat, such as butter and oil are often relatively poor in most vitamins and minerals, but can be rich in fat soluble vitamins like D and E. Dairy, which, depending on processing, can be either high or low fat, is rich in calcium. Most foods that are mostly carbohydrate are poor in fat soluble vitamins and calcium, but may be rich in other nutrients. Starchy vegetables like potatoes, for example, are rich in magnesium and potassium, which are hard to find in most foods that are primarily fat. There are exceptions, like liver, for example, which is high in fat and rich in vitamins and minerals. Foods that are predominantly protein, like chicken breast, are rich in vitamin B3, B6, and choline, but relatively poor in many other micronutrients.
 
 ## *Specific* Nutritional Requirements are for Individuals
 
@@ -122,9 +124,9 @@ People differ from one another in lean body mass, activity level, ability to abs
 ## Calculating Macronutrient Requirements
 Now that we've discussed macronutrients and the reasons for calculating them, here are two ways to do it. 
 
-The first method is to use a nutrition tracking app called [Cronometer](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). The second method is to perform the calculations manually. 
+The first method is to use a nutrition tracking app called [Cronometer](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). The second method is to perform the calculations manually.
 
-I prefer the first method, which is to use the calculators built into [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app in order to check that your calculated macronutrient requirements are accurate (accurate in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
+I prefer the first method, which is to use the calculators built into [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=). I like this method because it's fast, simple, and once you calculate your macronutrient requirements, you can easily track your nutrition, your weight, and your lean body mass in the same app. It's useful to check that your diet is concordant with your calculations, and that your calculated requirements actually work for you (in the sense that your outcomes are moving in the desired direction: e.g. weight loss or weight gain, increase in lean body mass, etc.).
 
 ### Information You Need
 Before you perform either method, you'll need to know 3 things:
@@ -139,7 +141,7 @@ Obtain your body weight in pounds or kg from any accurate scale. If you don't ha
 Measure your height in feet and inches, or cm.
   
 #### Your % Body Fat
-This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedance scale](https://amzn.to/39qvvg7)".
+This is the hardest number to obtain accurately. You can obtain your [estimated % body fat](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedance scale](https://amzn.to/39qvvg7)".
 
 **Methods of Measuring % Body Fat**
 
@@ -177,7 +179,7 @@ After you create an account and login, find the settings menu and then go to "Pr
 
 Go to the "Targets" tab, which is at the top of the screen next to "Profile." For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols" For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
    
-Now you'll see a box that says "Your Keto Calculator."
+Below that you'll see a box that says "Your Keto Calculator."
    
 **Here's the screen you should see at this point.**  
 *(Yours may or may not have the exact same selections.)* ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
@@ -185,64 +187,13 @@ Now you'll see a box that says "Your Keto Calculator."
 Make the following selections:
 - Ketogenic calculator: Custom
 - Protein: 1-1.5 g/kg/lean body mass/day
-  >A good starting point for an active individual who exercises on a daily basis is 1.5 g/kg/lean body mass
+  >A good starting point for an active individual who exercises on a daily basis is 1.5 g/kg/lean body mass.
 - Carbohydrate: 50-100 grams
-  >This number, grams of non-fiber carbohydrates per day is the big decision. Based on this number, the calculator will determine your fat requirement based on your remaining energy intake that was not satisfied by protein and carbohydrate.
+  >This number, "grams of non-fiber carbohydrates per day," is the big decision. Based on this number, the calculator will determine your carbohydrate and fat requirements.
 
-#### An Aside on Carbohydrate Requirements
+With these parameters now set, Cronometer should automatically calculate your macronutrient targets. You can navigate to the diary to view your numbers.
 
-"Optimal" carbohydrate intake is currently a very controversial topic, but here is a brief discussion of my thoughts at the time of this article's original publication.
-   
-For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
-
-For people with very high activity levels - like endurance athletes, CrossFit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
-
-To look at carbohydrate intake from a more conceptual standpoint - the best way to determine intake for a given individual would be to look at all of their relevant characteristics, choose a number, and then test it using continuous glucose monitors and different foods, and then make adjustments over time. To figure this out, it's necessary to understand the nature of the metabolism of carbohydrates and how that differs from the metabolism of fats.
-
-On an individual level, it's necessary to assess their current metabolic health, genetic predispositions, activity level, type of activity, glycemic response to various food sources of carbohydrate, daily schedule, and then based on all of those variables, make a decision as to how much of their fuel is best taken from carbohydrates versus fat, and then which sources to use and when. Obviously, this is an in depth process that's not even possible to really do, but even attempting to do it is a task that I spend many hours working on for single individuals.
-    
-**Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:**     
-
-    You could have all of these foods in the following amounts:
-         - 1/2 cup of white rice
-         - 1 cup of blueberries
-         - 1/4 cup of ice cream
-         - 3 6-inch long carrots
-         - A large tomato (3 inch diameter)
-         - 1/2 cup of pecans
-         - 1 large red bell pepper
-         - 1.5 cups of broccoli
-         - 2 tbsp of half and half
-         -  1/2 cup of whole milk yogurt
-         - 1/2 of a sweet potato (5x2 inches)
-     Or:
-         - 13 heads of romaine lettuce
-           - (626 g in weight each)
-     Or:
-         - 3 snickers bars
-     Or:
-         - 2.5 bags of potato chips
-           - ("grab bag" size)
-     Or:
-         - 4 bananas
-     Or:
-         - 2 cups of Ben & Jerry's
-           - Chocolate Chip Cookie Dough
-     Or:
-         - 2 cups of granola
-     Or:
-         - 5 slices of store bought white bread
-     Or:
-         - 6 slices of whole wheat bread
-           - (homemade/bakery)
-
-With these parameters set, Cronometer will automatically calculate your macronutrient targets.
-
-### Step 4: View your Calculated Macronutrient Requirements
-   
-To see your calculated macronutrient targets, go to the "Diary."
-
-**Here's what you should see**
+**Here's what you should see in your "Diary"**
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FkigscS0Vw6.png?alt=media&token=63f850af-c909-47d5-874a-3cb839b4a614)
 
 **And if we zoom in on the gauges:**
@@ -260,6 +211,51 @@ If you hover over any of those items in the web app, or click them in the mobile
     
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on. Most of the remainder of the post is about a manual method of doing this calculation without Cronometer.
+
+#### An Aside on Carbohydrate Requirements
+
+"Optimal" carbohydrate intake is currently a very controversial topic. I should write about this separately, but here is a brief discussion of my thoughts at the time of this article's original publication (July, 2020).
+   
+For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
+
+For people with very high activity levels - like endurance athletes, CrossFit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+
+Conceptually, I currently think that "high quality" whole food sources of carbohydrate should be included in the diet as much as necessary to meet energy demands and micronutrient requirements without causing metabolic disruption.
+
+To execute this on an individual level, it's necessary to assess an individual's current metabolic health, genetic predispositions, activity level, type of activity, glycemic response to various food sources of carbohydrate, daily schedule, and then based on all of those variables, make a decision as to how much of their fuel is best taken from carbohydrates versus fat, and then which sources to use and when. This is a process that requires a lot of work, but is possible to execute for a disciplined and committed individual.
+
+To give you some rough idea of why I think 100 grams is a good starting point, look at this list below.
+    
+**Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:**     
+
+    You could have all of these foods in the following amounts:
+         - 1/2 cup of white rice
+         - 1 cup of blueberries
+         - 1/4 cup of ice cream
+         - 3 6-inch long carrots
+         - A large tomato (3 inch diameter)
+         - 1/2 cup of pecans
+         - 1 large red bell pepper
+         - 1.5 cups of broccoli
+         - 2 tbsp of half and half
+         - 1/2 cup of whole milk yogurt
+         - 1/2 of a sweet potato (5x2 inches)
+     Or:
+         - 13 heads of romaine lettuce (626 g in weight each)
+     Or:
+         - 3 snickers bars
+     Or:
+         - 2.5 bags of potato chips ("grab bag" size)
+     Or:
+         - 4 bananas
+     Or:
+         - 2 cups of Ben & Jerry's (Chocolate Chip Cookie Dough)
+     Or:
+         - 2 cups of granola
+     Or:
+         - 5 slices of store bought white bread
+     Or:
+         - 6 slices of whole wheat bread (homemade/bakery)
     
 ## Method Number 2: Manual Calculation
 
@@ -360,7 +356,7 @@ Now that we have these macronutrient requirements calculated, what are we going 
 
 Test them out.
 
-I recommend using [Cronometer.com](https://cronometer.com/) to track your diet for short periods of time to check that you're on the path you want to be on.
+I recommend using [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=) to track your diet for short periods of time to check that you're on the path you want to be on.
 
 Now that you have some rough idea of your macronutrient requirements, it's easier to make the necessary adjustments. You need some starting point or framework to start from, and this is it. These quantifications eliminate the tendency to over or underestimate your intake of one thing or another (e.g. total calories/energy intake, carbohydrate intake, protein intake, etc.).
 
@@ -393,3 +389,10 @@ Website: <https://kornweissmedical.com>
 This document is intended for distribution to clients(patients) of Kornweiss Medical LLC.
 
 If you are not a client(patient), and you are in receipt of this document, please disregard any medical advice contained herein. Your receipt and/or reading of this document does not constitute a doctor/patient relationship. The use of this information and the materials herein is at the user's own risk. The content of this document is not a substitute for professional medical advice, diagnosis, or treatment. Users should seek professional medical advice for any symptoms or medical conditions they may have.
+
+---
+<p id="affiliate-message"></p>
+
+**Affiliate Programs:**
+
+This website contains links from affiliate programs including but not limited to the Amazon Associate program (As an Amazon Associate I earn from qualifying purchases). It is possible that purchasing a product, signing up for an account, or taking other actions from a link on this website may result in a commission being paid to Kornweiss Medical LLC. This website is otherwise free to its users, and free of advertising. The product and service links on this website are for products and services that I have personally researched, tested, and/or actively use, and that I believe to be beneficial. It is always possible to research or purchase these same products or services independently, which I would encourage anyone to do who is uncomfortable purchasing through an affiliate link on this site.
