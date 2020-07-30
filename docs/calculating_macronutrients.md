@@ -26,7 +26,7 @@ Why and How to Calculate Daily Macronutrient Requirements: 2 Methods
 - [*Specific* Nutritional Requirements are for Individuals](#specific-nutritional-requirements-are-for-individuals)
 - [Calculating Macronutrient Requirements](#calculating-macronutrient-requirements)
 - [Method Number 1: Cronometer.com](#method-number-1-cronometercom)
-- [Method Number 2: Manual](#method-number-2-manual)
+- [Method Number 2: Manual Calculation](#method-number-2-manual-calculation)
 - [What to Do Once You've Calculated Your Macronutrient Requirements](#what-to-do-once-youve-calculated-your-macronutrient-requirements)
 - [References](#references)
 
@@ -261,97 +261,98 @@ If you hover over any of those items in the web app, or click them in the mobile
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on. Most of the remainder of the post is about a manual method of doing this calculation without Cronometer.
     
-## Method Number 2: Manual
+## Method Number 2: Manual Calculation
 
-This process is the same as above, but you'll have to do some multiplication and subtraction on your own.
+This method should get you very similar results to the first, but it doesn't require any reliance on Cronometer. The basic method is this:
+- Calculate your total energy needs.
+- Calculate your protein requirement.
+- Calculate your carbohydrate requirement.
+- The remaining energy requirement is supplied by fat.
 
-### Calculate your TDEE (total daily energy expenditure)
+For this method, we need to know the energy content of each macronutrient type.
 
->[Use this calculator](https://www.calculator.net/tdee-calculator.html)
-   <br>Expand the "+Settings" and select:
-   <br>Katch-McArdle and enter your body fat %
+Protein contains 4 kcal (calories) per gram, carbohydrates 4 kcal/g, and Fat 9 kcal/g. Those numbers come from a technique called calorimetry. You can read all about the science behind the energy content of food [here](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Classics/ah74.pdf).
+
+### Step 1: Calculate your TDEE (total daily energy expenditure)
+
+[Use this calculator](https://www.calculator.net/tdee-calculator.html). On the calculator webpage, expand the "+Settings" and select: "Katch-McArdle and enter your body fat %"
    
-Example:
+**Example:**
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FwMXwOnWLw4.png?alt=media&token=3a6efd23-c51b-4351-9e93-b1e76fc5ba55)
    
-### Calculate your Lean Body Mass
+### Step 2: Calculate your Lean Body Mass
 
-Do it manually (Recommended)   
->[Convert your weight to Kg](https://www.google.com/search?q=lbs+to+kg&oq=lbs+to+kg&aqs=chrome..69i57j0l7.858j0j4&sourceid=chrome&ie=UTF-8)
-    <br>Lean body mass = weight in kg * (1 - body fat %)
+You can do this manually, or you can use a lean body mass calculator. I recommend doing this manually.
 
-OR [Use this calculator](https://www.calculator.net/lean-body-mass-calculator.html?ctype=standard&csex=m&cage=n&cheightfeet=5&cheightinch=5&cpound=158&cheightmeter=180&ckg=60&x=93&y=24)
+    Lean body mass = 
+    weight in kg * (1 - body fat %)
 
->If you navigate to the link above, it'll start out populated with my personal data. You can see the system is calculating my body fat % at 24-30 depending on the equation used. I know that this is factually inaccurate by at least 10%. This is why I recommend measuring body fat % using one of the above methods, and then calculating lean body mass based on that number.
+>Note: Here's why I don't use calculators for this: If you navigate to [this link](https://www.calculator.net/lean-body-mass-calculator.html?ctype=standard&csex=m&cage=n&cheightfeet=5&cheightinch=5&cpound=158&cheightmeter=180&ckg=60&x=93&y=24), it'll start out populated with my personal data. You can see the system is calculating my body fat % at 24-30 depending on the equation used. I know that this is inaccurate by at least 10%. This is why I recommend measuring body fat % using one of the above methods, and then calculating lean body mass based on that number.
 
-### Calculate Energy Obtained from Protein
+### Step 3: Calculate Energy Obtained from Protein
    
-   Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass.
+    Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass.
 
-   > We'll need to know the average energy content of each macronutrient. Protein contains 4 kcal (calories) per gram, carbohydrates 4 kcal/g, and Fat 9 kcal/g. Those numbers come from [here](https://www.ars.usda.gov/ARSUserFiles/80400525/Data/Classics/ah74.pdf).
+
 
 **Example for a lean body mass of 70 kg at a dose of 1.5 g/kg/day**
->The dose of protein was discussed a bit above in [method 1](#choose-your-protein-and-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020)
+>Note: The dose of protein was discussed a bit above in [method 1](#choose-your-protein-and-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020).
 
-```
-1.5 g of protein/kg/day * 70 kg * 1 day
-= 98 grams of protein
+    1.5 g of protein/kg * 70 kg
+    = 105 grams of protein
 
-98 grams * 4 calories / gram
-= 392 calories from protein
-```
+    105 grams * 4 calories / gram
+    = 420 calories from protein
 
-### Determine Remaining Energy Requirements
 
-TDEE - Calories from protein = Remaining Energy Needs
+### Step 4: Determine Remaining Energy Requirements
+
+    Remaining Energy Needs = 
+    TDEE - Calories from protein
 
 **Example:**
-```
-TDEE = 2300 kcal
-- 392 kcal from protein
-= 1908 remaining kcal
-```
+    
+    TDEE = 2300 kcal
+    - 420 kcal from protein
+    = 1880 remaining kcal
 
-### Choose a Daily Carbohydrate Intake
 
->The dose of carbohydrate was discussed above in [method 1](#carbohydrate-requirements).
-
-### Calculate Energy Obtained from Carbohydrate
+### Step 5: Calculate Energy Obtained from Carbohydrate
+A good starting dose is 50-100 grams per day. But, this is a nuanced topic that was discussed in a bit more detail above in [this section](#carbohydrate-requirements). 
 
 Example: Based on 100 grams of carbohydrate daily.
->Carbohydrate has 4 kcal of energy per gram on average
+>Note: Remember, carbohydrate has 4 kcal of energy per gram on average. Also, notice that I've used kcal and calorie interchangeably in this post. In nutrition, people often use the term calorie to refer to a kilocalorie. A [calorie](https://en.wikipedia.org/wiki/Calorie) is a unit of measure of energy.
 
-```
-4 kcal/g * 100 grams of carbohydrate
-= 400 kcal
-```
+    4 kcal/g * 100 grams of carbohydrate
+    = 400 kcal
 
-### Calculate Remaining Energy Requirements
+### Step 6: Calculate Remaining Energy Requirements
 
-Subtract energy from carbohydrate from remaining daily energy requirement
+Subtract energy from carbohydrate from remaining daily energy requirement. Our remaining requirement from the previous step was 1880 kcal.
 
 **Example:**
 
-```
-TDEE = 2300 kcal
-- 392 kcal from protein
-- 400 kcal from carbohydrate
-= 1508 kcal
+    TDEE = 1880 kcal
+    - 400 kcal from carbohydrate
+    = 1480 kcal
 
-### Calculate Fat Requirement
+### Step 6: Calculate Fat Requirement
+
+Remember from above we learned that fat containes 9 kcal of energy per gram.
 
 **Example:**
-```
-Remaining energy requirements = 1508 kcal
-Amount of energy in fat is 9 kcal/g 
-1508 kcal / 9 kcal/g
-= 167.5 grams of fat
 
-### Review the results - we have made the following determinations:
+    Remaining energy requirements
+    = 1480 kcal
+    
+    1480 kcal / 9 kcal/g
+    = 164.4 grams of fat
+
+### Step 6: Review the results - we have made the following determinations:
    1. Total daily energy expenditure: 2300 kcal
-   2. Protein requirement: 98 grams, which is 392 calories
+   2. Protein requirement: 105 grams, which is 405 calories
    3. Carbohydrate requirement: 100 grams, which is 400 calories
-   4. Fat requirement: 167.5 grams, which is 1508 calories
+   4. Fat requirement: 164.4 grams, which is 1480 calories
 
 ## What to Do Once You've Calculated Your Macronutrient Requirements
 
