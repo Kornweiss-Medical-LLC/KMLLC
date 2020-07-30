@@ -36,15 +36,15 @@ Why and How to Calculate Daily Macronutrient Requirements: 2 Methods
 
 ## Introduction
 
-If you want to read about nutrition, biochemistry, macronutrients, and you want to find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read this introduction. If you just want to see how to calculate your macronutrient requirements, [skip ahead](#calculating-macronutrient-requirements).
+If you want to read about nutrition, biochemistry, macronutrients, and you want to find out how I decided that it's worthwhile to calculate daily macronutrient requirements, read this introduction. If you just want to see how to calculate your macronutrient requirements, [skip ahead](#Calculating-Macronutrient-Requirements).
 
 ---
 
 How can we know what to eat? 
 
-We can rely on intuition, but it has been well established, most thoroughly by [Stephan Guyenet, Ph.D](https://amzn.to/2ZUMGTT), that in the modern food environment, our intuition, our hunger and cravings, often betray us.
+We can rely on intuition like most of humanity has done for most of human history. But, many agree, myself included, that the modern food environment has disrupted this approach. It has been argued by many, most recently and thoroughly (in my opinion) by [Stephan Guyenet, Ph.D](https://amzn.to/2ZUMGTT), that in the modern food environment, our intuition, our hunger and cravings, often betray us. This is not true for everyone. Some people have well regulated and healthy metabolisms and do very well by listening to their internal cues. But, some people have limited success when they follow their internal cues, and many others are high performers who want to gain every advantage they can find from nutrition. 
 
-Another approach is to try to understand [which substances the human body and mind requires to function and thrive](https://en.wikipedia.org/wiki/Composition_of_the_human_body), and then to figure out how we get these substances from food.
+For these people, another approach is to try to understand [which substances the human body and mind requires to function and thrive](https://en.wikipedia.org/wiki/Composition_of_the_human_body), and then to figure out how to get these substances from food.
 
 The useful substances that we absorb when eating food, at base, are elements and molecules. Potassium is an element, [EPA](https://en.wikipedia.org/wiki/Eicosapentaenoic_acid) (a fat) is a molecule, lysine (an [amino-acid](https://en.wikipedia.org/wiki/Amino_acid)) is a molecule. The subset of elements and molecules obtained from diet that are required for our bodies and minds to grow and function properly are collectively called "nutrients." 
 
@@ -88,6 +88,7 @@ All three needs (structure, function, and fuel) are important, but on a daily ba
 You might be asking, why don't we just calculate total energy needs then? What reason is there to look at individual macronutrients?
 
 ## Why Calculate Macronutrient Requirements?
+
 
 ### Reason #1
 We have [separate (though overlapping) pathways](http://biochemical-pathways.com/#/map/1) for absorbing, processing, storing, and utilizing each macronutrient, and thus, different requirements for each.
@@ -175,6 +176,7 @@ After you create an account and login, find the settings menu and then go to "Pr
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
 
+<p id="choose-protein-carbohydrate-requirements"></p>
 ### Step 3 - Choose your Protein and Carbohydrate Requirements
 
 Go to the "Targets" tab, which is at the top of the screen next to "Profile." For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols" For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
@@ -207,11 +209,12 @@ If you hover over any of those items in the web app, or click them in the mobile
 - Net Carbs 50 g  
 - Fat 177.8 g
 
->***Note***: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. So, I didn't follow my own requirements to the letter on this day. It's important to realize that you might need different nutrition on different days, but that over time, your average intake should approximate these requirements that we're calculating.  
+>***Note***: On this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. So, I didn't follow my own requirements to the letter on this day. It's important to realize that you might need different nutrition on different days, but that over time, your average intake should approximate these requirements that we're calculating.  
     
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on. Most of the remainder of the post is about a manual method of doing this calculation without Cronometer.
 
+<p id="carbohydrate-requirements"></p>
 #### An Aside on Carbohydrate Requirements
 
 "Optimal" carbohydrate intake is currently a very controversial topic. I should write about this separately, but here is a brief discussion of my thoughts at the time of this article's original publication (July, 2020).
@@ -289,17 +292,14 @@ You can do this manually, or you can use a lean body mass calculator. I recommen
    
     Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass.
 
-
-
 **Example for a lean body mass of 70 kg at a dose of 1.5 g/kg/day**
->Note: The dose of protein was discussed a bit above in [method 1](#choose-your-protein-and-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020).
+>Note: The dose of protein was discussed within method 1 earlier in this article [here](#choose-protein-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020).
 
     1.5 g of protein/kg * 70 kg
     = 105 grams of protein
 
     105 grams * 4 calories / gram
     = 420 calories from protein
-
 
 ### Step 4: Determine Remaining Energy Requirements
 
