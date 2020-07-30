@@ -138,7 +138,7 @@ Obtain your body weight in pounds or kg from any accurate scale. If you don't ha
 #### Height
 Measure your height in feet and inches, or cm.
   
-#### Your Body Fat % 
+#### Your % Body Fat
 This is the hardest number to obtain accurately. You can obtain your [estimated body fat %](https://en.wikipedia.org/wiki/Body_composition) using any of the following methods in the table below (in order by price and accuracy - most expensive and accurate last). The sweet spot of convenience, price, and accuracy is probably to use an "[impedance scale](https://amzn.to/39qvvg7)".
 
 **Methods of Measuring % Body Fat**
@@ -155,41 +155,32 @@ This is the hardest number to obtain accurately. You can obtain your [estimated 
 
 ## Method Number 1: Cronometer.com
 
-**Use the profile settings and ketogenic calculator in Cronometer. (Don't panic - it's designed for a ketogenic diet, but it can be used for any diet)**
+I use this method because it's the easiest and most accurate individualized method that I'm aware of. The overview of this method is - enter your information (height, weight, % body fat) into Cronometer, and use their built in calculators to determine your macronutrient requirements.
 
-I use this method because it's the easiest and most accurate individualized method that I'm aware of.
-
-### Navigate to the website [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=) and create an account if you don't already have one.
-
->***Disclosure:*** The link above is an affiliate link and I will get a small commission (very small) if you create an account using the link above. If you prefer to sign up without giving me a commission, then just click this link ([https://cronometer.com](https://cronometer.com)) instead, or navigate to the same address.
+### Step 1 - Create an Account and Login
+Navigate to the website [Cronometer.com](https://shareasale.com/r.cfm?b=766203&u=2497386&m=61121&urllink=&afftrack=) and create an account if you don't already have one.
 
 OR - use the mobile app.
 
->If you use the mobile app, just know that my screenshots of Cronometer are from the website. It shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there. They are very similar.
+>Tip: If you use the mobile app, just know that my screenshots of Cronometer are from the website. The web app and mobile app are very similar, so it shouldn't be too hard to find the corresponding screens on the mobile app if you choose to do it there.
 
-### Enter your sex, weight, height, and body fat % into Cronometer.
+### Step #2 - Enter Your Body Measurements
+After you create an account and login, find the settings menu and then go to "Profile. "Enter your sex, weight, height, and body fat %. Make sure the BMR is calculated. Select an activity level. 
 
->Make sure the BMR is calculated.
-   
-### Select an activity level. 
-
->Assuming your goal is to maintain or lose weight, my recommendation on this is to identify which activity level you think you do, and then step it down one.
+>Tip: For most people, I recommend selecting the activity level one step down from what you initially consider selecting. If you're trying to gain weight, then just select the activity level that you deem most accurate. My reasoning here is that it's easier for most people to compensate on the backend by consuming more food rather than assume they are using more energy than they are in reality. 
 
 **Here's the screen you should see (with your own data):**
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
 
-### Choose your Protein and Carbohydrate Requirements
+### Step 3 - Choose your Protein and Carbohydrate Requirements
 
-Go to the "Targets" tab, which is at the top of the screen next to "Profile."
-   
-For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols"
-
-For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
+Go to the "Targets" tab, which is at the top of the screen next to "Profile." For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols" For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
    
 Now you'll see a box that says "Your Keto Calculator."
    
-Here's the screen you should see at this point. Yours may or may not have the exact same selections. ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
+**Here's the screen you should see at this point.**  
+*(Yours may or may not have the exact same selections.)* ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FBaVOyf4DvT.png?alt=media&token=55d43693-e660-4890-91d6-781931d6bc54)
    
 Make the following selections:
 - Ketogenic calculator: Custom
@@ -198,16 +189,20 @@ Make the following selections:
 - Carbohydrate: 50-100 grams
   >This number, grams of non-fiber carbohydrates per day is the big decision. Based on this number, the calculator will determine your fat requirement based on your remaining energy intake that was not satisfied by protein and carbohydrate.
 
-#### A Word on Carbohydrate Requirements
+#### An Aside on Carbohydrate Requirements
 
-"Optimal" carbohydrate intake is currently a very controversial topic, but here is a brief discussion of thoughts at the time of this article's original publication.
+"Optimal" carbohydrate intake is currently a very controversial topic, but here is a brief discussion of my thoughts at the time of this article's original publication.
    
 For the vast majority of people, I think 50-100 grams of non-fiber carbohydrate per day is likely adequate. It's enough to allow for liberal vegetable and fruit consumption, and even *some* bread, pasta, and starches, but restrictive enough to prevent you from eating candy, processed foods, baked goods, soda, juice, and other foods with added sugar. For individuals with a lot of lean body mass (very muscular), athletes, highly active people, or people who prefer a primarily plant based diet heavy in root vegetables and fruits, it may be necessary to push this to 200 or 300 grams per day, or perhaps even higher in some circumstances.
 
 For people with very high activity levels - like endurance athletes, CrossFit athletes, or just someone with a very high level of activity throughout the day, a higher carbohydrate intake might be desirable. This is an individualized decision and might require some careful thought and experimentation.
+
+To look at carbohydrate intake from a more conceptual standpoint - the best way to determine intake for a given individual would be to look at all of their relevant characteristics, choose a number, and then test it using continuous glucose monitors and different foods, and then make adjustments over time. To figure this out, it's necessary to understand the nature of the metabolism of carbohydrates and how that differs from the metabolism of fats.
+
+On an individual level, it's necessary to assess their current metabolic health, genetic predispositions, activity level, type of activity, glycemic response to various food sources of carbohydrate, daily schedule, and then based on all of those variables, make a decision as to how much of their fuel is best taken from carbohydrates versus fat, and then which sources to use and when. Obviously, this is an in depth process that's not even possible to really do, but even attempting to do it is a task that I spend many hours working on for single individuals.
     
-#### Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:
-     
+**Here are some examples of what you can eat with a daily allowance of 100 grams of carbohydrate:**     
+
     You could have all of these foods in the following amounts:
          - 1/2 cup of white rice
          - 1 cup of blueberries
@@ -243,12 +238,14 @@ For people with very high activity levels - like endurance athletes, CrossFit at
 
 With these parameters set, Cronometer will automatically calculate your macronutrient targets.
 
-### View your Calculated Macronutrient Requirements
+### Step 4: View your Calculated Macronutrient Requirements
    
 To see your calculated macronutrient targets, go to the "Diary."
+
+**Here's what you should see**
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FkigscS0Vw6.png?alt=media&token=63f850af-c909-47d5-874a-3cb839b4a614)
 
-Let's zoom in on the gauges:
+**And if we zoom in on the gauges:**
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2F0p8iakb7aS.png?alt=media&token=9e5f4878-ec1e-44ae-9024-895c49d53b78)
 
 If you hover over any of those items in the web app, or click them in the mobile app, you'll get more information. 
@@ -259,10 +256,10 @@ If you hover over any of those items in the web app, or click them in the mobile
 - Net Carbs 50 g  
 - Fat 177.8 g
 
->***Note***: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. It's important to realize that you might need different nutrition on a daily basis, but that over time, your average intake should approximate these requirements that we're calculating.  
+>***Note***: on this particular day, I consumed more protein than needed, hit my carbohydrate target nearly spot on, and I had significant room to go in my fat intake. You can see in the purple box I had 491 kcal (calories) left - this is the difference between my energy (in kcals or calories) consumed and burned. So, I didn't follow my own requirements to the letter on this day. It's important to realize that you might need different nutrition on different days, but that over time, your average intake should approximate these requirements that we're calculating.  
     
 That's it, you now have targets for your daily macronutrient intake.
-If you chose this method, there's no great reason to read on unless further discussion of how this calculation can be done manually is of interest to you.
+If you chose this method, there's no great reason to read on. Most of the remainder of the post is about a manual method of doing this calculation without Cronometer.
     
 ## Method Number 2: Manual
 
