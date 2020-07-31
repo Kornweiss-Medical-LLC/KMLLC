@@ -176,7 +176,6 @@ After you create an account and login, find the settings menu and then go to "Pr
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FAGIkTa5IFL.png?alt=media&token=a6a3d8f0-fd6c-413f-91d2-0405220f6ac8)
 
-<p id="choose-protein-carbohydrate-requirements"></p>
 ### Step 3 - Choose your Protein and Carbohydrate Requirements
 
 Go to the "Targets" tab, which is at the top of the screen next to "Profile." For "Tracking carbohydrates as:" select "Net Carbs without Sugar Alcohols" For "Set macro targets using" select "Ketogenic Calculator." Do this even if you have no interest in a ketogenic diet.
@@ -214,7 +213,6 @@ If you hover over any of those items in the web app, or click them in the mobile
 That's it, you now have targets for your daily macronutrient intake.
 If you chose this method, there's no great reason to read on. Most of the remainder of the post is about a manual method of doing this calculation without Cronometer.
 
-<p id="carbohydrate-requirements"></p>
 #### An Aside on Carbohydrate Requirements
 
 "Optimal" carbohydrate intake is currently a very controversial topic. I should write about this separately, but here is a brief discussion of my thoughts at the time of this article's original publication (July, 2020).
@@ -290,10 +288,11 @@ You can do this manually, or you can use a lean body mass calculator. I recommen
 
 ### Step 3: Calculate Energy Obtained from Protein
    
-    Daily protein requirement = 1.5 g/kg of lean body mass * lean body mass.
+    Daily protein requirement =
+    1.5 g/kg of lean body mass * lean body mass.
 
 **Example for a lean body mass of 70 kg at a dose of 1.5 g/kg/day**
->Note: The dose of protein was discussed within method 1 earlier in this article [here](#choose-protein-carbohydrate-requirements) and was based in part on [this resource](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020).
+>Note: The dose of protein was discussed within method 1 earlier in this article [here](#Step-3---Choose-your-Protein-and-Carbohydrate-Requirements) and was based in part on [this article](#protein-requirements-in-humans--the-american-journal-of-clinical-nutrition--oxford-academic-httpsacademicoupcomajcnarticle-abstract5157234695334-accessed-jul-25-2020).
 
     1.5 g of protein/kg * 70 kg
     = 105 grams of protein
@@ -314,7 +313,7 @@ You can do this manually, or you can use a lean body mass calculator. I recommen
 
 
 ### Step 5: Calculate Energy Obtained from Carbohydrate
-A good starting dose is 50-100 grams per day. But, this is a nuanced topic that was discussed in a bit more detail above in [this section](#carbohydrate-requirements). 
+A good starting dose is 50-100 grams per day. But, this is a nuanced topic that was discussed in a bit more detail above in [this section](#An-Aside-on-Carbohydrate-Requirements).
 
 Example: Based on 100 grams of carbohydrate daily.
 >Note: Remember, carbohydrate has 4 kcal of energy per gram on average. Also, notice that I've used kcal and calorie interchangeably in this post. In nutrition, people often use the term calorie to refer to a kilocalorie. A [calorie](https://en.wikipedia.org/wiki/Calorie) is a unit of measure of energy.
@@ -366,11 +365,11 @@ Overall, this is another tool that you can use to gain control over your nutriti
 
 And lastly, if you don't feel like going through all of this work, it is possible to hire someone to do it for you. But, doing these calculations is the easy part. The hard part is following your nutrition plan consistently, which requires a clear purpose followed by discipline.
 
-Other people have written informatively on this topic. Here are some of the resources I read in researching this post.
+Other people have written informatively on this topic. Here are some of the resources I used in researching this article.
 
 ## References
 
-- “Protein requirements in humans, The American Journal of Clinical Nutrition, Oxford Academic.” https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334 (accessed Jul. 25, 2020).
+- “Protein requirements in humans, The American Journal of Clinical Nutrition, Oxford Academic.” [link](https://academic.oup.com/ajcn/article-abstract/51/5/723/4695334) (accessed Jul. 25, 2020).
 - A. L. Merrill and B. K. Watt, *Energy Value of Foods: Basis and Derivation,***. Human Nutrition Research Branch, Agricultural Research Service, U. S. Department of Agriculture, 1955.
 - M. A. Tarnopolsky, S. A. Atkinson, J. D. MacDougall, A. Chesley, S. Phillips, and H. P. Schwarcz, “Evaluation of protein requirements for trained strength athletes,” *Journal of Applied Physiology*, vol. 73, no. 5, pp. 1986–1995, Nov. 1992, doi: [10.1152/jappl.1992.73.5.1986](https://doi.org/10.1152/jappl.1992.73.5.1986).
 - [“How do you determine if you’re getting enough protein? - Masterjohn Q&A Files #18"](https://chrismasterjohnphd.com/qa/2019/12/03/determine-youre-getting-enough-protein-masterjohn-qa-files-18) *Chris Masterjohn, PhD*, Dec. 03, 2019. 
