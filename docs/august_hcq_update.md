@@ -1,7 +1,7 @@
 <!-- template.md -->
 <link rel="stylesheet" type="text/css" href="template.css">
 
-*![](../images/kmllc-icon-black.png)*
+*![](images/kmllc-icon-black.png)*
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
@@ -15,6 +15,7 @@
 <!-- insert title here -->
 
 # Hydroxychloroquine Update - August 2020
+
 </p>
 
 
