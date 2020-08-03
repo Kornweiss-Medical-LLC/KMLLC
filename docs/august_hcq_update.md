@@ -91,13 +91,12 @@ If you want a marked up PDF with my highlights and comments on this study which 
 
 Figuring out which drugs work for a disease like CoViD-19, which has a wide range of severities and manifestations is a complex business. Listening to politicians and main-stream news-media on this topic (and probably most others) is going to get your head turned around. My recommendation is to do independent research, but to stick to the highest quality resources you can find. 
 
-These include:
+Limit your reading to intellectually honest physicians and scientists with careful nuanced viewpoints like Chris Masterjohn PhD, Eric Topol, Peter Attia, MD, Amesh Adalja, MD, and Trevor Bedford. They can all be found on social media.
 
-1. Intellectually honest physicians and scientists with careful nuanced viewpoints like Chris Masterjohn, Eric Topol, Peter Attia, Amesh Adalja, and Trevor Bedford. They can all be found on social media.
+[This article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) on HCQ from [leapsmag](https://leapsmag.com/) by Amesh Adalja, MD is particularly salient.
 
-    [This article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) on HCQ by Amesh Adalja, MD is particularly salient.
-   
-2. Go to the primary sources and read them yourself. Most of these articles can be found in their full-text on Google Scholar. They might take longer to read than a news article, but you'll at least have some idea of what's going on in the actual study. I believe that at least 75% of what's done in these studies can be understood by someone with a high-school science education.
+Go to the primary sources and read them yourself. Most of these articles can be found in their full-text on Google Scholar. They might take longer to read than a news article, but you'll at least have some idea of what's going on in the actual study. I believe that at least 75% (and perhaps much more) of what's done in these studies can be understood by someone with a high-school science education. Anyone with an analytical mind and the determination can understand these studies, perhaps much better than I.
+
 ---
 ## HCQ [References](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
 
