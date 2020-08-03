@@ -71,7 +71,7 @@ This paper was based on data analysis of patients who were hospitalized at the H
 3. Azithromycin
 4. HCQ+Azithromycin
 
-They found a huge mortality benefit in the groups who received HCQ. For the most stark comparison, the HCQ group had a 13.5% mortality rate (162/1202) vs. the neither medication group which had a mortality rate of 26.4% (108/409). The other two groups followed the same trend, but had a less impressive difference.  See the table here:
+They found a huge mortality benefit in the groups who received HCQ. For the most stark comparison, the HCQ group had a 13.5% mortality rate (162/1202) vs. the "neither medication" group which had a mortality rate of 26.4% (108/409). The other two groups followed the same trend, but had a less impressive difference.  See the table here - mortality numbers are in the first row under the header of the table:
 
 ![](images/hf_table.png)
 
@@ -85,7 +85,7 @@ But, the huge difference in treatments between the groups is actually interestin
 
 The bottom line is that this study epitomizes the problems with a retrospective non-randomized uncontrolled study. There is no way to tell how these patients arrived in their respective treatment groups. We just can't tell anything from this study in terms of which drugs may or may not have been effective.
 
-If you want a marked up PDF with my highlights and comments on this study which draws attention to the high points and problems, go [here](/content/docs/references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf).
+If you want a marked up PDF with my highlights and comments on this study, go [here](references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf)
 
 ## Bottom Line on HCQ
 
