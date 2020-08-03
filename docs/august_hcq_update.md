@@ -73,7 +73,7 @@ This paper was based on data analysis of patients who were hospitalized at the H
 
 They found a huge mortality benefit in the groups who received HCQ. For the most stark comparison, the HCQ group had a 13.5% mortality rate (162/1202) vs. the neither medication group which had a mortality rate of 26.4% (108/409). The other two groups followed the same trend, but had a less impressive difference.  See the table here:
 
-![](../images/hf_table.png)
+![]()
 
 But, don't get too excited. This study is seriously problematic.
 
