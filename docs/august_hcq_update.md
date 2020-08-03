@@ -19,7 +19,7 @@ Hydroxychloroquine Update - August 2020
 
 
 <!-- insert body of document -->
-In the past 2 weeks, HCQ is back in the news. It's easy to see how it has become a political issue, and I feel compassion for anyone who doesn't know what to make of the situation.
+In the past 2 weeks, HCQ is back in the news. I've received a lot of questions in the last week, so I wanted to present my most recent thoughts here.
 
 After a careful review of the three most recent high-impact studies on HCQ for CoViD-19, my opinion is that I would not currently take the drug myself, nor recommend it to friends, family, or patients in the event that they were exposed to or contracted SARS-CoV-2 (the virus that causes CoViD-19). All of the existing evidence suggests that the drug does not help in any way, and that the drug has a non-trivial rate of significant side effects including, most commonly, diarrhea (~15%) and less-commonly, but more significantly, cardiac arrhythmias (~1-2% or less). Based on existing evidence, my position holds true even when the drug is used in combination with Azithromycin and/or Zinc.
 
@@ -27,7 +27,7 @@ I would gladly change my opinion if new or more specific evidence came to light.
 
 Here are the three articles that I recently analyzed to reach my current conclusion:
 
-## A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19
+## A Randomized Trial of Hydroxychloroquine as Post-exposure Prophylaxis for Covid-19
    
 [This study](https://doi.org/10.1056/NEJMoa2016638) examined HCQ as prophylaxis in high-risk exposures to SARS-CoV-2. 11.8% (49/414) of the group receiving HCQ contracted CoViD-19 compared to 14.3% (58/407) of the placebo group. This is a small gap in favor of HCQ but doesn't remotely approach statistical significance (p=0.35). My conclusion of this study is that it's very unlikely HCQ will prevent you from contracting CoViD-19 even if you know you were exposed and start taking the drug right away. I think the big takeaway here, though, is that only 10-15% of people with high or moderate-risk exposures contracted the disease.
 
@@ -47,7 +47,7 @@ You can see the numbers for yourself in this table. The numbers are looking real
 
 **Other Treatments Used in This Study**
 
-It's important to know the other treatments that the patients were receiving in each group. You can see those data [here](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2019014/suppl_file/nejmoa2019014_appendix.pdf) in the supplementary appendix for the study. No patients in this study were treated with Remdesevir, a small but equal number were treated with steroids, (about 10 in each of the 3 groups of approximately 150 patients). Most of the other treatments used were antibiotics, likely given for suspected or confirmed concurrent bacterial infections (most commonly pneumonia).
+It's important to know the other treatments that the patients were receiving in each group. You can see that information [here](https://www.nejm.org/doi/suppl/10.1056/NEJMoa2019014/suppl_file/nejmoa2019014_appendix.pdf) in the supplementary appendix for the study. No patients in this study were treated with Remdesevir, a small but equal number were treated with steroids, (about 10 in each of the 3 groups of approximately 150 patients). Most of the other treatments used were antibiotics, likely given for suspected or confirmed concurrent bacterial infections (most commonly pneumonia).
 
 **Shortcomings**
 
@@ -61,7 +61,7 @@ Overall, I think this study is high-quality evidence suggesting that HCQ is unli
 
 ## Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19
 
-This paper was based on data analysis of patients who were hospitalized at the Henry Ford hospital system in Detroit form March 10, 2020 to May 2, 2020. The patients were all treated based on the physician's discretion, and then, after the fact, they were grouped into four groups.
+This paper was based on data analysis of patients who were hospitalized at the Henry Ford hospital system in Detroit from March 10, 2020 to May 2, 2020. The patients were all treated based on the physician's discretion, and then, after the fact, they were grouped into four groups.
 
 1. Neither medication
 2. HCQ
