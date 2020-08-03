@@ -43,7 +43,7 @@ Some people think that HCQ will only work as prophylaxis (or treatment) if given
    
    [This study](https://www.nejm.org/doi/10.1056/NEJMoa2019014) examined HCQ as treatment for mild-moderate CoViD-19 disease. Patients were randomized either to standard care, standard care + HCQ or standard care + HCQ+Azithro. Standard care was determined by the treating clinician, which is an important fact that I'll discuss below. Here are the key outcomes data:
 
-![](../images/table2_01.png)
+![](images/table2_01.png)
 
 You can see the numbers for yourself in this table. The numbers are looking really similar on every level - number of people in the hospital, requiring oxygen, on ventilators, deceased, etc. 
 
@@ -72,7 +72,7 @@ This paper was based on data analysis of patients who were hospitalized at the H
 
 They found a huge mortality benefit in the groups who received HCQ. For the most stark comparison, the HCQ group had a 13.5% mortality rate (162/1202) vs. the neither medication group which had a mortality rate of 26.4% (108/409). The other two groups followed the same trend, but had a less impressive difference.  See the table here:
 
-![](../images/hf_table.png)
+![](images/hf_table.png)
 
 But, don't get too excited. This study is seriously problematic.
 
