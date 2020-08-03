@@ -8,6 +8,8 @@ This site is for the purpose of drafting and sharing new content as it is create
 - [Resources](covid_19_resources.md)
 
 ## Articles / Posts
+- [August 3rd, 2020](august_hcq_update.md)
+  - Hydroxychloroquine and Zinc
 - [July 27th, 2020](calculating_macronutrients.md)
   - Why and How to Calculate Daily Macronutrient Requirements
 - [July 13th, 2020](sleep_recommendations.md)
