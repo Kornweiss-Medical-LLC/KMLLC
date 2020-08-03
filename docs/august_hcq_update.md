@@ -20,8 +20,6 @@
 
 
 <!-- insert body of document -->
-**Hydroxychloroquine is the hot topic that won't go away.**
-
 In the past 2 weeks, HCQ is back in the news. It's easy to see how it has become a political issue, and I feel compassion for anyone who doesn't know what to make of the situation.
 
 After a careful review of the three most recent high-impact studies on HCQ for CoViD-19, my opinion is that I would not currently take the drug myself, nor recommend it to friends, family, or patients in the event that they were exposed to or contracted SARS-CoV-2 (the virus that causes CoViD-19). All of the existing evidence suggests that the drug does not help in any way, and that the drug has a non-trivial rate of significant side effects including, most commonly, diarrhea (~15%) and less-commonly, but more significantly, cardiac arrhythmias (~1-2% or less). Based on existing evidence, my position holds true even when the drug is used in combination with Azithromycin and/or Zinc.
@@ -44,7 +42,7 @@ Some people think that HCQ will only work as prophylaxis (or treatment) if given
    
    [This study](https://www.nejm.org/doi/10.1056/NEJMoa2019014) examined HCQ as treatment for mild-moderate CoViD-19 disease. Patients were randomized either to standard care, standard care + HCQ or standard care + HCQ+Azithro. Standard care was determined by the treating clinician, which is an important fact that I'll discuss below. Here are the key outcomes data:
 
-![](images/table2_01.png)
+![](https://kornweiss-medical-llc.github.io/content/images/table2_01.png)
 
 You can see the numbers for yourself in this table. The numbers are looking really similar on every level - number of people in the hospital, requiring oxygen, on ventilators, deceased, etc. 
 
@@ -73,7 +71,7 @@ This paper was based on data analysis of patients who were hospitalized at the H
 
 They found a huge mortality benefit in the groups who received HCQ. For the most stark comparison, the HCQ group had a 13.5% mortality rate (162/1202) vs. the "neither medication" group which had a mortality rate of 26.4% (108/409). The other two groups followed the same trend, but had a less impressive difference.  See the table here - mortality numbers are in the first row under the header of the table:
 
-![](images/hf_table.png)
+![](https://kornweiss-medical-llc.github.io/content/images/hf_table.png)
 
 But, don't get too excited. This study is seriously problematic.
 
@@ -85,7 +83,7 @@ But, the huge difference in treatments between the groups is actually interestin
 
 The bottom line is that this study epitomizes the problems with a retrospective non-randomized uncontrolled study. There is no way to tell how these patients arrived in their respective treatment groups. We just can't tell anything from this study in terms of which drugs may or may not have been effective.
 
-If you want a marked up PDF with my highlights and comments on this study, go [here](references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf)
+If you want a marked up PDF with my highlights and comments on this study, go [here](https://kornweiss-medical-llc.github.io/content/references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf).
 
 ## Bottom Line on HCQ
 
@@ -95,7 +93,9 @@ Limit your reading to intellectually honest physicians and scientists with caref
 
 [This article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) on HCQ from [leapsmag](https://leapsmag.com/) by Amesh Adalja, MD is particularly salient.
 
-Go to the primary sources and read them yourself. Most of these articles can be found in their full-text on Google Scholar. They might take longer to read than a news article, but you'll at least have some idea of what's going on in the actual study. I believe that at least 75% (and perhaps much more) of what's done in these studies can be understood by someone with a high-school science education. Anyone with an analytical mind and the determination can understand these studies, perhaps much better than I.
+Go to the primary sources and read them yourself. Go to the data tables first. Skip the abstract and the prose and go straight to the data. Then go back and read the author's explanation. Then go back to the data and see if it all fits together.
+
+Most of these articles can be found in their full-text on Google Scholar. They might take longer to read than a news article, but you'll at least have some idea of what's going on in the actual study. I believe that at least 75% (and perhaps much more) of what's done in these studies can be understood by someone with a high-school science education. Anyone with an analytical mind and the determination can understand these studies, perhaps much better than I.
 
 ---
 ## HCQ [References](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
