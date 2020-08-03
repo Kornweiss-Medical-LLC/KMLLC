@@ -13,8 +13,7 @@
 **Document Title and Description:**
 <p class="title">
 <!-- insert title here -->
-
-# Hydroxychloroquine Update - August 2020
+Hydroxychloroquine Update - August 2020
 
 </p>
 
@@ -92,10 +91,6 @@ Figuring out which drugs work for a disease like CoViD-19, which has a wide rang
 Limit your reading to intellectually honest physicians and scientists with careful nuanced viewpoints like Chris Masterjohn PhD, Eric Topol, Peter Attia, MD, Amesh Adalja, MD, and Trevor Bedford. They can all be found on social media.
 
 [This article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) on HCQ from [leapsmag](https://leapsmag.com/) by Amesh Adalja, MD is particularly salient.
-
-Go to the primary sources and read them yourself. Go to the data tables first. Skip the abstract and the prose and go straight to the data. Then go back and read the author's explanation. Then go back to the data and see if it all fits together.
-
-Most of these articles can be found in their full-text on Google Scholar. They might take longer to read than a news article, but you'll at least have some idea of what's going on in the actual study. I believe that at least 75% (and perhaps much more) of what's done in these studies can be understood by someone with a high-school science education. Anyone with an analytical mind and the determination can understand these studies, perhaps much better than I.
 
 ---
 ## HCQ [References](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
