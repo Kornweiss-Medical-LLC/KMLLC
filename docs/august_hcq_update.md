@@ -13,13 +13,12 @@
 **Document Title and Description:**
 <p class="title">
 <!-- insert title here -->
+
 # Hydroxychloroquine Update - August 2020
 </p>
 
----
-<!-- insert body of document -->
-# Hydroxychloroquine and Zinc
 
+<!-- insert body of document -->
 **Hydroxychloroquine is the hot topic that won't go away.**
 
 In the past 2 weeks, HCQ is back in the news. It's easy to see how it has become a political issue, and I feel compassion for anyone who doesn't know what to make of the situation.
