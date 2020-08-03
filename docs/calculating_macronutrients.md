@@ -331,7 +331,7 @@ Subtract energy from carbohydrate from remaining daily energy requirement. Our r
     - 400 kcal from carbohydrate
     = 1480 kcal
 
-### Step 6: Calculate Fat Requirement
+### Step 7: Calculate Fat Requirement
 
 Remember from above we learned that fat containes 9 kcal of energy per gram.
 
@@ -343,7 +343,7 @@ Remember from above we learned that fat containes 9 kcal of energy per gram.
     1480 kcal / 9 kcal/g
     = 164.4 grams of fat
 
-### Step 6: Review the results - we have made the following determinations:
+### Step 8: Review the results - we have made the following determinations:
    1. Total daily energy expenditure: 2300 kcal
    2. Protein requirement: 105 grams, which is 405 calories
    3. Carbohydrate requirement: 100 grams, which is 400 calories
