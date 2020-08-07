@@ -21,11 +21,21 @@ Hydroxychloroquine Update - August 2020
 <!-- insert body of document -->
 In the past 2 weeks, HCQ is back in the news. I've received a lot of questions in the last week, so I wanted to present my most recent thoughts here.
 
-After a careful review of the three most recent high-impact studies on HCQ for CoViD-19, my opinion is that I would not currently take the drug myself, nor recommend it to friends, family, or patients in the event that they were exposed to or contracted SARS-CoV-2 (the virus that causes CoViD-19). All of the existing evidence suggests that the drug does not help in any way, and that the drug has a non-trivial rate of significant side effects including, most commonly, diarrhea (~15%) and less-commonly, but more significantly, cardiac arrhythmias (~1-2% or less). Based on existing evidence, my position holds true even when the drug is used in combination with Azithromycin and/or Zinc.
+In March, I was optimistic that hydroxychloroquine would prevent or treat CoViD-19 based on in vitro studies. I also read several scientific papers that proposed a plausible mechanism of action - [the blocking of endosomal acidification](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates), a process required for viral entry into the cell. In the following months, there were some seemingly promising publications like this one [out of France](http://www.sciencedirect.com/science/article/pii/S0924857920300996), and [this one](https://linkinghub.elsevier.com/retrieve/pii/S1201971220305348) from Henry Ford in Detroit.
 
-I would gladly change my opinion if new or more specific evidence came to light.
+Neither of these articles represented a randomized placebo controlled trial, which is the type of study required to prove a benefit within a population. To understand why this is the case, consider reading [this article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) from [leapsmag](https://leapsmag.com/) by infectious disease doctor Amesh Adalja, MD. 
 
-Here are the three articles that I recently analyzed to reach my current conclusion:
+In addition, both of these studies were also discredited due to methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
+
+Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've read all of them, but the two that interested me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after moderate-high risk exposures, and another at early use for mild-moderate disease. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results.
+
+### So, it doesn't appear that HCQ is effective, but is it safe?
+
+HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15%) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1-2%) in otherwise healthy people who are only mildly ill. In moderately or severely ill patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
+
+Therefore, my conclusion is that the drug is not effective at preventing, reducing, or curing infections, and although reasonably safe, there is a chance of suffering serious adverse-effects or even death, however unlikely. As a result, I will not be taking or recommending this drug unless new evidence comes to light.
+
+What follows is a deeper-dive into the two randomized trials from NEJM, and my look at the problems with the Henry Ford study.
 
 ## A Randomized Trial of Hydroxychloroquine as Post-exposure Prophylaxis for Covid-19
    
@@ -83,14 +93,6 @@ But, the huge difference in treatments between the groups is actually interestin
 The bottom line is that this study epitomizes the problems with a retrospective non-randomized uncontrolled study. There is no way to tell how these patients arrived in their respective treatment groups. We just can't tell anything from this study in terms of which drugs may or may not have been effective.
 
 If you want a marked up PDF with my highlights and comments on this study, go [here](https://kornweiss-medical-llc.github.io/content/references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf).
-
-## Bottom Line on HCQ
-
-Figuring out which drugs work for a disease like CoViD-19, which has a wide range of severities and manifestations is a complex business. Listening to politicians and main-stream news-media on this topic (and probably most others) is going to get your head turned around. My recommendation is to do independent research, but to stick to the highest quality resources you can find. 
-
-Limit your reading to intellectually honest physicians and scientists with careful nuanced viewpoints like Chris Masterjohn PhD, Eric Topol, Peter Attia, MD, Amesh Adalja, MD, and Trevor Bedford. They can all be found on social media.
-
-[This article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) on HCQ from [leapsmag](https://leapsmag.com/) by Amesh Adalja, MD is particularly salient.
 
 ---
 ## HCQ [References](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
