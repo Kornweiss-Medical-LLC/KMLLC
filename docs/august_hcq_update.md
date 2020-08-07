@@ -27,17 +27,19 @@ I've recently received several questions on Hydroxychloroquine (HCQ), largely be
 
 In March, I was optimistic that hydroxychloroquine would prevent or treat CoViD-19 based on *in vitro* studies. I also read several scientific papers that proposed a plausible mechanism of action - [the blocking of endosomal acidification](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates), a process required for viral entry into the cell. In the following months, there were some seemingly promising publications like [this one](http://www.sciencedirect.com/science/article/pii/S0924857920300996) out of France, and [this one](https://linkinghub.elsevier.com/retrieve/pii/S1201971220305348) from Henry Ford in Detroit.
 
-Neither of these articles represented a randomized placebo controlled trial, which is the type of study required to prove a drug beneficial within a population. To understand why this is the case, consider reading [this article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) from [leapsmag](https://leapsmag.com/) by infectious disease doctor Amesh Adalja, MD. 
+Both of these studies claimed exciting positive results. The French study claimed early virologic clearance and the Henry Ford study a huge mortality benefit.
 
-In addition, both of these studies were discredited due to methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
+However, neither of these articles represented a randomized placebo controlled trial, which is the type of study required to prove a drug beneficial within a population. To understand why this is the case, consider reading [this article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) from [leapsmag](https://leapsmag.com/) by infectious disease doctor Amesh Adalja, MD. 
+
+In addition, both of these studies had methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
 
 ### What's new?
 
-Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've reviewed all of them, but the two that interested me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after moderate-high risk exposures, and another at early use for mild-moderate disease. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results. I've done a more in depth review of these two articles below.
+Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've reviewed all of them, but the two that interest me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after SARS-CoV-2 exposures, and another at early use in mild and moderately ill patients. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results. I've done a more in depth review of these two articles below.
 
 ### So, it doesn't appear that HCQ is effective, but is it safe?
 
-HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15% of people) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1-2%) in otherwise healthy people who are only mildly ill. In moderately or severely ill patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
+"Safety" is relative. It's a judgment to be made by individuals. In my opinion, HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15% of people) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1 or 2%) in otherwise healthy people without underlying heart problems, electrolyte disturbances, drug interactions, or other complications. In at-risk patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
 
 ### Bottom Line
 
