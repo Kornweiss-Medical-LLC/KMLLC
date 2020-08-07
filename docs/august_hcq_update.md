@@ -13,7 +13,7 @@
 **Document Title and Description:**
 <p class="title">
 <!-- insert title here -->
-Hydroxychloroquine Update - August 2020
+An Apolitical Review of HCQ
 
 </p>
 
