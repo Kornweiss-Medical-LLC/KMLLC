@@ -21,7 +21,7 @@ Hydroxychloroquine Update - August 2020
 <!-- insert body of document -->
 ## Introduction
 
-I've recently received several questions on Hydroxychloroquine (HCQ), largely because of the article published in Newsweek by Yale Epidemiologist Harvey A. Risch entitled "The Key to Defeating COVID-19 Already Exists. We Need to Start Using It | Opinion." This article circulated widely on social media, and really kicked up the dust on this conversation.
+I've recently received several questions on Hydroxychloroquine (HCQ), largely because of the article published in Newsweek by Yale Epidemiologist Harvey A. Risch entitled "The Key to Defeating COVID-19 Already Exists. We Need to Start Using It" This article circulated widely on social media, and really kicked up the dust on this conversation.
 
 ### In the Beginning
 
