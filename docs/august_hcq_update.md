@@ -19,23 +19,31 @@ Hydroxychloroquine Update - August 2020
 
 
 <!-- insert body of document -->
-In the past 2 weeks, HCQ is back in the news. I've received a lot of questions in the last week, so I wanted to present my most recent thoughts here.
+## Introduction
 
-In March, I was optimistic that hydroxychloroquine would prevent or treat CoViD-19 based on in vitro studies. I also read several scientific papers that proposed a plausible mechanism of action - [the blocking of endosomal acidification](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates), a process required for viral entry into the cell. In the following months, there were some seemingly promising publications like this one [out of France](http://www.sciencedirect.com/science/article/pii/S0924857920300996), and [this one](https://linkinghub.elsevier.com/retrieve/pii/S1201971220305348) from Henry Ford in Detroit.
+I've recently received several questions on Hydroxychloroquine (HCQ), largely because of the article published in Newsweek by Yale Epidemiologist Harvey A. Risch entitled "The Key to Defeating COVID-19 Already Exists. We Need to Start Using It | Opinion." This article circulated widely on social media, and really kicked up the dust on this conversation.
 
-Neither of these articles represented a randomized placebo controlled trial, which is the type of study required to prove a benefit within a population. To understand why this is the case, consider reading [this article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) from [leapsmag](https://leapsmag.com/) by infectious disease doctor Amesh Adalja, MD. 
+### In the Beginning
 
-In addition, both of these studies were also discredited due to methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
+In March, I was optimistic that hydroxychloroquine would prevent or treat CoViD-19 based on *in vitro* studies. I also read several scientific papers that proposed a plausible mechanism of action - [the blocking of endosomal acidification](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates), a process required for viral entry into the cell. In the following months, there were some seemingly promising publications like [this one](http://www.sciencedirect.com/science/article/pii/S0924857920300996) out of France, and [this one](https://linkinghub.elsevier.com/retrieve/pii/S1201971220305348) from Henry Ford in Detroit.
 
-Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've read all of them, but the two that interested me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after moderate-high risk exposures, and another at early use for mild-moderate disease. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results.
+Neither of these articles represented a randomized placebo controlled trial, which is the type of study required to prove a drug beneficial within a population. To understand why this is the case, consider reading [this article](https://leapsmag.com/the-only-hydroxychloroquine-story-you-need-to-read/) from [leapsmag](https://leapsmag.com/) by infectious disease doctor Amesh Adalja, MD. 
+
+In addition, both of these studies were discredited due to methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
+
+### What's new?
+
+Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've reviewed all of them, but the two that interested me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after moderate-high risk exposures, and another at early use for mild-moderate disease. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results. I've done a more in depth review of these two articles below.
 
 ### So, it doesn't appear that HCQ is effective, but is it safe?
 
-HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15%) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1-2%) in otherwise healthy people who are only mildly ill. In moderately or severely ill patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
+HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15% of people) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1-2%) in otherwise healthy people who are only mildly ill. In moderately or severely ill patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
 
-Therefore, my conclusion is that the drug is not effective at preventing, reducing, or curing infections, and although reasonably safe, there is a chance of suffering serious adverse-effects or even death, however unlikely. As a result, I will not be taking or recommending this drug unless new evidence comes to light.
+### Bottom Line
 
-What follows is a deeper-dive into the two randomized trials from NEJM, and my look at the problems with the Henry Ford study.
+My conclusion is that this drug is not worth taking. It doesn't appear to be effective at preventing, reducing, or curing SARS-CoV-2 infections, and although reasonably safe, there is a chance of suffering serious adverse-effects or even death, however unlikely. As a result, I will not be taking or recommending this drug unless new evidence comes to light.
+
+What follows is a deeper-dive into the two randomized trials from NEJM, and my look at the Henry Ford study.
 
 ## A Randomized Trial of Hydroxychloroquine as Post-exposure Prophylaxis for Covid-19
    
