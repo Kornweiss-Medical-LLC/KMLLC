@@ -17,9 +17,17 @@ An Apolitical Review of HCQ
 
 </p>
 
+- [Why I Wrote This](#why-i-wrote-this)
+- [What's the new evidence?](#whats-the-new-evidence)
+- [My Bottom Line](#my-bottom-line)
+- [A Randomized Trial of Hydroxychloroquine as Post-exposure Prophylaxis for Covid-19](#a-randomized-trial-of-hydroxychloroquine-as-post-exposure-prophylaxis-for-covid-19)
+- [What about Zinc?](#what-about-zinc)
+- [Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 | NEJM](#hydroxychloroquine-with-or-without-azithromycin-in-mild-to-moderate-covid-19--nejm)
+- [Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19](#treatment-with-hydroxychloroquine-azithromycin-and-combination-in-patients-hospitalized-with-covid-19)
+
 
 <!-- insert body of document -->
-## Introduction
+## Why I Wrote This
 
 I've recently received several questions on Hydroxychloroquine (HCQ), largely because of the article published in Newsweek by Yale Epidemiologist Harvey A. Risch entitled "The Key to Defeating COVID-19 Already Exists. We Need to Start Using It" This article circulated widely on social media, and really kicked up the dust on this conversation.
 
@@ -33,15 +41,15 @@ However, neither of these articles represented a randomized placebo controlled t
 
 In addition, both of these studies had methodological flaws. Read [this critique](http://www.sciencedirect.com/science/article/pii/S0924857920302338) of the French article, and [this critique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7388815/) of the Henry Ford paper.
 
-### What's new?
+## What's the new evidence?
 
-Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've reviewed all of them, but the two that interest me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after SARS-CoV-2 exposures, and another at early use in mild and moderately ill patients. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results. I've done a more in depth review of these two articles below.
+Now, there are several randomized placebo controlled trials, none of which have showed positive results for the drug. I've reviewed all of them (*as of August 6th, 2020*), but the two that interest me most were published in NEJM. One randomized trial looked at HCQ for prophylaxis after SARS-CoV-2 exposures, and another at early use in mild and moderately ill patients. Neither study is perfect, but they are both randomized and placebo-controlled, and neither revealed promising results. I've done a more in depth review of these two articles below.
 
 ### So, it doesn't appear that HCQ is effective, but is it safe?
 
 "Safety" is relative. It's a judgment to be made by individuals. In my opinion, HCQ is fairly safe, but there is a significant incidence of diarrhea (at least 15% of people) and several other side effects. The most dreaded adverse effect is cardiac arrhythmia, which can be deadly. Arrhythmia is unlikely (perhaps less than 1 or 2%) in otherwise healthy people without underlying heart problems, electrolyte disturbances, drug interactions, or other complications. In at-risk patients, the rate of arrhythmia may be significantly higher; perhaps between 1 and 10%.
 
-### Bottom Line
+## My Bottom Line
 
 My conclusion is that this drug is not worth taking. It doesn't appear to be effective at preventing, reducing, or curing SARS-CoV-2 infections, and although reasonably safe, there is a chance of suffering serious adverse-effects or even death, however unlikely. As a result, I will not be taking or recommending this drug unless new evidence comes to light.
 
@@ -53,7 +61,7 @@ What follows is a deeper-dive into the two randomized trials from NEJM, and my l
 
    >*Definition*: High or moderate Risk Exposure was defined as "adults who had household or occupational exposure to someone with confirmed Covid-19 at a distance of less than 6 ft for more than 10 minutes while wearing neither a face mask nor an eye shield (high-risk exposure) or while wearing a face mask but no eye shield (moderate-risk exposure)"
 
-**What about Zinc?**
+## What about Zinc?
 
 Some people think that HCQ will only work as prophylaxis (or treatment) if given with zinc. They believe that HCQ works as a "zinc ionophore" (an ionophore is a substance which is able to transport ions across a lipid membrane into a cell). Essentially, some people think that HCQ helps zinc get into the cell, and then, either zinc alone, or HCQ and zinc together can disable the virus in some way. To my knowledge, there hasn't been a great study using zinc and HCQ together as prophylaxis, but, Chris Masterjohn, PhD, a biochemist, wrote [this article](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates) explaining why he doesn't believe that this is a plausible mechanism for zinc's antiviral activity. I don't have the expertise to analyze this other than to say that Chris's analysis makes sense to me based on my knowledge of biochemistry.
 
@@ -105,7 +113,35 @@ The bottom line is that this study epitomizes the problems with a retrospective 
 If you want a marked up PDF with my highlights and comments on this study, go [here](https://kornweiss-medical-llc.github.io/content/references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf).
 
 ---
-## HCQ [References](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
+### [Reference Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39) - this link will take you to a dynamic library of articles that is constantly updated based on what I read and find useful.
+
+### High Impact Hydroxychloroquine References
+
+- **Randomized Controlled Studies**
+    - Boulware, David R., Matthew F. Pullen, Ananta S. Bangdiwala, Katelyn A. Pastick, Sarah M. Lofgren, Elizabeth C. Okafor, Caleb P. Skipper, et al. 2020. “A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19.” __New England Journal of Medicine__ 0 (0): null. https://doi.org/10.1056/NEJMoa2016638.
+    - “Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 | NEJM.” n.d. Accessed August 3, 2020. https://www.nejm.org/doi/10.1056/NEJMoa2019014.
+    - Tang, Wei, Zhujun Cao, Mingfeng Han, Zhengyan Wang, Junwen Chen, Wenjin Sun, Yaojie Wu, et al. 2020. “Hydroxychloroquine in Patients with Mainly Mild to Moderate Coronavirus Disease 2019: Open Label, Randomised Controlled Trial.” __BMJ__ 369 (May). https://doi.org/10.1136/bmj.m1849.
+    - Skipper, Caleb P., Katelyn A. Pastick, Nicole W. Engen, Ananta S. Bangdiwala, Mahsa Abassi, Sarah M. Lofgren, Darlisha A. Williams, et al. 2020. “Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19.” __Annals of Internal Medicine__, July. https://doi.org/10.7326/M20-4207.
+    - “No Clinical Benefit from Use of Hydroxychloroquine in Hospitalised Patients with COVID-19 — RECOVERY Trial.” n.d. Accessed August 8, 2020. https://www.recoverytrial.net/news/statement-from-the-chief-investigators-of-the-randomised-evaluation-of-covid-19-therapy-recovery-trial-on-hydroxychloroquine-5-june-2020-no-clinical-benefit-from-use-of-hydroxychloroquine-in-hospitalised-patients-with-covid-19.
+- **Observational or Retrospective**
+    - Geleris, Joshua, Yifei Sun, Jonathan Platt, Jason Zucker, Matthew Baldwin, George Hripcsak, Angelena Labella, et al. 2020. “Observational Study of Hydroxychloroquine in Hospitalized Patients with Covid-19.” __New England Journal of Medicine__ 382 (25): 2411–18. https://doi.org/10.1056/NEJMoa2012410.
+    - Scholz, Martin, Roland Derwand, and Vladimir Zelenko. 2020. “COVID-19 Outpatients – Early Risk-Stratified Treatment with Zinc Plus Low Dose Hydroxychloroquine and Azithromycin: A Retrospective Case Series Study,” July. https://doi.org/10.20944/preprints202007.0025.v1.
+- **Mechanism**
+    - “Are Chloroquine and Hydroxychloroquine Zinc Ionophores? [COVID-19 Updates].” n.d. Chris Masterjohn, PhD. Accessed August 8, 2020. https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates.
+- **Heavily Sited Sources in Favor of HCQ**
+    - **The Henry Ford Study**
+        - Arshad, Samia, Paul Kilgore, Zohra S. Chaudhry, Gordon Jacobsen, Dee Dee Wang, Kylie Huitsing, Indira Brar, et al. 2020. “Treatment with Hydroxychloroquine, Azithromycin, and Combination in Patients Hospitalized with COVID-19.” __International Journal of Infectious Diseases__ 97 (August): 396–403. https://doi.org/10.1016/j.ijid.2020.06.099.
+            - **Critique of the Henry Ford Study**
+                - Rosenberg, Eli S., David R. Holtgrave, and Tomoko Udo. 2020. “Clarifying the Record on Hydroxychloroquine for the Treatment of Patients Hospitalized with COVID-19.” __International Journal of Infectious Diseases__, July. https://doi.org/10.1016/j.ijid.2020.07.055.
+    - **The French Viral Clearance Paper**
+        - Gautret, Philippe, Jean-Christophe Lagier, Philippe Parola, Van Thuan Hoang, Line Meddeb, Morgane Mailhe, Barbara Doudier, et al. 2020. “Hydroxychloroquine and Azithromycin as a Treatment of COVID-19: Results of an Open-Label Non-Randomized Clinical Trial.” __International Journal of Antimicrobial Agents__ 56 (1): 105949. https://doi.org/10.1016/j.ijantimicag.2020.105949.
+            - **Critique of the French Viral Clearance Paper**
+                - Rosendaal, Frits R. 2020. “Review of: “Hydroxychloroquine and Azithromycin as a Treatment of COVID-19: Results of an Open-Label Non-Randomized Clinical Trial Gautret et al 2010, DOI:10.1016/j.Ijantimicag.2020.105949.” __International Journal of Antimicrobial Agents__ 56 (1): 106063. https://doi.org/10.1016/j.ijantimicag.2020.106063.
+- **Newsweek piece by Yale Epidemiologist, Risch**
+    - “The Key to Defeating COVID-19 Already Exists. We Need to Start Using It | Opinion.” 2020. Newsweek. July 23, 2020. https://www.newsweek.com/key-defeating-covid-19-already-exists-we-need-start-using-it-opinion-1519535.
+- **The Guardian Article about Surgisphere and the retracted Lancet Study**
+    - Washington, Melissa Davey Stephanie Kirchgaessner in, and Sarah Boseley in London. 2020. “Surgisphere: Governments and WHO Changed Covid-19 Policy Based on Suspect Data from Tiny US Company.” __The Guardian__, June 3, 2020, sec. World news. https://www.theguardian.com/world/2020/jun/03/covid-19-surgisphere-who-world-health-organization-hydroxychloroquine.
+
 
 ---
 
