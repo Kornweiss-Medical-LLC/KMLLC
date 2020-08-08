@@ -22,7 +22,7 @@ An Apolitical Review of HCQ
 - [My Bottom Line](#my-bottom-line)
 - [A Randomized Trial of Hydroxychloroquine as Post-exposure Prophylaxis for Covid-19](#a-randomized-trial-of-hydroxychloroquine-as-post-exposure-prophylaxis-for-covid-19)
 - [What about Zinc?](#what-about-zinc)
-- [Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 | NEJM](#hydroxychloroquine-with-or-without-azithromycin-in-mild-to-moderate-covid-19--nejm)
+- [Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 \| NEJM](#hydroxychloroquine-with-or-without-azithromycin-in-mild-to-moderate-covid-19--nejm)
 - [Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19](#treatment-with-hydroxychloroquine-azithromycin-and-combination-in-patients-hospitalized-with-covid-19)
 
 
@@ -65,7 +65,7 @@ What follows is a deeper-dive into the two randomized trials from NEJM, and my l
 
 Some people think that HCQ will only work as prophylaxis (or treatment) if given with zinc. They believe that HCQ works as a "zinc ionophore" (an ionophore is a substance which is able to transport ions across a lipid membrane into a cell). Essentially, some people think that HCQ helps zinc get into the cell, and then, either zinc alone, or HCQ and zinc together can disable the virus in some way. To my knowledge, there hasn't been a great study using zinc and HCQ together as prophylaxis, but, Chris Masterjohn, PhD, a biochemist, wrote [this article](https://chrismasterjohnphd.com/covid-19/are-chloroquine-and-hydroxychloroquine-zinc-ionophores-covid-19-updates) explaining why he doesn't believe that this is a plausible mechanism for zinc's antiviral activity. I don't have the expertise to analyze this other than to say that Chris's analysis makes sense to me based on my knowledge of biochemistry.
 
-## Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 | NEJM
+## Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 \| NEJM
    
    [This study](https://www.nejm.org/doi/10.1056/NEJMoa2019014) examined HCQ as treatment for mild-moderate CoViD-19 disease. Patients were randomized either to standard care, standard care + HCQ or standard care + HCQ+Azithro. Standard care was determined by the treating clinician, which is an important fact that I'll discuss below. Here are the key outcomes data:
 
