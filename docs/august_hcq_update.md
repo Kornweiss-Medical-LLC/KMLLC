@@ -67,11 +67,11 @@ Some people think that HCQ will only work as prophylaxis (or treatment) if given
 
 ## Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19 \| NEJM
    
-   [This study](https://www.nejm.org/doi/10.1056/NEJMoa2019014) examined HCQ as treatment for mild-moderate CoViD-19 disease. Patients were randomized either to standard care, standard care + HCQ or standard care + HCQ+Azithro. Standard care was determined by the treating clinician, which is an important fact that I'll discuss below. Here are the key outcomes data:
+   [This study](https://www.nejm.org/doi/10.1056/NEJMoa2019014) examined HCQ as treatment for mild-moderate CoViD-19 disease. Patients were randomized either to standard care, standard care + HCQ or standard care + HCQ + Azithromycin. Standard care was determined by the treating clinician, which is an important fact that I'll mention again below. Here are the key outcomes data:
 
 ![](https://kornweiss-medical-llc.github.io/content/images/table2_01.png)
 
-You can see the numbers for yourself in this table. The numbers are looking really similar on every level - number of people in the hospital, requiring oxygen, on ventilators, deceased, etc. 
+You can see the numbers for yourself in this table. Regardless of treatment group, the numbers are really similar on every level - number of people in the hospital, requiring oxygen, on ventilators, deceased, etc. 
 
 **Other Treatments Used in This Study**
 
@@ -89,7 +89,7 @@ Overall, I think this study is high-quality evidence suggesting that HCQ is unli
 
 ## Treatment with hydroxychloroquine, azithromycin, and combination in patients hospitalized with COVID-19
 
-This paper was based on data analysis of patients who were hospitalized at the Henry Ford hospital system in Detroit from March 10, 2020 to May 2, 2020. The patients were all treated based on the physician's discretion, and then, after the fact, they were grouped into four groups.
+[This paper](https://doi.org/10.1016/j.ijid.2020.06.099) was based on data analysis of patients who were hospitalized at the Henry Ford hospital system in Detroit from March 10, 2020 to May 2, 2020. The patients were all treated based on the physician's discretion, and then, after the fact, they were separated into four groups.
 
 1. Neither medication
 2. HCQ
@@ -113,9 +113,12 @@ The bottom line is that this study epitomizes the problems with a retrospective 
 If you want a marked up PDF with my highlights and comments on this study, go [here](https://kornweiss-medical-llc.github.io/content/references/Arshad%20et%20al.%20-%202020%20-%20Treatment%20with%20hydroxychloroquine,%20azithromycin,%20a.pdf).
 
 ---
-### [Reference Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39) - this link will take you to a dynamic library of articles that is constantly updated based on what I read and find useful.
+### [Reference Library](https://www.zotero.org/groups/2437331/kornweiss_medical/collections/7QC6NC39)
+>This link will take you to a dynamic reference library. If I read a new article on this topic that I think is important, I'll add it to the library.
 
-### High Impact Hydroxychloroquine References
+---
+
+### Hydroxychloroquine References
 
 - **Randomized Controlled Studies**
     - Boulware, David R., Matthew F. Pullen, Ananta S. Bangdiwala, Katelyn A. Pastick, Sarah M. Lofgren, Elizabeth C. Okafor, Caleb P. Skipper, et al. 2020. “A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19.” __New England Journal of Medicine__ [link](https://doi.org/10.1056/NEJMoa2016638).
