@@ -52,9 +52,8 @@ One hour later, the man met yet another doctor. This doctor is called an anesthe
 
 Next, another doctor called a surgeon came in. He explained how he would do the surgery. He indicated that he would make 3 small incisions on the man's abdomen, each about one inch long - one by the belly button (umbilicus), one over the bladder, and one by the left groin. Through each incision, the surgeon said he would insert a different device. The incision by the umbilicus would be used for a small camera. Using the camera, the surgeon would be able to see what's happening on the inside of the man's abdomen. Next, the surgeon would inflate the man's abdomen like a balloon by pumping carbon dioxide in through one of the ports. Next, the surgeon would insert graspers to move the bowels around in order to find the appendix. And, finally, the surgeon said he would use a special tool to cut out the appendix and seal the opening (where the appendix used to be) with staples. The appendix would be removed through one of the ports, the gas evacuated from the abdomen, and the incisions closed with glue.
 
-![](http://img.youtube.com/vi/JE4IVwE8Zto/0.jpg)
-
 [![](http://img.youtube.com/vi/JE4IVwE8Zto/0.jpg)](https://www.youtube.com/watch?v=JE4IVwE8Zto)
+*This is a Youtube video of real surgery - watch at your own risk*
 
 The procedure went as planned, and the man woke up an hour later in the anesthesia care unit for recovery. Sixty minute later, the man was wheeled to his car and driven home.
 
