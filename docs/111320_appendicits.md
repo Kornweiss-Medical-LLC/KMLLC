@@ -5,7 +5,7 @@
 
       Kornweiss Medical LLC
       Author: Steven Kornweiss, MD
-      Date: 2020-11-13 13:03:56
+      Date: 2020-11-15 16:05:03
       
    <p class="email"><a href="mailto:feedback@kornweissmedical.com">Send Questions and Comments by E-mail Here</a></p>
 
@@ -116,7 +116,7 @@ There were six doctors involved in my care, two CT technologists, at least six n
 
 **It feels bad when your doctor doesn't listen to you.**
 
-In my case, it didn't matter much, because I was both patient and doctor, and I was fairly certain of my own diagnosis. But, ultimately it was upsetting that the other doctor didn't listen to me (in all fairness, this other doctor is a close colleague of mine and he knew from the outset that I was going to have a CT scan, so this is not a great example, and certainly is not a criticism of any of him or any of my other colleagues). But, it was a good reminder that, doctors, like everyone else, sometimes don't listen adequately. When a patient tells me something is wrong, I believe them, and now with renewed vigor. Mistakes still happen, but most are avoidable merely by listening intently to patients.
+In my case, it didn't matter much, because I was both patient and doctor, and I was fairly certain of my own diagnosis. But, ultimately it was upsetting that the other doctor didn't listen to me (in all fairness, this other doctor did listen, and he knew from the outset that I was going to have a CT scan, so this is not a great example, and certainly is not a criticism of him or any of my other colleagues). But, it was a good reminder that, doctors, like everyone else, sometimes don't listen adequately. When a patient tells me something is wrong, I believe them, and now with renewed vigor. Mistakes still happen, but most are avoidable merely by listening intently to patients.
 
 [Sir William Osler](https://en.wikipedia.org/wiki/William_Osler), Canadian Physician, one of four founding professors of Johns Hopkins Hospital, who has frequently been described as the Father of Modern Medicine and one of the "greatest diagnosticians ever to wield a stethoscope."[[1]], said "Listen to your patient, he is telling you the diagnosis." In my case, this was literally true. But, when Osler said this, what he meant was that when patients describe their symptoms, they are giving the doctor clues to their diagnosis. It is the doctor's job to listen very carefully, to interpret what the patient says, and most of all, to think deeply. The physician who disregards or fails to hear a patient's symptoms puts both the patient and themselves in great peril.
 
