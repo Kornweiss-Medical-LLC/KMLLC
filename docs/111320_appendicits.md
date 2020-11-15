@@ -69,7 +69,7 @@ If the appendix ruptures, stool and infectious material leak into the abdominal 
 
 *Why I didn't want to lose my appendix*
 
-Most people believe that the appendix serves no known function. I remember being taught about vestigial organs in middle school. The appendix was used as an example. But, the appendix likely serves an important role in gastrointestinal immunity. The appendix is a blind loop of bowel that is associated with immune tissue and is populated with potentially beneficial bacteria [[1]]. At least one study has found an association of appendectomy with increased risk of colorectal cancer [[2]], while another did not [[3]]. Last, while uncommon, there is a chance of surgical complication with any surgery, however routine.
+Most people believe that the appendix serves no known function. I remember being taught about vestigial organs in middle school. The appendix was used as an example. But, the appendix likely serves an important role in gastrointestinal immunity. The appendix is a blind loop of bowel that is associated with immune tissue and is populated with potentially beneficial bacteria [^1]. At least one study has found an association of appendectomy with increased risk of colorectal cancer [[2]], while another did not [[3]]. Last, while uncommon, there is a chance of surgical complication with any surgery, however routine.
 
 ### How was my appendectomy performed and how was my post-operative course?
 
@@ -172,7 +172,8 @@ It's extremely important to walk after surgery. I didn't walk as much as I shoul
 ---
 ## [References](https://www.zotero.org/groups/2437331/kornweiss_medical)
 
-[[1]]: Randal Bollinger, R., Andrew S. Barbas, Errol L. Bush, Shu S. Lin, and William Parker. 2007. “Biofilms in the Large Bowel Suggest an Apparent Function of the Human Vermiform Appendix.” Journal of Theoretical Biology 249 (4): 826–31. doi:10.1016/j.jtbi.2007.08.032.
+[^1]:
+Randal Bollinger, R., Andrew S. Barbas, Errol L. Bush, Shu S. Lin, and William Parker. 2007. “Biofilms in the Large Bowel Suggest an Apparent Function of the Human Vermiform Appendix.” Journal of Theoretical Biology 249 (4): 826–31. doi:10.1016/j.jtbi.2007.08.032.
 
 [[2]]: Wu, Shih-Chi, William Tzu-Liang Chen, Chih-Hsin Muo, Tao-Wei Ke, Chu-Wen Fang, and Fung-Chang Sung. 2015. “Association between Appendectomy and Subsequent Colorectal Cancer Development: An Asian Population Study.” PLoS ONE 10 (2). doi:10.1371/journal.pone.0118411.
 
