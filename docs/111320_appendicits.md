@@ -61,11 +61,17 @@ On the CT scan, the doctor was able to see a very swollen, enlarged appendix wit
 
 The doctor and the patient in this case were both me! I diagnosed my own case of appendicitis while working a shift in the emergency department.
 
-**What happened?**
+### What happened?
 
 After I made the diagnosis, I decided to have my appendix removed surgically. Prior to this ordeal, I had always thought that if I had appendicitis, I would choose antibiotics over surgery, but once I learned that my appendix was obstructed by a stone, I decided that the risk of antibiotics failing and my appendix subsequently rupturing outweighed the risk of surgery.
 
 If the appendix ruptures, stool and infectious material leak into the abdominal cavity often causing an abscess to form. This usually requires hospitalization and surgical drains, as well as prolonged courses of antibiotics. It can also cause surgery to become more complicated. The healing process from the infection can cause scarring, and adhesions around the bowels, which can lead to bowel obstructions in the future if loops of bowel become strangulated by the scar tissue. I really did not want this to happen.
+
+*Why I didn't want to lose my appendix*
+
+Most people believe that the appendix serves no known function. I remember being taught about vestigial organs in middle school. The appendix was used as an example. But, the appendix likely serves an important role in gastrointestinal immunity. The appendix is a blind loop of bowel that is associated with immune tissue and is populated with potentially beneficial bacteria [[1]]. At least one study has found an association of appendectomy with increased risk of colorectal cancer [[2]], while another did not [[3]]. Last, while uncommon, there is a chance of surgical complication with any surgery, however routine.
+
+### How was my appendectomy performed and how was my post-operative course?
 
 Before my operation, I met my anesthesiologist. She explained that I would undergo general anesthesia. I would be injected with medications and inhale gases to render me unconscious. Then, I would be given a medication to paralyze me, and a breathing tube would be placed into my trachea. I would be connected to a ventilator. This is all done to decrease the risk that I might move while the surgeon is operating. The anesthesiologist can also keep me sedated by pumping inhaled anesthetic gas through the ventilation circuit.
 
@@ -118,7 +124,7 @@ There were six doctors involved in my care, two CT technologists, at least six n
 
 In my case, it didn't matter much, because I was both patient and doctor, and I was fairly certain of my own diagnosis. But, ultimately it was upsetting that the other doctor didn't listen to me (in all fairness, this other doctor did listen, and he knew from the outset that I was going to have a CT scan, so this is not a great example, and certainly is not a criticism of him or any of my other colleagues). But, it was a good reminder that, doctors, like everyone else, sometimes don't listen adequately. When a patient tells me something is wrong, I believe them, and now with renewed vigor. Mistakes still happen, but most are avoidable merely by listening intently to patients.
 
-[Sir William Osler](https://en.wikipedia.org/wiki/William_Osler), Canadian Physician, one of four founding professors of Johns Hopkins Hospital, who has frequently been described as the Father of Modern Medicine and one of the "greatest diagnosticians ever to wield a stethoscope."[[1]], said "Listen to your patient, he is telling you the diagnosis." In my case, this was literally true. But, when Osler said this, what he meant was that when patients describe their symptoms, they are giving the doctor clues to their diagnosis. It is the doctor's job to listen very carefully, to interpret what the patient says, and most of all, to think deeply. The physician who disregards or fails to hear a patient's symptoms puts both the patient and themselves in great peril.
+[Sir William Osler](https://en.wikipedia.org/wiki/William_Osler), Canadian Physician, one of four founding professors of Johns Hopkins Hospital, who has frequently been described as the Father of Modern Medicine and one of the "greatest diagnosticians ever to wield a stethoscope." [[4]], said "Listen to your patient, he is telling you the diagnosis." In my case, this was literally true. But, when Osler said this, what he meant was that when patients describe their symptoms, they are giving the doctor clues to their diagnosis. It is the doctor's job to listen very carefully, to interpret what the patient says, and most of all, to think deeply. The physician who disregards or fails to hear a patient's symptoms puts both the patient and themselves in great peril.
 
 **Be nice to everyone all the time.**
 
@@ -165,7 +171,16 @@ It's extremely important to walk after surgery. I didn't walk as much as I shoul
 
 ---
 ## [References](https://www.zotero.org/groups/2437331/kornweiss_medical)
-[[1]]: https://en.wikipedia.org/wiki/William_Osler
+
+[[1]]: Randal Bollinger, R., Andrew S. Barbas, Errol L. Bush, Shu S. Lin, and William Parker. 2007. “Biofilms in the Large Bowel Suggest an Apparent Function of the Human Vermiform Appendix.” Journal of Theoretical Biology 249 (4): 826–31. doi:10.1016/j.jtbi.2007.08.032.
+
+[[2]]: Wu, Shih-Chi, William Tzu-Liang Chen, Chih-Hsin Muo, Tao-Wei Ke, Chu-Wen Fang, and Fung-Chang Sung. 2015. “Association between Appendectomy and Subsequent Colorectal Cancer Development: An Asian Population Study.” PLoS ONE 10 (2). doi:10.1371/journal.pone.0118411.
+
+[[3]]: Song, Huan, Christian C. Abnet, Åke Andrén-Sandberg, Anil K. Chaturvedi, and Weimin Ye. 2016. “Risk of Gastrointestinal Cancers among Patients with Appendectomy: A Large-Scale Swedish Register-Based Cohort Study during 1970-2009.” PLoS ONE 11 (3). doi:10.1371/journal.pone.0151262.
+
+[[4]]: https://en.wikipedia.org/wiki/William_Osler
+
+
 ---
 
 Website: <https://kornweissmedical.com>
