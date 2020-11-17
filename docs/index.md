@@ -9,7 +9,7 @@ This site is for the purpose of drafting and sharing new content as it is create
 
 ## Articles / Posts
 - [November 13th, 2020](111320_appendicits.md)
-  - A True Story of Appendicitis
+  - A Physician-Patient Chronicles His Own Case of Appendicitis
 - [August 3rd, 2020](august_hcq_update.md)
   - Hydroxychloroquine and Zinc
 - [July 27th, 2020](calculating_macronutrients.md)
