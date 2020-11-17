@@ -52,17 +52,17 @@ I asked her for the anesthesia plan, which included a series of medications star
 
 There are three major categories of analgesics:
     
-Narcotics
+**Narcotics**
         
-    This category includes medications like oxycodone, morphine, fentanyl and hydromorphone. My anesthesiologist was planning to use fentanyl. This drug works almost instantly after it's administered through an IV, but usually wears off within 30-120 minutes depending on the individual and the dose given.
+This category includes medications like oxycodone, morphine, fentanyl and hydromorphone. My anesthesiologist was planning to use fentanyl. This drug works almost instantly after it's administered through an IV, but usually wears off within 30-120 minutes depending on the individual and the dose given.
     
-NSAIDS (non-steroidal anti-inflammatory drugs)
+**NSAIDS** (non-steroidal anti-inflammatory drugs)
         
-    This category includes medications like ibuprofen, naproxen, and ketorolac. My anesthesiologist was planning to use ketorolac. Ketorolac is an effective pain medicine that has no habit-forming (addicting) properties, and does not make the patient feel sedated in any way. It also has antiinflammatory properties. It's used frequently for renal colic (the pain from kidney stones and kidney infections), and also often for gynecologic pathology, and musculoskeletal injuries.
+This category includes medications like ibuprofen, naproxen, and ketorolac. My anesthesiologist was planning to use ketorolac. Ketorolac is an effective pain medicine that has no habit-forming (addicting) properties, and does not make the patient feel sedated in any way. It also has antiinflammatory properties. It's used frequently for renal colic (the pain from kidney stones and kidney infections), and also often for gynecologic pathology, and musculoskeletal injuries.
     
-Acetaminophen
+**Acetaminophen**
         
-    Acetaminophen, or Tylenol, is often used for analgesia and as an anti-pyretic (temperature/fever reducer). In the operating room, anesthesiologists will sometimes use intravenous Tylenol to treat pain. My anesthesiologist planned to use this as well.
+Acetaminophen, or Tylenol, is often used for analgesia and as an anti-pyretic (temperature/fever reducer). In the operating room, anesthesiologists will sometimes use intravenous Tylenol to treat pain. My anesthesiologist planned to use this as well.
 
 I was in very little pain, and I wanted to experience post-operative pain for the purposes of educating myself and others without these medications in my system. I refused all three, but I relented on the IV Tylenol. I did not take or receive any other pain medications before, during, or after my surgery besides this one dose of IV Tylenol, nor did I feel it was necessary at any time. This may not be true for others who might have varying degrees of inflammation or a different experience with pain than I did.
 
