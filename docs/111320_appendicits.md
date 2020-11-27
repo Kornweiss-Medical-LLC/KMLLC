@@ -13,9 +13,11 @@
 **Document Title and Description:**
 <p class="title">
 <!-- insert title here -->
-A Physician-Patient Chronicles His Own Case of Appendicitis
+
+# A Physician-Patient Chronicles His Own Case of Appendicitis
 </p>
-What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
+
+## What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
 
 ---
 - [History and Diagnosis](#history-and-diagnosis)
