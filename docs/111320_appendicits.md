@@ -14,7 +14,7 @@
 <p class="title">
 <!-- insert title here -->
 
-A Physician-Patient Chronicles His Own Case of Appendicitis
+When Physician Becomes Patient: A Case of Appendicitis
 </p>
 
 What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
@@ -36,7 +36,8 @@ At 11 AM, I noticed a few mild cramps again in my lower abdomen. I believed this
 
 I resumed work, but a few minutes later when I noted that the pain had not receded, I was compelled to examine my own abdomen. I laid flat on a stretcher, and pressed deeply over the right lower part of my abdomen. I encountered a small tender area between my umbilicus (belly button) and my right groin, a point known by medical professionals as "McBurney's Point." 
 
-![McBurney's Point](images/fowler_mcburneys_point.png)
+![McBurney's Point](https://kornweiss-medical-llc.github.io/content/images/fowler_mcburneys_point.png)
+
 Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 171.
 
 I surveyed myself and noted the absence of any other symptoms. I did not have nausea, fever, a loss of appetite, or malaise. Besides the pain, which had now dulled, I felt normal. I moved my leg back and forth, walked, squatted, extended at the hip, and I felt no worsening of the pain.
@@ -47,8 +48,9 @@ I worked for five more hours. The pain persisted, but it was quite mild most of 
 
 After completing my clinical duties, I performed an ultrasound of my own abdomen. The moment I placed the ultrasound probe over the area of tenderness, I saw a black circle circumscribing a white circle which contained a white dome with black shadowing. 
 
-![Appendix Ultrasound](images/appendix_ultrasound_annotated.jpg)
-This is a still image of my actual ultrasound, appendix circled in red.
+![Appendix Ultrasound](https://kornweiss-medical-llc.github.io/content/images/appendix_ultrasound_annotated.jpg)
+
+This is an image of my actual ultrasound, appendix circled in red.
 
 I knew this likely represented a loop of bowel containing a hard substance all surrounded by fluid; in other words, I believed I had found an inflamed appendix harboring a stone, called an appendicolith (appendico-lith means, literally, appendix-stone -- appendicoliths typically form when stool enters the appendix and remains stuck there long enough for some hardening and calcification to occur). The appendix is a small loop, or pouch, with a dead end. This is one way it’s differentiated from other loops of bowel on ultrasound.
 
