@@ -148,7 +148,7 @@ In my case, I went home after this monitoring period. I was mildly sore, but com
 
 Let me say at the outset, as an emergency physician, I tend to worry about worst case scenarios. And in my own case, I did worry frequently, especially during my second postoperative week, that something was wrong. My postoperative course has been uneventful thus far (I am now over three weeks out as I write this).  My expectations that I would feel completely recovered within a few days were simply unrealistic.
 
-**Week One**
+#### Week One
 
 On postoperative day one, my abdomen was significantly distended (bloated) to the point of feeling taut. I could not wear any of my usual clothing. Sitting up and down was difficult. I had to use my arms to push myself up from a seated position. Instinctively, I did not want to attempt any abdominal contraction. I had little appetite. But, I did eat small amounts of food (I'll give details below) and drank water with stool softener. I did have pain underneath my right trapezius muscle (my right shoulder), which is referred pain from distension and subdiaphragmatic air from surgery. This subsided by the beginning of day two.
 
@@ -164,13 +164,13 @@ I did not take any medication at all. I chose to avoid NSAIDs like ibuprofen bec
 
 Meanwhile, at the hospital, a pathologist examined my appendix. It's routine for the surgeon to send surgical specimens for pathology examination. There are several reasons for doing this. In cases of appendicitis, it's important both to confirm the diagnosis, and to look for other diagnoses such as appendiceal cancers, which occur from time to time. Pathologists are specially trained doctors who examine biopsies (tissue samples) and who also perform whole autopsies to find out what is (or was) wrong. The pathologist confirmed my diagnosis: acute appendicitis. This determination was made by looking at the appendix with the naked eye, and by examining thin slices of the appendix under a microscope.
 
-**Week Two**
+#### Week Two
 
 By day eight, I was able to work. However, my abdomen still felt slightly swollen and heavy, and I had sharp pains deep within my pelvis every one or two hours that were similar to the pains I had before surgery. While disturbing, and worrisome, these pains were intermittent, and I felt better overall. I did not have any fevers, nausea, vomiting, or worsening pain. This improved a little bit each day.
 
 I was worried on day ten when I continued to have right lower quadrant pain and tenderness, so I visited my primary doctor for an evaluation. He examined me and agreed that I was in fact still quite tender. He ordered labs which included a CBC and a CRP (c-reactive protein - a very sensitive marker of inflammation). We also ran a urinalysis and a liver function panel. All labs were completely normal, with an incredibly low CRP of 0.01, which is near the lowest possible value. With a value this low, the chance of an ongoing infection or surgical complication is miniscule. This data, combined with my improving symptoms, was reassuring.
 
-**Week Three**
+#### Week Three
 
 During week three, my symptoms were almost completely resolved. The glue over my incisions naturally fell off by day fifteen. There was still firmness around the incisions, but only in the immediate vicinity, and it was not painful to the touch. During the third week, I felt as though I was nearing complete recovery from surgery. I had to remind myself not to perform any unnecessarily strenuous activities though, because internal connective tissues in the abdominal wall can take even longer to heal - perhaps six to eight weeks. Damaging this tissue while it is healing can lead to future abdominal wall hernias.
 
@@ -182,27 +182,27 @@ How many times have you been told to "get plenty of rest, drink lots of water, a
 
 Because this advice is repeated so often, and is usually unquantified, it sounds unsophisticated, but it is crucial.
 
-**Sleep**
+#### Sleep
 
 I did sleep a lot. I slept more than fourteen hours the first day after surgery, and twelve hours the next. I slept at least eight hours a night for the next two or three days after that. I didn't aim to sleep any particular amount, but I did not limit my sleep the way I often do with imposed schedules and alarms. It’s normal to need this much sleep after surgery. Sleep is one way that metabolic resources can be rerouted to the immune system and gastrointestinal system for fighting infection, inflammation, and repairing damaged tissue. Additionally, some anesthesia medications can take days to completely clear the system, and until they do, may contribute somewhat to a relative sense of fatigue.
 
-**Hydration**
+#### Hydration
 
 I hydrated by drinking enough to produce clear light-yellow urine every 2-4 hours while awake. If frequency decreased, or the urine darkened, I drank more. Hydrating cannot be done with just plain water, especially when you are not eating sufficient food and electrolytes, which is common during illness or after surgery. Hydration is best achieved with adequate salt (sodium-chloride) intake along with water. Other electrolytes like potassium and magnesium can be helpful as well. There are many excellent [oral rehydration solutions](https://amzn.to/36Daw8K) on the market - I prefer those without added sugar.
 
-**Activity**
+#### Activity
 
 It's extremely important to walk after surgery. I really didn't feel like getting off of the couch, but I forced myself to walk 30-60 minutes per day anyway. Walking helps recover bowel function, decreases the risk of developing blood clots and pneumonia, and can prevent a decline in cardiopulmonary fitness. I was shocked by my degree of exhaustion and how quickly I became de-trained after surgery. During the first week, I felt exhausted after just 20-30 minutes of walking at a slow pace, but my endurance gradually improved. I believe I benefited from walking regularly and increasingly as my improvement allowed.
 
 If you've had surgery, you'll know that you are usually given certain lifting and movement restrictions. I was restricted to lifting five pounds for the first two weeks and then allowed a gradual increase in weight on a weekly basis until unrestricted lifting and movement is allowed eight weeks post-op. These restrictions are not arbitrary.  They are in place to prevent weakened tissues in the abdominal wall from tearing, which could result in an abdominal wall hernia. Following these restrictions to the letter is prudent if you are to avoid repeat surgery.
 
-**Nutrition**
+#### Nutrition
 
 I focused on avoiding sugar of all kinds and processed foods to reduce hyperglycemia and oxidative stress that might slow wound healing and increase the risk of infections. 
 
 Instead I focused on eating nutrient-dense whole foods like eggs, meat, fish, vegetables, avocado, and a little bit of fruit (I choose berries like blueberries, blackberries, and raspberries, which have relatively little sugar compared to fruits like apples, bananas, strawberries, and melons). Broth --particularly bone broth made from real bones and connective tissue -- is one of my staples even when I am healthy. It’s possible that the particular mix of amino acids in broths favors the development of healthy connective tissue, which is exactly what you need to heal after surgery.
 
-**Bowel Regimen**
+#### Bowel Regimen
 
 My surgeon recommended Miralax (polyethylene glycol), which is an osmotic laxative. It's an inert substance that passes through the bowel unabsorbed. As it passes through the colon, it binds to water and holds that water in the colon, which might otherwise have been absorbed. This action of maintaining more water in the colon keeps stool soft and makes it easier to move the bowels. The importance of this both from a standpoint of recovery and comfort cannot be emphasized enough. I drank 20 ounces of water with a cap full (17 grams) of [Miralax](https://amzn.to/3pLe3uy) each morning and each evening. This worked beautifully.
 
