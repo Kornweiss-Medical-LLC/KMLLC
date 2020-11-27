@@ -14,19 +14,21 @@
 <p class="title">
 <!-- insert title here -->
 
-# A Physician-Patient Chronicles His Own Case of Appendicitis
+A Physician-Patient Chronicles His Own Case of Appendicitis
 </p>
 
-## What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
+What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
 
 ---
-- [History and Diagnosis](#history-and-diagnosis)
-- [Treatment / Surgery](#treatment--surgery)
-- [Post Operative Period](#post-operative-period)
-- [My Recovery Regimen](#my-recovery-regimen)
+
+- [Clinical Presentation and Diagnosis](#clinical-presentation-and-diagnosis)
+- [Treatment Decision - Antibiotics or Surgery?](#treatment-decision---antibiotics-or-surgery)
+- [Anesthesia and Surgery - How it's Done](#anesthesia-and-surgery---how-its-done)
+- [Recovery - My Experience](#recovery---my-experience)
+- [My Recovery "Regimen"](#my-recovery-regimen)
 
 <!-- insert body of document -->
-### History and Diagnosis
+### Clinical Presentation and Diagnosis
 
 On October 25, 2020, I was seated at my desk at work and noticed a vague but unusual sensation in my abdomen; a few sharp pains cascaded across my lower abdomen and then vanished. It was 10 AM. I evaluated several patients who were waiting for me, and then I ate breakfast and drank coffee.
 
@@ -57,9 +59,13 @@ Appendicitis is a condition in which the appendix becomes inflamed, and if left 
 
 I was able to obtain a CT scan which confirmed my diagnosis. And, not only was my appendix enlarged and inflamed, there was -- as I suspected from the ultrasound, an appendicolith within the middle of my appendix.
 
-### Treatment / Surgery
+### Treatment Decision - Antibiotics or Surgery?
 
-After the diagnosis was confirmed, I decided to have my appendix removed surgically. Prior to this ordeal, I always thought that if I had appendicitis, I would choose antibiotics over surgery.  But once I confirmed that my appendix was obstructed by a stone, I decided that the risk of antibiotics failing and my appendix subsequently rupturing outweighed the risk of surgery.
+After the diagnosis was confirmed, I decided to have my appendix removed surgically. Prior to this ordeal, I always thought that if I had appendicitis, I would choose antibiotics over surgery. In [one randomized study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6233612/) published in JAMA in 2018, roughly sixty percent of patients with appendicitis who were treated with antibiotics were cured and did not require surgical appendectomy during a five year follow up period. The other forty percent had recurrent appendicitis and did undergo appendectomy. In the group who was treated initially with surgery, twenty-four percent suffered complications within the five year follow-up period including (surgical site infections, incisional hernias, abdominal pain, and obstructive symptoms).
+
+In another randomized trial published in NEJM in 2020, 1552 adults (414 with appendicolith) were randomized either to surgery or antibiotic treatment for appendicitis. In the group treated with antibiotics, 41% of those with appendicolith required surgery, and the cases that became complicated by abscess were largely due to patients with appendicolith.
+
+I was actually not aware of this data at the time of my diagnosis, but when I saw that my appendix was obstructed by a large stone, I decided that the risk of rupture was significant, and outweighed the risk of surgery.
 
 Surgery for an intact (un-ruptured) appendicitis is usually quite straight forward and without complication. The surgery usually takes an hour or less, and the patient can often leave the hospital on the same day. Recovery is generally uneventful.
 
@@ -69,17 +75,19 @@ On the other hand, I also did not want to lose my appendix. Most people believe 
 
 In my experience, most surgeons will lean heavily towards recommending surgery over antibiotics for appendicitis. Surgery is considered the definitive treatment, but there is evidence that for uncomplicated cases, antibiotics alone may be a viable treatment. It's worth discussing this with your surgeon before committing to surgery if circumstances permit.
 
-I was brought to the pre-operative area. I reflected upon my symptoms. I wondered, where was the textbook pain of appendicitis that typically starts at the umbilicus, which then gradually migrates to the right lower quadrant? Then I recalled the prior two nights. At the time, I had thought nothing of it, but I remembered that the night before, I had been pushing on my umbilicus. I didn't realize it at the time, but I did have a vague and fleeting ache. It was so mild, I didn't give it a second thought. I did also have a burning epigastric pain two nights prior, which I thought was acid reflux. This burning lasted an hour or two, but subsided. I've experienced indigestion on several occasions, but in reflection, this was more painful and sharper in quality than any prior episodes. Lastly, I rememebered that my sleep was markedly restless during the two nights preceding my diagnosis. At the time, all of these symptoms were mild enough that they didn’t raise any red flags in my mind. But, in retrospect, these were likely early signs that marked the beginning of the inflammatory process.
+In pre-op I wondered, where were the [textbook signs and symptoms of appendicitis](https://en.wikipedia.org/wiki/Appendicitis#Signs_and_symptoms)? Where was the pain that typically starts at the umbilicus, which then gradually migrates to the right lower quadrant? What about the nausea, vomiting, and fever? Then I recalled the prior two nights. At the time, I had thought nothing of it, but I remembered that the night before, I had been pushing on my umbilicus. I didn't realize it at the time, but I did have a vague and fleeting ache. It was so mild, I didn't give it a second thought. I did also have a burning epigastric pain two nights prior, which I thought was acid reflux. This burning lasted an hour or two, but subsided. I've experienced indigestion on several occasions, but in reflection, this was more painful and sharper in quality than any prior episodes. Lastly, I remembered that my sleep was markedly restless during the two nights preceding my diagnosis. At the time, all of these symptoms were mild enough that they didn’t raise any red flags in my mind. But, in retrospect, these were likely early signs that marked the beginning of the inflammatory process. I did not however develop nausea, vomiting, or fever at any time. In my clinical experience, these are often absent, and may be later signs of appendicitis that were seen before the modern widespread availability of medical care, labs, and imaging.
+
+### Anesthesia and Surgery - How it's Done
 
 The anesthesiologist entered the pre-op area. Though surgery is performed by a surgeon, it would be far more difficult for the surgeon and the patient without the under-appreciated anesthesiologist. 
 
-Before my operation, I met my anesthesiologist. I asked her for the anesthesia plan. I should state up front, I've included a fair amount of detail here for two purposes: the first is to provide information; the second is to help any reader develop an appreciation for the brilliance of medical care.
+Before my operation, I met my anesthesiologist. I asked her for the anesthesia plan. I should state up front, I've included a fair amount of detail here for two purposes: the first is to provide information; the second is to help any reader develop an appreciation for the complexity of medical care.
 
 My plan included a series of medications starting with analgesics (pain medications), anti-emetics (nausea medications), and a sedative/anxiolytic (relaxation medications).
 
 There are three major categories of analgesics:
     
-**Narcotics**
+**Opiates**
         
 This category includes medications like oxycodone, morphine, fentanyl and hydromorphone. My anesthesiologist was planning to use fentanyl. This drug works almost instantly after it's administered through an IV, but usually wears off within 30-120 minutes depending on the individual and the dose given.
     
@@ -97,14 +105,14 @@ There are many different antie-metic drugs. My anesthesiologist wanted to use on
 
 Last, it's common to receive a dose of sedative/anxiolytic such as midazolam (also known as Versed, a member of the class of medications called benzodiazepines) pre-operatively. These drugs work similarly to alcohol on a biochemical level, and similarly result in slowed thinking, slurred speech, decreased anxiety, and at high enough doses, a sedated state. I turned this down as well, as I very much wanted the full experience of being aware of and remembering the moments leading up to general anesthesia.
 
-I asked for some tweaks to my medications, but it's generally best to trust your anesthesiologist’s plan and not to request changes unless there are specific reasons.
+I asked for adjustments to my medications, but it's generally best to trust your anesthesiologist’s plan and to request changes only if there are specific reasons.
 
 Next, my very gracious anesthesiologist explained that I would undergo general anesthesia. This means I would be fully unconscious. There are many medications that can render a patient completely unconscious, but one of the most common is a drug likely familiar to those who remember [Michael Jackson's tragic death](https://en.wikipedia.org/wiki/Death_of_Michael_Jackson). This drug is called propofol, which Michael supposedly used to help him sleep, and which was found in his system at autopsy. When used in proper doses under monitored circumstances, or in the context of general anesthesia when the patient will be connected to a ventilator, this is actually an incredibly safe drug with a nearly non-existent side-effect profile. The medication itself has a unique appearance. It is a milky white substance. The drug mixture has this appearance because the drug itself is lipophilic (i.e. dissolves well in fat, but not in water), and therefore must be kept in a lipid emulsion which includes the ingredients soybean oil and egg lecithin. 
 
 ![Propofol](https://upload.wikimedia.org/wikipedia/commons/7/7a/Pofol.JPG)
 Behzad39, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 
-The drug is given through an IV line, and its ability to dissolve well in fat allows it to very rapidly cross into brain tissue and bind to receptors that render the patient unconscious (these receptors are again the same kind that are affected by drinking alcohol - GABA receptors). Depending on the dose of the drug given, the patient may continue to breathe on their own, even though they are completely unconscious. 
+The drug is given through an IV line, and its ability to dissolve well in fat allows it to very rapidly cross into brain tissue and bind to receptors that render the patient unconscious (these receptors are again the same kind that are affected by drinking alcohol - GABA receptors). Different doses have different effects. Small doses will result in a patient acting more or less drunk. Increasing doses will make a patient appear to be sleeping but still arousable to verbal or physical stimuli. Higher doses yet can render a patient completely unresponsive, and eventually will stop their respiratory drive; that is, they will stop breathing.
 
 Next, a paralytic drug is delivered through the IV which stops the patient from moving and relaxes all of their muscles. Paralysis prevents the patient from moving while the surgeon is operating, but it also stops the patient from breathing by paralyzing the muscles of the thorax, including the diaphragm, which are responsible for breathing. To address this problem, and for another reason I'll explain momentarily, the anesthesiologist must connect the patient to a ventilator.
 
@@ -119,6 +127,8 @@ In the emergency department, we use similar medications for bedside procedures, 
 
 While I was sedated, my surgeon had carried out a laparoscopic appendectomy.
 
+[You can watch part of a laparoscopic appendectomy here](https://www.youtube.com/watch?v=gJ5U-b32jhc&has_verified=1) (Not for the squeamish).
+
 He first made an incision on my abdominal wall just beneath my umbilicus. He then dissected down through the fat until he reached the peritoneum (this is a layer of tissue that encloses the abdominal cavity and all of the organs inside).
 
 ![Peritoneum Gray's 1040](https://upload.wikimedia.org/wikipedia/commons/5/5f/Gray1040.png)
@@ -132,7 +142,7 @@ Dalass 1988, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via 
 Blunt graspers are used to move the bowels in order to expose the appendix, which in my case was anterior, superficial, pointing downwards and located within the peritoneum - closest to letter A below.
 
 ![Appendix Anatomic Variants](images/appendiceal_anatomic_variants.png)
-Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 29
+Anatomical Variants of the Vermiform Appendix - Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 29
 
 Once the appendix is located, the surgeon may still have to separate it from adjacent bowel, lymphatics, and connective tissue by carefully separating tissues. Once the appendix is fully isolated, it can be cut away at its base where it empties into the cecum (the very beginning part of the colon). This can be done in numerous ways, but it is now most commonly done using a tool that cauterizes the bowel and delivers a line of special staples across the base of the appendix. This simultaneously separates the appendix from the bowel and seals the base of the appendix all at once.
 
@@ -144,13 +154,13 @@ Once the patient is extubated (breathing tube is removed), they are brought to t
 
 In my case, I went home after this monitoring period. I was mildly sore, but completely lucid, and felt very well rested.
 
-### Post Operative Period
+### Recovery - My Experience
 
 Let me say at the outset, as an emergency physician, I tend to worry about worst case scenarios. And in my own case, I did worry frequently, especially during my second postoperative week, that something was wrong. My postoperative course has been uneventful thus far (I am now over three weeks out as I write this).  My expectations that I would feel completely recovered within a few days were simply unrealistic.
 
 #### Week One
 
-On postoperative day one, my abdomen was significantly distended (bloated) to the point of feeling taut. I could not wear any of my usual clothing. Sitting up and down was difficult. I had to use my arms to push myself up from a seated position. Instinctively, I did not want to attempt any abdominal contraction. I had little appetite. But, I did eat small amounts of food (I'll give details below) and drank water with stool softener. I did have pain underneath my right trapezius muscle (my right shoulder), which is referred pain from distension and subdiaphragmatic air from surgery. This subsided by the beginning of day two.
+On postoperative day one, my abdomen was significantly distended (bloated) to the point of feeling taut. I could not wear any of my usual clothing. Sitting up and down was difficult. I had to use my arms to push myself up from a seated position. Instinctively, I did not want to attempt any abdominal contraction. I had little appetite. But, I did eat small amounts of food (I'll give details below) and drank water with stool softener. I did have pain underneath my right trapezius muscle (my right shoulder), which is [referred pain](https://en.wikipedia.org/wiki/Kehr%27s_sign) from distension and subdiaphragmatic air from surgery. This subsided by the beginning of day two.
 
 Day two was similar to day one. I slept a lot, and watched a lot of television. I attempted to read and write, but I was both mentally and physically exhausted, and succumbed to exhaustion within minutes of opening my computer. Despite the exhaustion, I did wrest myself from the couch for 30-40 minutes to walk each day.
 
@@ -160,9 +170,9 @@ I checked my incisions every day for signs of infection, like worsening pain, re
 
 My incisions were closed at the skin with glue, so there were no visible sutures. The incisions were firm to the touch, tender, purple and yellow from bruising. As the bruising diminished, the color became a pale yellow, and then finally normal skin color. These color changes are caused by [heme degradation](https://en.wikipedia.org/wiki/Bruise#Mechanism). The incision around my umbilicus was especially swollen and the surrounding skin was firm in an area the size of my palm. This improved very gradually over two weeks.
 
-I did not take any medication at all. I chose to avoid NSAIDs like ibuprofen because there is both mechanistic evidence and data from animal studies showing that NSAIDs may slow wound healing, and can slow healing of bowel anastomoses. This may be more relevant for more significant bowel surgeries, but I wanted every chance to optimize healing.
+I did not take any medication at all. I chose to avoid NSAIDs like ibuprofen because there is [observational data in humans](https://doi.org/10.1007/s00384-011-1285-6) suggesting that NSAIDs may effect the healing of bowel anastomoses. This may be more relevant for more significant bowel surgeries, but I wanted every chance to optimize healing. That said, there are several other studies suggesting that NSAIDs likely have little or no effect on wound healing.
 
-Meanwhile, at the hospital, a pathologist examined my appendix. It's routine for the surgeon to send surgical specimens for pathology examination. There are several reasons for doing this. In cases of appendicitis, it's important both to confirm the diagnosis, and to look for other diagnoses such as appendiceal cancers, which occur from time to time. Pathologists are specially trained doctors who examine biopsies (tissue samples) and who also perform whole autopsies to find out what is (or was) wrong. The pathologist confirmed my diagnosis: acute appendicitis. This determination was made by looking at the appendix with the naked eye, and by examining thin slices of the appendix under a microscope.
+Meanwhile, at the hospital, a pathologist examined my appendix. It's routine for the surgeon to send surgical specimens for pathology examination. There are several reasons for doing this. In cases of appendicitis, it's important both to confirm the diagnosis, and to look for other diagnoses such as [appendiceal cancers](https://en.wikipedia.org/wiki/Appendix_cancer), which occur from time to time. Pathologists are specially trained doctors who examine biopsies (tissue samples) and who also perform whole autopsies to find out what is (or was) wrong. The pathologist confirmed my diagnosis: acute appendicitis. This determination was made by looking at the appendix with the naked eye, and by examining thin slices of the appendix under a microscope.
 
 #### Week Two
 
@@ -174,7 +184,7 @@ I was worried on day ten when I continued to have right lower quadrant pain and 
 
 During week three, my symptoms were almost completely resolved. The glue over my incisions naturally fell off by day fifteen. There was still firmness around the incisions, but only in the immediate vicinity, and it was not painful to the touch. During the third week, I felt as though I was nearing complete recovery from surgery. I had to remind myself not to perform any unnecessarily strenuous activities though, because internal connective tissues in the abdominal wall can take even longer to heal - perhaps six to eight weeks. Damaging this tissue while it is healing can lead to future abdominal wall hernias.
 
-### My Recovery Regimen
+### My Recovery "Regimen"
 
 There are a few trite recommendations that you'll hear doctors enumerate for nearly every condition. They're also the same things you'll hear from your family and friends. These recommendations are so general and commonplace, that they're often under-weighted or ignored completely, but they shouldn't be.
 
@@ -206,7 +216,7 @@ Instead I focused on eating nutrient-dense whole foods like eggs, meat, fish, ve
 
 My surgeon recommended Miralax (polyethylene glycol), which is an osmotic laxative. It's an inert substance that passes through the bowel unabsorbed. As it passes through the colon, it binds to water and holds that water in the colon, which might otherwise have been absorbed. This action of maintaining more water in the colon keeps stool soft and makes it easier to move the bowels. The importance of this both from a standpoint of recovery and comfort cannot be emphasized enough. I drank 20 ounces of water with a cap full (17 grams) of [Miralax](https://amzn.to/3pLe3uy) each morning and each evening. This worked beautifully.
 
-I will also take this opportunity to recommend a product called the [Squatty Potty](https://amzn.to/32OBPvy), which is a special stool that helps put you in a proper position on the toilet. The squat position is essential for reducing the "anal angle" to reduce straining, which is both painful and potentially dangerous in the postoperative period.
+I will also take this opportunity to recommend a product called the [Squatty Potty](https://amzn.to/32OBPvy), which is a special stool that helps put you in a proper position on the toilet. The squat position is essential for reducing the "anal angle" to reduce straining, which is painful potentially dangerous in the postoperative period, and detrimental for bowel health in the long term.
 
 ---
 
