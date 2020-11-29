@@ -17,8 +17,6 @@
 When Physician Becomes Patient: A Case of Appendicitis
 </p>
 
-What follows is an emergency physician's account of his own case of appendicitis with educational interludes, lessons learned, and finally, suggestions that may be helpful to others with the same ordeal.
-
 ---
 
 - [Clinical Presentation and Diagnosis](#clinical-presentation-and-diagnosis)
@@ -28,6 +26,8 @@ What follows is an emergency physician's account of his own case of appendicitis
 - [My Recovery "Regimen"](#my-recovery-regimen)
 
 <!-- insert body of document -->
+What follows is an emergency physician's account of his own case of appendicitis with educational interludes and lessons learned.
+
 ### Clinical Presentation and Diagnosis
 
 On October 25, 2020, I was seated at my desk at work and noticed a vague but unusual sensation in my abdomen; a few sharp pains cascaded across my lower abdomen and then vanished. It was 10 AM. I evaluated several patients who were waiting for me, and then I ate breakfast and drank coffee.
@@ -36,9 +36,8 @@ At 11 AM, I noticed a few mild cramps again in my lower abdomen. I believed this
 
 I resumed work, but a few minutes later when I noted that the pain had not receded, I was compelled to examine my own abdomen. I laid flat on a stretcher, and pressed deeply over the right lower part of my abdomen. I encountered a small tender area between my umbilicus (belly button) and my right groin, a point known by medical professionals as "McBurney's Point." 
 
-![McBurney's Point](https://kornweiss-medical-llc.github.io/content/images/fowler_mcburneys_point.png)
 
-Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 171.
+![McBurney's Point](https://kornweiss-medical-llc.github.io/content/images/fowler_mcburneys_point.png "Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 171.")
 
 I surveyed myself and noted the absence of any other symptoms. I did not have nausea, fever, a loss of appetite, or malaise. Besides the pain, which had now dulled, I felt normal. I moved my leg back and forth, walked, squatted, extended at the hip, and I felt no worsening of the pain.
 
@@ -48,16 +47,13 @@ I worked for five more hours. The pain persisted, but it was quite mild most of 
 
 After completing my clinical duties, I performed an ultrasound of my own abdomen. The moment I placed the ultrasound probe over the area of tenderness, I saw a black circle circumscribing a white circle which contained a white dome with black shadowing. 
 
-![Appendix Ultrasound](https://kornweiss-medical-llc.github.io/content/images/appendix_ultrasound_annotated.jpg)
-
-This is an image of my actual ultrasound, appendix circled in red.
+![Appendix Ultrasound](https://kornweiss-medical-llc.github.io/content/images/appendix_ultrasound_annotated.jpg "This is an image of my actual ultrasound, appendix circled in red.")
 
 I knew this likely represented a loop of bowel containing a hard substance all surrounded by fluid; in other words, I believed I had found an inflamed appendix harboring a stone, called an appendicolith (appendico-lith means, literally, appendix-stone -- appendicoliths typically form when stool enters the appendix and remains stuck there long enough for some hardening and calcification to occur). The appendix is a small loop, or pouch, with a dead end. This is one way it’s differentiated from other loops of bowel on ultrasound.
 
-![Gray's Anatomy Appendix Gray 536](https://upload.wikimedia.org/wikipedia/commons/a/ad/Gray536.png)
-The appendix is labeled "Vermiform Process."
+![Gray's Anatomy Appendix Gray 536](https://upload.wikimedia.org/wikipedia/commons/a/ad/Gray536.png "The appendix is labeled Vermiform Process.")
 
-Appendicitis is a condition in which the appendix becomes inflamed, and if left untreated, can often rupture, and cause a very serious infection inside of a patient's abdomen, which can result in severe illness and even death, though in countries with modern medicine, death is extraordinarily rare even in cases of rupture. The treatment for appendicitis is usually surgical removal of the appendix. In some cases, appendicitis can be treated with antibiotics alone. As a physician, I know too well the dangers of surgery. I wanted to have as much informationn about my diagnosis as possible before making a treatment decision.
+Appendicitis is a condition in which the appendix becomes inflamed, and if left untreated, can often rupture, and cause a very serious infection inside of a patient's abdomen, which can result in severe illness and even death, though in countries with modern medicine, death is extraordinarily rare even in cases of rupture. The treatment for appendicitis is usually surgical removal of the appendix. In some cases, appendicitis can be treated with antibiotics alone. As a physician, I know too well the dangers of surgery. I wanted to have as much information about my diagnosis as possible before making a treatment decision.
 
 I was able to obtain a CT scan which confirmed my diagnosis. And, not only was my appendix enlarged and inflamed, there was -- as I suspected from the ultrasound, an appendicolith within the middle of my appendix.
 
@@ -81,7 +77,7 @@ In pre-op I wondered, where were the [textbook signs and symptoms of appendiciti
 
 ### Anesthesia and Surgery - How it's Done
 
-The anesthesiologist entered the pre-op area. Though surgery is performed by a surgeon, it would be far more difficult for the surgeon and the patient without the under-appreciated anesthesiologist. 
+Though surgery is performed by a surgeon, it would be far more difficult for the surgeon and the patient without the under-appreciated anesthesiologist. 
 
 Before my operation, I met my anesthesiologist. I asked her for the anesthesia plan. I should state up front, I've included a fair amount of detail here for two purposes: the first is to provide information; the second is to help any reader develop an appreciation for the complexity of medical care.
 
@@ -111,17 +107,17 @@ I asked for adjustments to my medications, but it's generally best to trust your
 
 Next, my very gracious anesthesiologist explained that I would undergo general anesthesia. This means I would be fully unconscious. There are many medications that can render a patient completely unconscious, but one of the most common is a drug likely familiar to those who remember [Michael Jackson's tragic death](https://en.wikipedia.org/wiki/Death_of_Michael_Jackson). This drug is called propofol, which Michael supposedly used to help him sleep, and which was found in his system at autopsy. When used in proper doses under monitored circumstances, or in the context of general anesthesia when the patient will be connected to a ventilator, this is actually an incredibly safe drug with a nearly non-existent side-effect profile. The medication itself has a unique appearance. It is a milky white substance. The drug mixture has this appearance because the drug itself is lipophilic (i.e. dissolves well in fat, but not in water), and therefore must be kept in a lipid emulsion which includes the ingredients soybean oil and egg lecithin. 
 
-![Propofol](https://upload.wikimedia.org/wikipedia/commons/7/7a/Pofol.JPG)
-Behzad39, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+![Propofol](https://upload.wikimedia.org/wikipedia/commons/7/7a/Pofol.JPG "Behzad39, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 The drug is given through an IV line, and its ability to dissolve well in fat allows it to very rapidly cross into brain tissue and bind to receptors that render the patient unconscious (these receptors are again the same kind that are affected by drinking alcohol - GABA receptors). Different doses have different effects. Small doses will result in a patient acting more or less drunk. Increasing doses will make a patient appear to be sleeping but still arousable to verbal or physical stimuli. Higher doses yet can render a patient completely unresponsive, and eventually will stop their respiratory drive; that is, they will stop breathing.
 
 Next, a paralytic drug is delivered through the IV which stops the patient from moving and relaxes all of their muscles. Paralysis prevents the patient from moving while the surgeon is operating, but it also stops the patient from breathing by paralyzing the muscles of the thorax, including the diaphragm, which are responsible for breathing. To address this problem, and for another reason I'll explain momentarily, the anesthesiologist must connect the patient to a ventilator.
 
-A laryngoscope (a special tool that opens the patient's airway) is used to assist with the insertion of an endotracheal tube (a plastic tube that goes inside the trachea). Once the tube is in place, it's connected to an anesthesia machine. This machine is a special ventilator which allows the anesthesiologist to control the breathing rate, depth of the breath, and the amount of oxygen going to the patient. The machine can also deliver inhaled anesthetics, which are used to keep the patient sedated throughout the procedure. The initial sedative, in my case propofol, is rapidly metabolized. Once injected, propofol is quickly distributed away from the brain, and then metabolized by the liver. Unless the drug is given continuously, or in repeat doses, the patient will regain consciousness within several minutes. In addition to ventilation, breathing tubes also protect the patient's airway and lungs. Though rare, sometimes patients vomit while they are sedated. If the airway is not occluded by an endotracheal tube, the patient, lying prone on the operating table, would be susceptible to aspiration. If not protected, regurgitated stomach acid and food could be inhaled into the lungs and cause what’s called a chemical pneumonitis (irritation and inflammation of the lungs), which can be severe or even deadly in some cases.
+A laryngoscope (a special tool that opens the patient's airway) is used to assist with the insertion of an endotracheal tube (a plastic tube that goes inside the trachea). Once the tube is in place, it's connected to an anesthesia machine. This machine is a ventilator which allows the anesthesiologist to control the breathing rate, depth of the breath, and the amount of oxygen going to the patient. The machine can also deliver inhaled anesthetics, which are used to keep the patient sedated throughout the procedure. The initial sedative, in my case propofol, is rapidly metabolized. 
 
-![ETT](https://upload.wikimedia.org/wikipedia/commons/3/3f/Airway_with_endotracheal_tube%2C_showing_the_position_of_an_ET_tube_in_the_trachea.jpg)
-Dr. Lorimer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+Once injected, propofol is quickly distributed away from the brain, and then metabolized by the liver. Unless the drug is given continuously, or in repeat doses, the patient will regain consciousness within several minutes. In addition to ventilation, breathing tubes also protect the patient's airway and lungs. Though rare, sometimes patients vomit while they are sedated. If the airway is not occluded by an endotracheal tube, the patient, lying prone on the operating table, would be susceptible to aspiration. If not protected, regurgitated stomach acid and food could be inhaled into the lungs and cause what’s called a chemical pneumonitis (irritation and inflammation of the lungs), which can be severe or even deadly in some cases.
+
+![ETT](https://upload.wikimedia.org/wikipedia/commons/3/3f/Airway_with_endotracheal_tube%2C_showing_the_position_of_an_ET_tube_in_the_trachea.jpg "Dr. Lorimer, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 Because I didn't accept any sedatives in the pre-op area, I remember being wheeled into the OR (operating room), talking to my OR team, and breathing in oxygen and inhaled anesthetic through the mask. I remember being dosed with propofol. The next thing I remember is waking up in the post-op area. This is the goal of the anesthesiologist; to keep the patient alive and stable throughout surgery and to make sure they don't remember anything that happened. This is not easy, but experienced anesthesiologists certainly make it look easy.
 
@@ -133,18 +129,15 @@ While I was sedated, my surgeon had carried out a laparoscopic appendectomy.
 
 He first made an incision on my abdominal wall just beneath my umbilicus. He then dissected down through the fat until he reached the peritoneum (this is a layer of tissue that encloses the abdominal cavity and all of the organs inside).
 
-![Peritoneum Gray's 1040](https://upload.wikimedia.org/wikipedia/commons/5/5f/Gray1040.png)
-The blue shaded area is representing the peritoneal covering of the abdominal cavity.
+![Peritoneum Gray's 1040](https://upload.wikimedia.org/wikipedia/commons/5/5f/Gray1040.png "The blue shaded area is representing the peritoneal covering of the abdominal cavity.")
 
 Usually, the surgeon will lift upward on the peritoneum and make a tiny incision, large enough to insert a hollow plastic tube, called a port. Through the port he can insert a camera, and a machine that insufflates (inflates) the abdominal cavity with air. The abdomen inflates upwards like a balloon, making space between the abdominal wall and the bowels so that the surgeon can insert tools and have space to work safely. Two more holes are made in the abdominal wall for a total of three. This makes room for a camera and two tools. Usually, an assistant manages the camera while the surgeon operates the tools.
 
-![Laparoscopy](https://upload.wikimedia.org/wikipedia/commons/8/86/%D0%9B%D0%B0%D0%BF%D0%BE%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0.jpg)
-Dalass 1988, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
+![Laparoscopy](https://upload.wikimedia.org/wikipedia/commons/8/86/%D0%9B%D0%B0%D0%BF%D0%BE%D1%80%D0%B0%D1%81%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_%D0%B5%D0%B4%D0%B8%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0.jpg "Dalass 1988, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
 
 Blunt graspers are used to move the bowels in order to expose the appendix, which in my case was anterior, superficial, pointing downwards and located within the peritoneum - closest to letter A below.
 
-![Appendix Anatomic Variants](images/appendiceal_anatomic_variants.png)
-Anatomical Variants of the Vermiform Appendix - Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 29
+![Appendix Anatomic Variants](https://kornweiss-medical-llc.github.io/content/images/appendiceal_anatomic_variants.png "Anatomical Variants of the Vermiform Appendix - Fowler, George Ryerson. 1900. A Treatise on Appendicitis. J.B. Lippincott. P. 29")
 
 Once the appendix is located, the surgeon may still have to separate it from adjacent bowel, lymphatics, and connective tissue by carefully separating tissues. Once the appendix is fully isolated, it can be cut away at its base where it empties into the cecum (the very beginning part of the colon). This can be done in numerous ways, but it is now most commonly done using a tool that cauterizes the bowel and delivers a line of special staples across the base of the appendix. This simultaneously separates the appendix from the bowel and seals the base of the appendix all at once.
 
@@ -212,7 +205,7 @@ If you've had surgery, you'll know that you are usually given certain lifting an
 
 I focused on avoiding sugar of all kinds and processed foods to reduce hyperglycemia and oxidative stress that might slow wound healing and increase the risk of infections. 
 
-Instead I focused on eating nutrient-dense whole foods like eggs, meat, fish, vegetables, avocado, and a little bit of fruit (I choose berries like blueberries, blackberries, and raspberries, which have relatively little sugar compared to fruits like apples, bananas, strawberries, and melons). Broth --particularly bone broth made from real bones and connective tissue -- is one of my staples even when I am healthy. It’s possible that the particular mix of amino acids in broths favors the development of healthy connective tissue, which is exactly what you need to heal after surgery.
+Instead I focused on eating nutrient-dense whole foods like eggs, meat, fish, vegetables, avocado, and a little bit of fruit (I choose berries like blueberries, blackberries, and raspberries, which have relatively little sugar compared to fruits like apples, bananas, strawberries, and melons). Broth -- particularly bone broth made from real bones and connective tissue -- is one of my staples even when I am healthy. It’s possible that the particular mix of amino acids in broths favors the development of healthy connective tissue, which is exactly what you need to heal after surgery.
 
 #### Bowel Regimen
 
@@ -222,13 +215,14 @@ I did not take any pain medication at all, but if you are using opiate pain medi
 
 I will also take this opportunity to recommend a product called the [Squatty Potty](https://amzn.to/32OBPvy), which is a special stool that helps put you in a proper position on the toilet. The squat position is essential for reducing the "anal angle" to reduce straining, which is painful potentially dangerous in the postoperative period, and detrimental for bowel health in the long term.
 
----
 
-Website: <https://kornweissmedical.com>
 
 ---
-**Disclaimer:**
 
-This document is intended for distribution to clients(patients) of Kornweiss Medical LLC.
+*Disclaimer*
 
-If you are not a client(patient), and you are in receipt of this document, please disregard any medical advice contained herein. Your receipt and/or reading of this document does not constitute a doctor/patient relationship. The use of this information and the materials herein is at the user's own risk. The content of this document is not a substitute for professional medical advice, diagnosis, or treatment. Users should seek professional medical advice for any symptoms or medical conditions they may have.
+The information on this site does not constitute medical advice or personal recommendation. This website and its content does not constitute the practice of medicine, nursing, or any other healthcare profession. Your use of this site does not constitute a doctor-patient relationship. The use of the information on this site is at the user's own risk. You should not delay or neglect to obtain medical care. Please consult your own personal physician for medical questions or concerns. Please use your local emergency services for any medical emergencies. See my [full disclaimer](https://kornweissmedical.com/disclaimer)
+
+*Affiliate Program*
+
+This website contains links from affiliate programs including but not limited to the Amazon Associate program (As an Amazon Associate I earn from qualifying purchases). It is possible that purchasing a product, signing up for an account, or taking other actions from a link on this website may result in a commission being paid to Kornweiss Medical LLC. This website is otherwise free to its users and free of advertising. The product and service links on this website are for products and services that I have personally researched, tested, and/or actively use, and that I believe to be beneficial. A sincere thank you to anyone who finds this site useful and makes a purchase as a result.
