@@ -47,7 +47,7 @@ I worked for five more hours. The pain persisted, but it was quite mild most of 
 
 After completing my clinical duties, I performed an ultrasound of my own abdomen. The moment I placed the ultrasound probe over the area of tenderness, I saw a black circle circumscribing a white circle which contained a white dome with black shadowing. 
 
-![Appendix Ultrasound](images/appendix_ultrasound_annotated.jpg "Appendix circled in red.")
+![Appendix Ultrasound](images/appendix_ultrasound_annotated.jpg)
 
 I knew this likely represented a loop of bowel containing a hard substance all surrounded by fluid; in other words, I believed I had found an inflamed appendix harboring a stone, called an appendicolith (appendico-lith means, literally, appendix-stone -- appendicoliths typically form when stool enters the appendix and remains stuck there long enough for some hardening and calcification to occur). The appendix is a small loop, or pouch, with a dead end. This is one way it’s differentiated from other loops of bowel on ultrasound.
 
