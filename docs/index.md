@@ -8,6 +8,8 @@ This site is for the purpose of drafting and sharing new content as it is create
 - [Resources](covid_19_resources.md)
 
 ## Articles / Posts
+- [December 01, 2020](120120_sleep.md)
+  - How to Sleep
 - [November 28, 2020](112820_covid19_mrna_vaccine.md)
   - Covid-19 mRNA Vaccine Information
 - [November 13th, 2020](111320_appendicits.md)
@@ -16,8 +18,6 @@ This site is for the purpose of drafting and sharing new content as it is create
   - Hydroxychloroquine and Zinc
 - [July 27th, 2020](calculating_macronutrients.md)
   - Why and How to Calculate Daily Macronutrient Requirements
-- [July 13th, 2020](sleep_recommendations.md)
-  - Sleep recommendations, draft
 - [May 15, 2020](cronometer-tracking.md)
   - How to Track Nutrition using Cronometer
 - [May 7, 2020](nutrition-approach_1.md)
