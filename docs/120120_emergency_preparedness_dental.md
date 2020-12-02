@@ -19,6 +19,7 @@ Emergency Preparedness for the Dental Office
 ---
 **Table of Contents:**
 <!-- insert table of contents -->
+- [Emergency Preparedness for the Dental Office](#emergency-preparedness-for-the-dental-office)
 - [The Bottom Line](#the-bottom-line)
 - [Do It the Easy Way](#do-it-the-easy-way)
 - [Do It the Hard Way](#do-it-the-hard-way)
@@ -147,13 +148,14 @@ roughly \$$450-\$500$
     - tank, regulator, adult and child mask, hose, nasal cannula
 - Positive pressure setup is an additional $\$59.95$
     - single use adult BVM (bag valve mask)
+
 ### First Aid Kit
 - Wound care
 - Shears
 - Tourniquet
 - Gauze Pads
 - Rolled Gauze
-- 
+  
 ### Resources / Recommended Reading
 - [Emergency oxygen therapy in the dental practice](https://www.nature.com/articles/bdjteam201445)
 - [Medical Emergency Preparedness in Dental Practice](https://dentalacademyofce.com/courses/3305/PDF/1706cei_Lawson_web.pdf)
