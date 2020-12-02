@@ -25,6 +25,7 @@ Emergency Preparedness for the Dental Office
 - [Do It the Hard Way](#do-it-the-hard-way)
 - [What You Need](#what-you-need)
 - [Medications - 2 Options](#medications---2-options)
+- [Itemized List of Medications and Prices](#itemized-list-of-medications-and-prices)
 - [Oxygen](#oxygen)
 - [First Aid Kit](#first-aid-kit)
 - [Resources / Recommended Reading](#resources--recommended-reading)
@@ -118,23 +119,8 @@ roughly \$$450-\$500$
     - You'll have to keep track of your own expiration dates
     - Dispose of expired medications
     - Shop for replacements
-   - Itemized List of Medications and Prices (all prices are rough estimates based on market research in December of 2020)
-      - Epi-Pen for SC and IM use - 0.3mg and possibly 0.15mg (if treating children)
-          - $300 for 2 auto-injectors
-      - Benadryl for IM injection 50 mg/ml
-          - $20 for 50 ml vial
-      - Nitroglycerin SL tabs 0.3 mg
-          - $25 for 100 tabs
-      - Aspirin 81 mg
-          - $2 for 36 tabs
-      - Narcan 4mg nasal spray
-          - $125 for a 2pack
-      - Albuterol 90 mcg metered dose inhaler
-          - $10 for 1
-      - Glucose tablets
-          - $5 for 50 tabs
-      - Total: ~ $487
-1. Use an ADA approved supplier med kit like the one from [Healthfirst](https://www.healthfirst.com/store/emergency-medical-kits/sm-series/)
+
+2. Use an ADA approved supplier med kit like the one from [Healthfirst](https://www.healthfirst.com/store/emergency-medical-kits/sm-series/)
    - $\$719\ dollars$  
    - Same medications as above: "Itemized List of Medications and Prices"
     - In addition they include ammonia salts
@@ -142,6 +128,28 @@ roughly \$$450-\$500$
       - Automatically send you medications when yours   expire
       - Supply an envelope that you use to send back expired medications
       - They verify you did the replacement correctly
+
+### Itemized List of Medications and Prices
+
+(all prices are rough estimates based on market research in December of 2020)
+
+- Epi-Pen for SC and IM use - 0.3mg and possibly 0.15mg (if treating children)
+    - $300 for 2 auto-injectors
+- Benadryl for IM injection 50 mg/ml
+    - $20 for 50 ml vial
+- Nitroglycerin SL tabs 0.3 mg
+    - $25 for 100 tabs
+- Aspirin 81 mg
+    - $2 for 36 tabs
+- Narcan 4mg nasal spray
+    - $125 for a 2pack
+- Albuterol 90 mcg metered dose inhaler
+    - $10 for 1
+- Glucose tablets
+    - $5 for 50 tabs
+- Total: ~ $487
+
+
 ### Oxygen
 - [HealthFirst](https://www.healthfirst.com/store/oxygen/) also sells oxygen
 - Basic setup is $\$289$
@@ -150,11 +158,13 @@ roughly \$$450-\$500$
     - single use adult BVM (bag valve mask)
 
 ### First Aid Kit
-- Wound care
+- Wound care supplies
 - Shears
 - Tourniquet
 - Gauze Pads
 - Rolled Gauze
+- Bandaids
+- OTC meds, etc.
   
 ### Resources / Recommended Reading
 - [Emergency oxygen therapy in the dental practice](https://www.nature.com/articles/bdjteam201445)
