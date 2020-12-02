@@ -8,6 +8,8 @@ This site is for the purpose of drafting and sharing new content as it is create
 - [Resources](covid_19_resources.md)
 
 ## Articles / Posts
+- [December 01, 2020](120120_emergency_preparedness_dental.md)
+  - Emergency Preparedness for the Dental Office
 - [December 01, 2020](120120_sleep.md)
   - How to Sleep
 - [November 28, 2020](112820_covid19_mrna_vaccine.md)
