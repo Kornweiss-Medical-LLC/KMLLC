@@ -81,7 +81,7 @@ Furthermore, in ongoing clinical trials, roughly one tenth of vaccinated humans 
 
 ### Will it prevent transmission?
     
-Probably. It appears that vaccinated non-human primates have limited viral replication in the nasopharynx, suggesting that the vaccine may be very helpful in limiting transmission for at least three reasons: i) decreased viral replication, ii) decreased duration of viral carriage, iii) decreased number of infected individuals in a vaccinated population at a given time.
+It will probably attenuate transmission significantly. It appears that viral replication in the nasopharynx is diminished in vaccinated non-human primates, suggesting that the vaccine may be very helpful in limiting transmission for at least three reasons: i) decreased viral replication, ii) decreased duration of viral carriage, iii) decreased number of infected individuals in a vaccinated population at a given time.
 
 ### What are the "side effects," from vaccination?
     
@@ -97,7 +97,7 @@ Furthermore, researchers surmise that vaccination will confer improved immunity 
 
 ### What is the onset and duration of immunity?
     
-Based on animal and human data, **immunity is probable at 6-7 weeks after the first vaccine**[*](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436) is administered. The duration of immunity is as-of-yet unknown, but based on antibody data from natural infection, it's reasonable to assume that vaccine generated immunity will last at least three months, but probably much longer (perhaps a year or two according to some experts). There are several reasons to believe that vaccine generated immunity will be more potent than immunity from natural infection.
+Based on animal and human data, a vaccine recipient will likely develop immunity by **6 or 7 weeks after the first of two injections**[*](https://www.nejm.org/doi/full/10.1056/NEJMoa2028436) is administered. The duration of immunity (i.e. the period of time that a vaccine recipient will be immune after vaccination) is currently unknown, but based on antibody data from natural infection, it's reasonable to assume that vaccine generated immunity will last at least three months, but probably much longer (perhaps a year or two according to some experts). There are several reasons to believe that vaccine generated immunity will be more potent than immunity from natural infection.
 
 ### Will I be taking it?
     
