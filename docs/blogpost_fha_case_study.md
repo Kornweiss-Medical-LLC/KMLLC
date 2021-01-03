@@ -2,6 +2,7 @@
     - A Crossfit Athlete who Lost her Period
     - Amenorrhea in a Female Crossfitter
     - Amenorrhea in the Recreational Female Athlete
+
 ## Background
 
 A 27 year old female presented to me in 2019 with three years of progressive symptoms which began with the loss of her menstrual period. This was followed by gradually worsening generalized fatigue, fragmented and restless sleep, and decreased exercise motivation and tolerance. Several other signs and symptoms appeared intermittently: headaches, light-headedness, palpitations, dry skin, and muscle aches and cramps.
@@ -158,67 +159,59 @@ Specific food suggestions were based on the patient's personal tastes and micron
 
 ### Exercise
 
-I recommended a two week complete hiatus from all exercise except for walking. After that, I recommended 30-90 minutes of zone one or zone two exercise 3-5 times per week. I recommended against resistance training and against any moderate or high intensity training until the return of menses, and perhaps for some time afterwards depending on the trajectory of the recovery.
-- ### Sleep
-- We discussed sleep strategies, which I've written about [in this article](https://kornweissmedical.com/live-soundly-sleep-soundly/). In essence, these recommendations were to avoid caffeine after 9am, to be in bed consistently by 11pm, out of bed in the morning consistently by 7am, and to obtain morning sunlight and natural light in the late afternoon and evening as well. We also discussed reading and meditating at bed time as part of a "wind-down routine."
-- ### Psychological Stressors
-- We maintained an open line of communication at all times. I spoke with the patient via phone, video, email, and text message often several times a week, especially for the first two months. The patient also sought counsel from a clinical psychologist on several occasions, which was encouraged. She also had an excellent support system of friends and family. The pre-existing psychological stressors were exacerbated throughout this process when the patient, amidst her attempt to recover from FHA, changed jobs, moved, endured strife within the family, and became stressed at the loss of her Crossfit community, daily workout routine, and changes to her physique as a result of decreased exercise and weight gain, which she initially viewed as undesirable. All of these stressors proved to be by far the most challenging aspect to overcome.
-- ## Clinical Course
-- ### Two Months
-- In February, roughly two months after initiating the initial plan, labs were rechecked. In the interim, the patient gained approximately 2 kg and stopped nearly all physical activity. Repeat labs demonstrated:
-- **Laboratory Evaluation** -- February, 2020 {{[[table]]}}
-    - **Lab**
-        - **Feb, 2020**
-            - **Dec, 2020**
-                - **Unit**
-    - LH
-        - 8.5
-            - 1.2
-                - $$mIU/mL$$
-    - FSH
-        - 6.2
-            - 5.4
-                - $$mIU/mL$$
-    - Estradiol
-        - 42.3
-            - 18.2
-                - $$pg/ml$$ 
-    - Progesterone
-        - 0.4
-            - n/a
-                - $$ng/mL$$
-- You can see a significant increase in both LH and estradiol, whereas FSH is roughly the same and progesterone was not done initially, so no comparison is possible. The changes are difficult to interpret in the absence of menstruation, because there are natural fluctuations in hormone levels throughout the month during normal menses. However, looking back at labs spanning the previous three years, this was the first time estradiol was measured at a value over 20 in over three years.
-- ### Four Months
-- In April of 2020, four months after the initial consultation, the patient reported light cramping and the presence of cervical mucous, but still no menstruation. Body weight at this time was now up to 73 kg, nearly 10 kg or 20 lbs heavier than the starting weight. We were successful in adding body weight, but the goal of maintaining a mostly whole food diet was not achieved, nor had the fragmented sleep or psychological stressors completely resolved. However, the patient reported subjective improvements in all aspects of the plan. 
-- Labs were checked once again and revealed:
-- **Laboratory Evaluation** -- April, 2020 {{[[table]]}}
-    - **Lab**
-        - **Apr, 2020**
-            - **Feb, 2020**
-                - **Dec, 2020**
-                    - **Unit**
-    - LH
-        - 6.7
-            - 8.5
-                - 1.2
-                    - $$mIU/mL$$
-    - FSH
-        - 6.5
-            - 6.2
-                - 5.4
-                    - $$mIU/mL$$
-    - Estradiol
-        - 36.3
-            - 42.3
-                - 18.2
-                    - $$pg/ml$$ 
-    - Progesterone
-        - 0.3
-            - 0.4
-                - n/a
-                    - $$ng/mL$$
-- You can see once again that LH, FSH, and estradiol all remain higher than the original baseline values.
-- ### Six Months
+We agreed on a two week hiatus from all exercise except for walking. After that two week period, I recommended 30-90 minutes of zone one or zone two exercise 3-5 times per week. I recommended against resistance training and against any moderate or high intensity training until the return of menses, and perhaps for some time afterwards depending on the trajectory of the recovery. This prescription was based on the patient's desire to regain menses at the expense of her fitness if need be. It may be possible, though not necessarily advisable, for some individuals to regain menses without a two week rest period, and while still maintaining some moderate or high-intensity exercise. This aspect of treatment is controversial and variable on an individual basis. There is some evidence that intense exercise alone is not enough to induce amenorrhea, and that the more important factor is adequate energy intake.
+
+### Sleep
+
+I suspected in this case that the patient's fragmented sleep, early-awakenings, and long sleep-latency were secondary to stress and hormonal disturbance. I hypothesized that once energy intake was adequate and psychological stressors were addressed, that sleep would improve on its own. Nevertheless, we did seek to address sleep issues primarily, as sleep deprivation could play a primary role in contributing to stress and thus amenorrhea. To this end, I discussed a variety of [sleep strategies](https://kornweissmedical.com/live-soundly-sleep-soundly/) with my patient. Briefly, we sought to i) avoid caffeine after 9am, ii) to aim for an 11pm in-bed time, and a 7am out-of-bed time, iii) to obtain morning sunlight, natural light in the late afternoon and evening, and iv) to read and/or meditate as part of a "wind-down routine."
+
+### Psychological Stressors
+
+Psychological stressors are ubiquitous. Even if stressors are not a primary issue in a particular case of FHA, they could develop as part of a "recovery period" which necessarily involves changes to a patient's routine.
+
+In this case, there were numerous pre-existing stressors that likely contributed to the patient's amenorrhea and also likely made the recovery more challenging. To mitigate these stressors, we maintained an open line of communication at all times. I spoke with the patient via phone, video, email, and text message often several times a week, especially for the first two months. The patient also sought counsel from a clinical psychologist on several occasions, which was highly encouraged. In addition, the patient also had an excellent support system of friends and family.
+
+Despite these measures, additional sources of stress arose as a result of the recovery plan. The patient endured a change in daily exercise routine, decreased contact with her exercise community, and changes to her physique. All of these stressors proved to be by far the most challenging aspect of the recovery period.
+
+## Clinical Course
+
+### December, 2019 - February, 2020
+
+During the first two months, the plan was executed with variable success. Weight gain was minimal, at roughly 1 kg. However, physical activity was significantly decreased. Repeat labs demonstrated:
+
+**Laboratory Evaluation** -- February, 2020
+
+| Lab          | Feb, 2020 | Dec, 2020 | Unit   |
+|--------------|-----------|-----------|--------|
+| LH           | 8.5       | 1.2       | mIU/mL |
+| FSH          | 6.2       | 5.4       | mIU/mL |
+| Estradiol    | 42.3      | 18.2      | pg/ml  |
+| Progesterone | 0.4       | n/a       | ng/mL  |
+
+You can see a significant increase in both LH and estradiol, whereas FSH is roughly the same. However, in order to interpret these changes, you first need to know two things:
+1. Reproductive hormone levels (e.g. LH, FSH, estradiol, and progesterone), all fluctuate on a daily-weekly basis in women with an active menstrual cycle. Each of the above hormones have their own pattern of fluctuation, with a surge of LH, FSH, and estradiol around the time of ovulation, and increase in progesterone the week of and after ovulation. 
+2. Hormone levels vary from individual to individual.
+
+With that in mind, realize that it's difficult to interpret the chart above. Given that this patient was not having menstrual bleeding, it's impossible to tell (without daily or weekly measurements), whether this patient is having a normal pattern of hormone levels, and we've just measured them at two different time points, or rather if she was having persistently low LH and estradiol prior to this improvement. 
+
+My interpretation, especially in retrospect reviewing this case, and in the context of the full recovery and subsequent lab checks (discussed in more detail below), that the higher LH and estradiol levels were indicative of a return of function of the endocrine system rather than a coincidence of timing of measurement. For this patient, this was the first time estradiol was measured at a value over 20 in over three years.
+
+### February, 2020 - April, 2020
+
+In April of 2020, four months after the initial consultation, the patient reported light cramping and the presence of cervical mucous, but still no menstrual bleeding. Body weight at this time was now up to 73 kg, nearly 10 kg or 20 lbs heavier than the starting weight. We were successful in adding body weight. However, fragmented sleep and psychological stressors remained a challenge, though with gradual improvements. Labs were checked once again and revealed:
+
+**Laboratory Evaluation** -- April, 2020
+
+| Lab          | Apr, 2020 | Feb, 2020 | Dec, 2020 | Unit   |
+|--------------|-----------|-----------|-----------|--------|
+| LH           | 6.7       | 8.5       | 1.2       | mIU/mL |
+| FSH          | 6.5       | 6.2       | 5.4       | mIU/mL |
+| Estradiol    | 36.3      | 42.3      | 18.2      | pg/ml  |
+| Progesterone | 0.3       | 0.4       | n/a       | ng/mL  |
+
+You can see once again that LH, FSH, and estradiol all remain higher than the original baseline values.
+
+### Six Months
 - Over the next two months, we worked together to fine-tune all aspects of the recovery plan including improvements in nutrition, exercise, and sleep. Walks, light-jogging, and body-weight movements were reintroduced. We emphasized a whole-food diet, and eating to satiety.
 - Here is a graph showing hormone levels plotted against weight starting in 2016 and extending through recovery of menses. The green shaded area begins in January of 2020 and extends through April of 2020. This period of time accounts for nearly 20 lbs of weight gain, and a massive decrease in exercise, an increase in sleep, and attempts to address psychological stressors. You can see the gold and red lines increasing drastically. The gold line represents LH levels, the red line estradiol. Menses resumed approximately eight weeks after these increases (the pink shaded area).
 - ![client hormone chart](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FMlMiUCimvQ.jpg?alt=media&token=6fca690e-d98b-4675-86dd-6a76b036cddf)
