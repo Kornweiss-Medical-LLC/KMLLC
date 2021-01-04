@@ -99,17 +99,17 @@ Here's a [video](https://www.youtube.com/watch?v=2_owp8kNMus) explaining the ent
 
 If anything is wrong with this system - functionally or structurally, normal menstruation can be disrupted.
 
-Sometimes, women are born with problems with the system, and do not have a menstrual period as expected by age fifteen. This is called [primary amenorrhea](https://en.wikipedia.org/wiki/Amenorrhea#Primary_amenorrhoea).
+Sometimes, women are born with problems with the system, and do not have a menstrual period by age fifteen. This is called [primary amenorrhea](https://en.wikipedia.org/wiki/Amenorrhea#Primary_amenorrhoea).
 
-In other cases, women have normal [menarche](https://en.wikipedia.org/wiki/Menarche) (first menstruation), and at some point in the future develop amenorrhea (i.e. they lose their menstrual period). This is called [secondary amenorrhea](https://en.wikipedia.org/wiki/Amenorrhea#Secondary_amenorrhea).
+In other cases, women have normal [menarche](https://en.wikipedia.org/wiki/Menarche) (first menstruation), but at some point in the future develop amenorrhea (i.e. they lose their menstrual period). This is called [secondary amenorrhea](https://en.wikipedia.org/wiki/Amenorrhea#Secondary_amenorrhea).
 
 The distinction between primary and secondary amenorrhea is important, because women with secondary amenorrhea by definition have had normal menses at one time or another. They have proven that they possessed (at least at some time, if not still) the biochemical and anatomical potential for menstruation. Women with primary amenorrhea have never had a menstrual period, and therefore it is in question as to whether there is an absence of a biochemical or anatomical element necessary for menstruation.
 
 It's important to realize that many of the causes of secondary amenorrhea could also cause primary amenorrhea. Take for example a case of functional hypothalamic amenorrhea, which can be caused by poor nutrition. An individual might have all of the normal anatomy and physiology required for menstruation, but they do not have enough nutrition during their adolescent years to induce menstruation. This is an extrinsic cause of amenorrhea, but the case will be defined as primary amenorrhea, simply because the patient did not have her first menstrual period by age fifteen.
 
-Thus, I think it may be more useful to think of amenorrhea as either intrinsic or extrinsic. That is, caused either by an inborn cause versus an extrinsic, or acquired cause. An example of an intrinsic cause is an enzyme deficiency such as occurs in [congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia). In this group of conditions, an enzyme is missing that causes an abnormal production of sex hormones which can have a variety of results, including primary amenorrhea in females.
+Thus, I think it may be more useful to think of amenorrhea as either intrinsic or extrinsic. That is, due to an inborn (intrinsic) cause versus an acquired (extrinsic) cause. An example of an intrinsic cause is an enzyme deficiency like [congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia). In this group of conditions, there is an enzyme deficiency that causes an abnormal hormone profile often leading to primary amenorrhea in females.
 
-An example of an extrinsic cause of amenorrhea is [Asherman's Syndrome](https://en.wikipedia.org/wiki/Asherman%27s_syndrome) in which scarring of the uterus can prevent menstruation from occurring.
+An example of an extrinsic cause of amenorrhea is [Asherman's Syndrome](https://en.wikipedia.org/wiki/Asherman%27s_syndrome) in which scarring of the uterus, usually from a surgical procedure, can prevent menstruation from occurring.
 
 Another way to categorize causes of amenorrhea would be to divide it into the following categories:
 1. **External** - caused by external factors such as starvation, exercise, or stress.
@@ -126,9 +126,9 @@ With all of this said, it is overwhelmingly likely in a patient who has previous
 
     OR
 
-2. The biochemical signaling has been disrupted.
+2. The biochemical signaling has been disrupted by an external cause.
 
-In the current case, the differential diagnosis included:
+In the current case, the differential diagnosis included causes from both categories:
 - [Functional Hypothalamic Amenorrhea](https://en.wikipedia.org/wiki/Functional_hypothalamic_amenorrhea)
 - [Polycystic Ovarian Syndrome](https://en.wikipedia.org/wiki/Polycystic_ovary_syndrome)
 - [Hyperandrogenism](https://en.wikipedia.org/wiki/Hyperandrogenism)
