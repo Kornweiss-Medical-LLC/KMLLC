@@ -1,4 +1,4 @@
-# A Case of Amenorrhea in a Female Crossfit Athlete
+# A Case of Amenorrhea in a Female Crossfit Athlete Successfully Treated with Non-Pharmacologic Interventions
 
 ## Background
 
