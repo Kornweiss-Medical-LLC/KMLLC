@@ -1,5 +1,7 @@
 # A Case of Amenorrhea in a Female Crossfit Athlete Successfully Treated with Non-Pharmacologic Interventions
 
+What follows is a real clinical case of a young female athlete who lost her menstrual period after several years of intense exercise and caloric restriction, and who then regained normal menses after enacting corrective measures. I have taken care to remove details which might make it possible to identity the patient. However, the patient did grant me permission to share this case with any detail that I thought might provide benefit to the reader, including her actual lab values and clinical history. My hope is that the presentation of this case might help add context for anyone going through a similar process.
+
 ## Background
 
 A 27 year old female presented to me in 2019 with three years of progressive symptoms which began with the loss of her menstrual period. This was followed by gradually worsening generalized fatigue, fragmented and restless sleep, and decreased exercise motivation and tolerance. Several other signs and symptoms appeared intermittently: headaches, light-headedness, palpitations, dry skin, and muscle aches and cramps.
