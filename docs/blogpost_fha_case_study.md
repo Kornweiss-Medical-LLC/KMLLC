@@ -117,7 +117,7 @@ Another way to categorize causes of amenorrhea would be to divide it into the fo
 1. **External** - caused by external factors such as starvation, exercise, or stress.
 2. **Central** - caused by damage or dysfunction of the central controllers - the hypothalamus or pituitary, such as a tumor of the pituitary gland.
 3. **Peripheral** - caused by a problem with the peripheral glands or tissues like the thyroid, adrenal glands, or pancreas - such as hypothyroidism or congenital adrenal hyperplasia.
-4. **Gonadal** - caused by a problem with the ovaries such as polycystic ovary syndrome or hyperandrogenism.
+4. **Gonadal** - caused by a problem with the ovaries such as polycystic ovary syndrome or hyperandrogenism[@javedHyperandrogenismFemaleAthletes2015].
 5. **Genital** - caused by a problem with the genital tract such as scarring of the uterus or an obstruction of the outflow tract.
 
 Any classification system has its benefits and detriments, so its useful to understand the system as a whole and to be able to think of it in different ways.
@@ -147,7 +147,8 @@ In order to narrow down the list of diagnoses above, I obtained a pelvic ultraso
 
 The normal pelvic ultrasound as well as normal androgens (testosterone and free testosterone), made PCOS and hypernadrogenism very unlikely. Normal prolactin level made a pituitary tumor very unlikely. Normal thyroid studies ruled out hyper and hypothyroidism. Normal fasting insulin and hgbA1c made hyperinsulinemia an unlikely contributing factor. There was no history of cervical or uterine instrumentation, and no endometrial abnormality on pelvic ultrasound, so Asherman's Syndrome was unlikely. A normal 17-OH progesterone level made non-classical CAH unlikely as well.
 
-![](../images/fha_hormone_table.png)
+![FHA Differential Diagnosis Hormone Chart](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)
+
 Source: [Gordon et al. 2017](https://academic.oup.com/view-large/81684225)
 
 
@@ -183,7 +184,7 @@ Specific food suggestions were based on the patient's personal tastes and micron
 
 ### Exercise
 
-We agreed on a two week hiatus from all exercise except for walking. After that two week period, I recommended 30-90 minutes of zone one or zone two exercise 3-5 times per week. I recommended against resistance training and against any moderate or high intensity training until the return of menses, and perhaps for some time afterwards depending on the trajectory of the recovery. This prescription was based on the patient's desire to regain menses at the expense of her fitness if need be. It may be possible, though not necessarily advisable, for some individuals to regain menses without a two week rest period, and while still maintaining some moderate or high-intensity exercise. This aspect of treatment is controversial and variable on an individual basis. There is some evidence that intense exercise alone is not enough to induce amenorrhea, and that the more important factors are adequate energy intake and management of other physiologic and psychological stressors.
+We agreed on a two week hiatus from all exercise except for walking. After that two week period, I recommended 30-90 minutes of zone one or zone two exercise 3-5 times per week. I recommended against resistance training and against any moderate or high intensity training until the return of menses, and perhaps for some time afterwards depending on the trajectory of the recovery. This prescription was based on the patient's desire to regain menses at the expense of her fitness if need be. It may be possible, though not necessarily advisable, for some individuals to regain menses without a two week rest period, and while still maintaining some moderate or high-intensity exercise[@warrenEffectsIntenseExercise2001]. This aspect of treatment is controversial and variable on an individual basis. There is some evidence that intense exercise alone is not enough to induce amenorrhea, and that the more important factors are adequate energy intake and management of other physiologic and psychological stressors[@sophiegibsonWhereHavePeriods2020], [@genazzaniDiagnosticTherapeuticApproach2006].
 
 ### Sleep
 
@@ -257,7 +258,7 @@ Applying this to yourself, or to a future patient might work by plotting out sev
 
 My patient's recovery of menstrual periods took approximately six months from day one of intervention. By the time I encountered this patient, she was already convinced that her lack of menstruation was a problem and that it tied in with many other symptoms she was experiencing. So, she was highly motivated to fix the problem. We were able to work closely together during this process and made small adjustments to nutrition and exercise along the way. There were also many discussions that took place to evaluate whether we were headed in the right direction or not, and to provide reassurance.
 
-Six months is a long time to wait, and it can be difficult to tell at any point during the process if and when menses will resume. In some cases, menses might resume more quickly, and in others it might take much longer. Even though some women gain weight, there can still be psychological stressors that prevent normal menstruation from resuming. Because of the complexity of treating FHA, professional societies recommend a multidisciplinary approach -- physician, nutritionist, trainer, and psychologist - especially for competitive athletes[@gordonFunctionalHypothalamicAmenorrhea2017].
+Six months is a long time to wait, and it can be difficult to tell at any point during the process if and when menses will resume. In some cases, menses might resume more quickly, and in others it might take much longer[@NoPeriodNow]. Even though some women gain weight, there can still be psychological stressors that prevent normal menstruation from resuming. Because of the complexity of treating FHA, professional societies recommend a multidisciplinary approach -- physician, nutritionist, trainer, and psychologist - especially for competitive athletes[@gordonFunctionalHypothalamicAmenorrhea2017].
 
 There is far more to say on this topic, but for now I'll close out with a few questions that I'd like to answer in future articles:
 
@@ -266,4 +267,4 @@ There is far more to say on this topic, but for now I'll close out with a few qu
 3. Are medications useful and/or safe in the treatment of FHA?
 4. What other problems occur as a result of energy deficiency, especially in athletes?
 
-# References
+### References

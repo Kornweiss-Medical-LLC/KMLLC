@@ -709,6 +709,6 @@ Accessed: Jan. 07, 2021. \[Online\]. Available:
 <https://www.noperiodnowwhat.com/>.
 
 \[6\] C. M. Gordon *et al.*, “Functional hypothalamic amenorrhea: An
-endocrine society clinical practice guideline,” *J. Clin. Endocrinol.
+mendocrine society clinical practice guideline,” *J. Clin. Endocrinol.
 Metab.*, vol. 102, no. 5, pp. 1413–1439, May 2017, doi:
 [10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131).

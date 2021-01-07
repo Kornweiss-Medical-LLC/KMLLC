@@ -306,7 +306,12 @@ into the following categories:
     tissues like the thyroid, adrenal glands, or pancreas - such as
     hypothyroidism or congenital adrenal hyperplasia.
 4.  **Gonadal** - caused by a problem with the ovaries such as
-    polycystic ovary syndrome or hyperandrogenism\[1\].
+    polycystic ovary syndrome or hyperandrogenism\[mfn\]\[1\]: A.
+    Javed, R. Kashyap, and A. N. Lteif, “Hyperandrogenism in female
+    athletes with functional hypothalamic amenorrhea: A distinct
+    phenotype,” *Int J Womens Health*, vol. 7, pp. 103–111, Jan. 2015,
+    doi:
+    [10.2147/IJWH.S73011](https://doi.org/10.2147/IJWH.S73011)\[/mfn\].
 5.  **Genital** - caused by a problem with the genital tract such as
     scarring of the uterus or an obstruction of the outflow tract.
 
@@ -480,12 +485,24 @@ trajectory of the recovery. This prescription was based on the patient’s
 desire to regain menses at the expense of her fitness if need be. It may
 be possible, though not necessarily advisable, for some individuals to
 regain menses without a two week rest period, and while still
-maintaining some moderate or high-intensity exercise\[2\]. This aspect
-of treatment is controversial and variable on an individual basis. There
-is some evidence that intense exercise alone is not enough to induce
-amenorrhea, and that the more important factors are adequate energy
-intake and management of other physiologic and psychological
-stressors\[3\], \[4\].
+maintaining some moderate or high-intensity exercise\[mfn\]\[2\]: M.
+Warren and N. Perlroth, “The effects of intense exercise on the female
+reproductive system,” *J. Endocrinol.*, vol. 170, no. 1, pp. 3–11, Jul.
+2001, doi:
+[10.1677/joe.0.1700003](https://doi.org/10.1677/joe.0.1700003)\[/mfn\].
+This aspect of treatment is controversial and variable on an individual
+basis. There is some evidence that intense exercise alone is not enough
+to induce amenorrhea, and that the more important factors are adequate
+energy intake and management of other physiologic and psychological
+stressors\[mfn\]\[3\]: M. E. Sophie Gibson, N. Fleming, C. Zuijdwijk,
+and T. Dumont, “Where Have the Periods Gone? The Evaluation and
+Management of Functional Hypothalamic Amenorrhea,” *J Clin Res Pediatr
+Endocrinol*, vol. 12, no. Suppl 1, pp. 18–27, Jan. 2020, doi:
+[10.4274/jcrpe.galenos.2019.2019.S0178](https://doi.org/10.4274/jcrpe.galenos.2019.2019.S0178)\[/mfn\].,
+\[mfn\]\[4\]: A. D. Genazzani, F. Ricchieri, C. Lanzoni, C. Strucchi,
+and V. M. Jasonni, “Diagnostic and therapeutic approach to hypothalamic
+amenorrhea,” *Ann. N. Y. Acad. Sci.*, vol. 1092, pp. 103–113, 2006, doi:
+[10.1196/annals.1365.009](https://doi.org/10.1196/annals.1365.009)\[/mfn\].
 
 ### Sleep
 
@@ -665,11 +682,18 @@ direction or not, and to provide reassurance.
 Six months is a long time to wait, and it can be difficult to tell at
 any point during the process if and when menses will resume. In some
 cases, menses might resume more quickly, and in others it might take
-much longer\[5\]. Even though some women gain weight, there can still be
-psychological stressors that prevent normal menstruation from resuming.
-Because of the complexity of treating FHA, professional societies
-recommend a multidisciplinary approach – physician, nutritionist,
-trainer, and psychologist - especially for competitive athletes\[6\].
+much longer\[mfn\]\[5\]: “No Period. Now What? A book about regaining
+missing periods.” Accessed: Jan. 07, 2021. \[Online\]. Available:
+<https://www.noperiodnowwhat.com/>\[/mfn\]. Even though some women gain
+weight, there can still be psychological stressors that prevent normal
+menstruation from resuming. Because of the complexity of treating FHA,
+professional societies recommend a multidisciplinary approach –
+physician, nutritionist, trainer, and psychologist - especially for
+competitive athletes\[mfn\]\[6\]: C. M. Gordon *et al.*, “Functional
+hypothalamic amenorrhea: An endocrine society clinical practice
+guideline,” *J. Clin. Endocrinol. Metab.*, vol. 102, no. 5, pp.
+1413–1439, May 2017, doi:
+[10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)\[/mfn\].
 
 There is far more to say on this topic, but for now I’ll close out with
 a few questions that I’d like to answer in future articles:
@@ -683,32 +707,32 @@ a few questions that I’d like to answer in future articles:
 
 ### References
 
-\[1\] A. Javed, R. Kashyap, and A. N. Lteif, “Hyperandrogenism in female
-athletes with functional hypothalamic amenorrhea: A distinct phenotype,”
-*Int J Womens Health*, vol. 7, pp. 103–111, Jan. 2015, doi:
+\[1\]: A. Javed, R. Kashyap, and A. N. Lteif, “Hyperandrogenism in
+female athletes with functional hypothalamic amenorrhea: A distinct
+phenotype,” *Int J Womens Health*, vol. 7, pp. 103–111, Jan. 2015, doi:
 [10.2147/IJWH.S73011](https://doi.org/10.2147/IJWH.S73011).
 
-\[2\] M. Warren and N. Perlroth, “The effects of intense exercise on the
-female reproductive system,” *J. Endocrinol.*, vol. 170, no. 1, pp.
+\[2\]: M. Warren and N. Perlroth, “The effects of intense exercise on
+the female reproductive system,” *J. Endocrinol.*, vol. 170, no. 1, pp.
 3–11, Jul. 2001, doi:
 [10.1677/joe.0.1700003](https://doi.org/10.1677/joe.0.1700003).
 
-\[3\] M. E. Sophie Gibson, N. Fleming, C. Zuijdwijk, and T. Dumont,
+\[3\]: M. E. Sophie Gibson, N. Fleming, C. Zuijdwijk, and T. Dumont,
 “Where Have the Periods Gone? The Evaluation and Management of
 Functional Hypothalamic Amenorrhea,” *J Clin Res Pediatr Endocrinol*,
 vol. 12, no. Suppl 1, pp. 18–27, Jan. 2020, doi:
 [10.4274/jcrpe.galenos.2019.2019.S0178](https://doi.org/10.4274/jcrpe.galenos.2019.2019.S0178).
 
-\[4\] A. D. Genazzani, F. Ricchieri, C. Lanzoni, C. Strucchi, and V. M.
+\[4\]: A. D. Genazzani, F. Ricchieri, C. Lanzoni, C. Strucchi, and V. M.
 Jasonni, “Diagnostic and therapeutic approach to hypothalamic
 amenorrhea,” *Ann. N. Y. Acad. Sci.*, vol. 1092, pp. 103–113, 2006, doi:
 [10.1196/annals.1365.009](https://doi.org/10.1196/annals.1365.009).
 
-\[5\] “No Period. Now What? A book about regaining missing periods.”
+\[5\]: “No Period. Now What? A book about regaining missing periods.”
 Accessed: Jan. 07, 2021. \[Online\]. Available:
 <https://www.noperiodnowwhat.com/>.
 
-\[6\] C. M. Gordon *et al.*, “Functional hypothalamic amenorrhea: An
+\[6\]: C. M. Gordon *et al.*, “Functional hypothalamic amenorrhea: An
 endocrine society clinical practice guideline,” *J. Clin. Endocrinol.
 Metab.*, vol. 102, no. 5, pp. 1413–1439, May 2017, doi:
 [10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131).
