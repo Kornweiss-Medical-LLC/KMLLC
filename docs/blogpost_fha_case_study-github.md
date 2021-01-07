@@ -665,11 +665,7 @@ much longer. Even though some women gain weight, there can still be
 psychological stressors that prevent normal menstruation from resuming.
 Because of the complexity of treating FHA, professional societies
 recommend a multidisciplinary approach – physician, nutritionist,
-trainer, and psychologist - especially for competitive
-athletes\[mfn\]\[1\]:, C. M. Gordon *et al.*, “Functional hypothalamic
-amenorrhea: An endocrine society clinical practice guideline,” *J. Clin.
-Endocrinol. Metab.*, vol. 102, no. 5, pp. 1413–1439, May 2017, doi:
-[10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131)\[/mfn\].
+trainer, and psychologist - especially for competitive athletes\[1\].
 
 There is far more to say on this topic, but for now I’ll close out with
 a few questions that I’d like to answer in future articles:
@@ -683,7 +679,7 @@ a few questions that I’d like to answer in future articles:
 
 # References
 
-\[1\]: C. M. Gordon *et al.*, “Functional hypothalamic amenorrhea: An
+\[1\] C. M. Gordon *et al.*, “Functional hypothalamic amenorrhea: An
 endocrine society clinical practice guideline,” *J. Clin. Endocrinol.
 Metab.*, vol. 102, no. 5, pp. 1413–1439, May 2017, doi:
 [10.1210/jc.2017-00131](https://doi.org/10.1210/jc.2017-00131).
