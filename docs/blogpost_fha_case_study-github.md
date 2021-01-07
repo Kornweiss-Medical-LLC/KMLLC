@@ -370,7 +370,7 @@ no endometrial abnormality on pelvic ultrasound, so Asherman’s Syndrome
 was unlikely. A normal 17-OH progesterone level made non-classical CAH
 unlikely as well.
 
-![](images/../../images/fha_hormone_table.png) Source: [Gordon et
+![](../images/fha_hormone_table.png) Source: [Gordon et
 al. 2017](https://academic.oup.com/view-large/81684225)
 
 Therefore, these normal results, along with the abnormally low LH and
