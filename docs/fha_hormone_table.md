@@ -1,0 +1,7 @@
+| Condition                           | LH (IU/L) | FSH (IU/L) | LH/FSH      | E2 (pg/mL) | P4 (ng/mL) | AMH (ng/mL) | PRL (ng/mL) | TSH (µU/mL) | T4 (µg/dL) | DHEA-S (µg/dL) | 17OHP (ng/dL) | T (ng/dL)          |
+|-------------------------------------|-----------|------------|-------------|------------|------------|-------------|-------------|-------------|------------|----------------|---------------|--------------------|
+| Functional hypothalamic anovulation | &lt;10    | &lt;10     | ∼1          | &lt;50     | &lt;1      | &gt;1       | Low nl      | Low nl      | Low nl     | nl             | nl            | Low nl             |
+| Ovarian insufficiency menopause     | &gt;15    | &gt;15     | FSH &gt; LH | &lt;50     | &lt;1      | &lt;0.5     | nl          | nl or ↑     | nl or ↓    | nl             | nl            | Low nl             |
+| PCOS                                | &lt;15    | &lt;10     | LH &gt; FSH | &lt;50     | &lt;1      | nl or ↑     | High nl     | nl          | nl         | High nl        | nl            | High nl or slight↑ |
+| Nonclassical CAH                    | &lt;15    | &lt;10     | LH &gt; FSH | &lt;50     | ≤1         | nl          | nl          | nl          | nl         | High nl        | ↑             | ↑                  |
+| Hyperprolactinemia                  | &lt;10    | &lt;10     | LH &lt; FSH | &lt;50     | &lt;1      | nl          | ↑           | nl or ↑     | nl         | nl or slight ↑ | nl            | nl                 |
