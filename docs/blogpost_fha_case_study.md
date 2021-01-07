@@ -1,6 +1,6 @@
-# A Case of Amenorrhea in a Female Crossfit Athlete Successfully Treated with Non-Pharmacologic Interventions
+# A Case of Amenorrhea in a Female Recreational Athlete Successfully Treated with Non-Pharmacologic Interventions
 
-What follows is a real clinical case of a young female athlete who lost her menstrual period after several years of intense exercise and caloric restriction, and who then regained normal menses after enacting corrective measures. I have taken care to remove details which might make it possible to identify the patient. However, the patient did grant me permission to share this case with any detail that I thought might provide benefit to the reader, including her actual lab values and clinical history. Her hope, and mine, is that the presentation of this case might help add context for anyone going through a similar process.
+What follows is a real clinical case of a female athlete who lost her menstrual period after several years of intense exercise and caloric restriction, and who then regained normal menses after enacting corrective measures. I have taken care to remove details which might make it possible to identify the patient. However, the patient did grant me permission to share this case with any detail that I thought might provide benefit to the reader, including her actual lab values and clinical history. Her hope, and mine, is that the presentation of this case might help add context for anyone going through a similar process. Please understand that this article is not medical advice and that this patient's case may not be applicable to your own. See the bottom of the page for a full disclaimer.
 
 ## Background
 
@@ -95,7 +95,7 @@ The hypothalamus carries out its functions, in part, by communicating with a gla
 
 In the case of reproduction, under favorable conditions, the hypothalamus releases [GnRH](https://en.wikipedia.org/wiki/Gonadotropin-releasing_hormone) (gonadotropin releasing hormone), which causes the pituitary to release [LH](https://en.wikipedia.org/wiki/Luteinizing_hormone) (luteinizing hormone) and [FSH](https://en.wikipedia.org/wiki/Follicle-stimulating_hormone) (follicle stimulating hormone). LH and FSH cause the ovary to release an ovum (an egg), and to secrete estradiol and progesterone, which cause the uterus to build up its lining to prepare for implantation and pregnancy. If this process does not occur, the uterine lining is shed, resulting in menstrual bleeding.
 
-[![hypothalamic-pituitary-gonadal axis](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)](https://commons.wikimedia.org/wiki/File:Figure_28_03_01.jpg)
+[![hypothalamic-pituitary-gonadal axis](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)
 
 Here's a [video](https://www.youtube.com/watch?v=2_owp8kNMus) explaining the entire female reproductive system in detail in roughly 15 minutes; and here's another [video](https://www.youtube.com/watch?v=QAeBKRaNri0) explaining the hypothalamus-pituitary-adrenal system in 2 minutes.
 
@@ -147,7 +147,7 @@ In order to narrow down the list of diagnoses above, I obtained a pelvic ultraso
 
 The normal pelvic ultrasound as well as normal androgens (testosterone and free testosterone), made PCOS and hypernadrogenism very unlikely. Normal prolactin level made a pituitary tumor very unlikely. Normal thyroid studies ruled out hyper and hypothyroidism. Normal fasting insulin and hgbA1c made hyperinsulinemia an unlikely contributing factor. There was no history of cervical or uterine instrumentation, and no endometrial abnormality on pelvic ultrasound, so Asherman's Syndrome was unlikely. A normal 17-OH progesterone level made non-classical CAH unlikely as well.
 
-![FHA Differential Diagnosis Hormone Chart](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)
+[![FHA Differential Diagnosis Hormone Chart](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)
 
 Source: [Gordon et al. 2017](https://academic.oup.com/view-large/81684225)
 
@@ -247,7 +247,7 @@ In June of 2020, six months after the initiation of our interventions, the patie
 
 Here is a graph showing hormone levels plotted against weight over time starting in 2016 and extending through recovery of menses in June of 2020, with the most recent measurements in November, 2020. The green shaded area begins in January of 2020 and extends through April of 2020. This period of time accounts for nearly 20 lbs of weight gain, and a significant decrease in exercise, an increase in sleep, and attempts to address psychological stressors. You can see the gold and red lines increasing significantly during the period of weight gain. The gold line represents LH levels, the red line estradiol. Menses resumed approximately eight weeks after these increases (the pink shaded area).
 
-![client hormone chart](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FMlMiUCimvQ.jpg?alt=media&token=6fca690e-d98b-4675-86dd-6a76b036cddf)
+[![client hormone chart](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FMlMiUCimvQ.jpg?alt=media&token=6fca690e-d98b-4675-86dd-6a76b036cddf)]()
 *Units: weight in kg, estradiol in pg/ml, LH in mIU/mL, progesterone in ng/ml*
 
 If you're looking at the chart above, it may be tempting to try to make some sense of the absolute hormone levels within the context of the shaded areas of the chart. For example, you might look at the red line, which represents estradiol levels, and conclude that once a person is menstruating regularly, estradiol will go up from the thirties or forties into the nineties. This is not necessarily true. Individuals may have different ranges and fluctuations for each of the hormone levels. For instance, estradiol levels can range from fifteen up into the several hundreds depending on the individual and the segment of the menstrual cycle in which the level is measured. So, to me, the most notable finding on this chart occurs in the green shaded area. Prior to this time period, the patient's LH and estradiol levels were very low for a period of years regardless of when measurements were taken. Then, within several weeks of gaining weight and undertaking the other interventions discussed in this case report, LH went up nearly eight-fold, and estradiol doubled.
