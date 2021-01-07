@@ -107,7 +107,7 @@ In other cases, women have normal [menarche](https://en.wikipedia.org/wiki/Menar
 
 The distinction between primary and secondary amenorrhea is important, because women with secondary amenorrhea by definition have had normal menses at one time or another. They have proven that they possessed (at least at some time, if not still) the biochemical and anatomical potential for menstruation. Women with primary amenorrhea have never had a menstrual period, and therefore it is in question as to whether there is an absence of a biochemical or anatomical element necessary for menstruation.
 
-It's important to realize that many of the causes of secondary amenorrhea could also cause primary amenorrhea. Take for example a case of functional hypothalamic amenorrhea, which can be caused by poor nutrition. An individual might have all of the normal anatomy and physiology required for menstruation, but they do not have enough nutrition during their adolescent years to induce menstruation. This is an extrinsic cause of amenorrhea, but the case will be defined as primary amenorrhea, simply because the patient did not have her first menstrual period by age fifteen.
+It's important to realize that many of the causes of secondary amenorrhea could also cause primary amenorrhea. Take for example a case of functional hypothalamic amenorrhea, which can be caused by inadequate nutrition. An individual might have all of the normal anatomy and physiology required for menstruation, but they do not have enough nutrition during their adolescent years to induce menstruation. This is an extrinsic cause of amenorrhea, but the case will be defined as primary amenorrhea, simply because the patient did not have her first menstrual period by age fifteen.
 
 Thus, I think it may be more useful to think of amenorrhea as either intrinsic or extrinsic. That is, due to an inborn (intrinsic) cause versus an acquired (extrinsic) cause. An example of an intrinsic cause is an enzyme deficiency like [congenital adrenal hyperplasia](https://en.wikipedia.org/wiki/Congenital_adrenal_hyperplasia). In this group of conditions, there is an enzyme deficiency that causes an abnormal hormone profile often leading to primary amenorrhea in females.
 
@@ -253,7 +253,7 @@ Applying this to yourself, or to a future patient might work by plotting out sev
 
 My patient's recovery of menstrual periods took approximately six months from day one of intervention. By the time I encountered this patient, she was already convinced that her lack of menstruation was a problem and that it tied in with many other symptoms she was experiencing. So, she was highly motivated to fix the problem. We were able to work closely together during this process and made small adjustments to nutrition and exercise along the way. There were also many discussions that took place to evaluate whether we were headed in the right direction or not, and to provide reassurance.
 
-Six months is a long time to wait, and it can be difficult to tell at any point during the process if and when menses will resume. In some cases, menses might resume more quickly, and in others it might take much longer. Even though some women gain weight, there can still be psychological stressors that prevent normal menstruation from resuming. Because of the complexity of treating FHA, professional societies recommend a multidisciplinary approach -- physician, nutritionist, trainer, and psychologist - especially for competitive athletes.
+Six months is a long time to wait, and it can be difficult to tell at any point during the process if and when menses will resume. In some cases, menses might resume more quickly, and in others it might take much longer. Even though some women gain weight, there can still be psychological stressors that prevent normal menstruation from resuming. Because of the complexity of treating FHA, professional societies recommend a multidisciplinary approach -- physician, nutritionist, trainer, and psychologist - especially for competitive athletes[@gordonFunctionalHypothalamicAmenorrhea2017].
 
 There is far more to say on this topic, but for now I'll close out with a few questions that I'd like to answer in future articles:
 
@@ -261,3 +261,5 @@ There is far more to say on this topic, but for now I'll close out with a few qu
 2. Is there a corollary condition in men?
 3. Are medications useful and/or safe in the treatment of FHA?
 4. What other problems occur as a result of energy deficiency, especially in athletes?
+
+# References

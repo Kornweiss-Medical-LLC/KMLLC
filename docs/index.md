@@ -8,6 +8,8 @@ This site is for the purpose of drafting and sharing new content as it is create
 - [Resources](covid_19_resources.md)
 
 ## Articles / Posts
+- [January 07, 2021](./covid-19-mrna-vaccine-information-compiled-processed.md)
+  - A Compilation of all covid-19 mRNA vaccine content
 - [January 03, 2021](blogpost_fha_case_study.md)
   - A Case of Amenorrhea in a Female Crossfit Athlete Successfully Treated with Non-Pharmacologic Interventions
 - [December 01, 2020](120120_emergency_preparedness_dental.md)
