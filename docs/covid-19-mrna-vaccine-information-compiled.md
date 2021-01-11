@@ -1,10 +1,42 @@
 <!-- covid-19 mrna vaccine information compilation -->
 
-## Compilation of all Covid-19 mRNA Vaccine Related Content
+# Compilation of all Covid-19 mRNA Vaccine Related Content
 
 I'll be updating this page each time I publish new content related to the vaccine so that you can find all mRNA vaccine related information in one place.
 
-Last updated: 2021-01-06 14:15:02
+Last updated: January 11, 2021
+
+## Covid-19 mRNA Vaccine Efficacy
+
+*Originally published in [Newsletter Vol.2 &numero;1](https://kornweissmedical.com/newsletter-edition-no-4/) -- January 10, 2021*
+
+I've been asked several times recently what it means that the vaccine is "95% effective."
+
+It *does not* mean that 95 times out of 100 exposures an individual is protected from contracting Covid. It *does not* mean that symptoms are reduced by 95% in vaccinated patients who contract Covid -- though there likely is a symptom-mitigating effect in vaccinees who contract Covid.
+
+It *does* mean that the vaccine is effective in preventing symptomatic infection in members of a group of recipients compared to individuals in a placebo group of non-recipients. But, to get a more concrete idea of exactly how effective this vaccine is, it's worth looking at the actual numbers from the clinical trial and the trial definition of "vaccine efficacy."
+
+**From the most recent publication in NEJM regarding the Pfizer BioNTech Covid-mRNA Vaccine:**
+
+Source: <https://www.nejm.org/doi/full/10.1056/NEJMoa2034577>
+
+"Among 36,523 participants who had no evidence of existing or prior SARS-CoV-2 infection, 8 cases of Covid-19 with onset at least 7 days after the second dose were observed among vaccine recipients and 162 among placebo recipients. This case split corresponds to 95.0% vaccine efficacy (95% confidence interval [CI], 90.3 to 97.6; Table 2)."
+
+**How was vaccine efficacy calculated?**
+
+"Vaccine efficacy was estimated by 100×(1−IRR), where IRR is the calculated ratio of confirmed cases of Covid-19 illness per 1000 person-years of follow-up in the active vaccine group to the corresponding illness rate in the placebo group."
+
+**Let's look at the actual numbers.**
+
+[![Figure 3. Efficacy of BNT162b2 against Covid-19 after the First Dose.](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2020/nejm_2020.383.issue-27/nejmoa2034577/20210108/images/img_xlarge/nejmoa2034577_f3.jpeg)](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577)
+
+In the vaccine group, only 9 out of 21,669 participants tested positive for Covid-19 during a roughly 100 day surveillance period after the 2nd vaccine dose.
+
+So, in this time period, the rate of infection in vaccine recipients was 9 out of 21,669 -- 0.04%. In other words, 99.96% of vaccine recipients did not have symptomatic Covid-19 during the surveillance period. Compare this to 172 out of 21,686 in the placebo group -- 0.8%. This is still a low infection rate, but it is nearly 20 times the infection rate in the vaccine group.
+
+It is important to realize that many people were neither exposed nor tested during the surveillance period. Exposure was dependent on participant behavior, and testing was dependent on reporting of symptoms. There is no reason to believe these factors were unbalanced between the vaccine and placebo groups, but nonetheless, some caution must be used in interpretation of efficacy for these reasons.
+
+However, whichever way you slice this, the bottom line is that the vaccine does in fact appear to be remarkably effective at preventing Covid-19 infections.
 
 ## Allergic Reactions to the Covid-19 mRNA Vaccine
 
@@ -52,7 +84,8 @@ What does all of this mean? It means that both companies seem to have produced e
 
 ---
 
-## Covid-19 mRNA Vaccine Information -- Information on how mRNA vaccines work, how they're developed, and Moderna vaccine efficacy and safety data
+## Covid-19 mRNA Vaccine Information
+*Information on how mRNA vaccines work, how they're developed, and Moderna vaccine efficacy and safety data*
 
 *Originally published in this [article](https://kornweissmedical.com/covid-19-mrna-vaccine-information/) -- November, 29, 2020*
 

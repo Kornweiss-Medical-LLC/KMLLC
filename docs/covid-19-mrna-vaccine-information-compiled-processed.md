@@ -1,10 +1,76 @@
-## Compilation of all Covid-19 mRNA Vaccine Related Content
+# Compilation of all Covid-19 mRNA Vaccine Related Content
 
 I’ll be updating this page each time I publish new content related to
 the vaccine so that you can find all mRNA vaccine related information in
 one place.
 
-Last updated: 2021-01-06 14:15:02
+Last updated: January 11, 2021
+
+## Covid-19 mRNA Vaccine Efficacy
+
+*Originally published in [Newsletter Vol.2
+№1](https://kornweissmedical.com/newsletter-edition-no-4/) – January 10,
+2021*
+
+I’ve been asked several times recently what it means that the vaccine is
+“95% effective.”
+
+It *does not* mean that 95 times out of 100 exposures an individual is
+protected from contracting Covid. It *does not* mean that symptoms are
+reduced by 95% in vaccinated patients who contract Covid – though there
+likely is a symptom-mitigating effect in vaccinees who contract Covid.
+
+It *does* mean that the vaccine is effective in preventing symptomatic
+infection in members of a group of recipients compared to individuals in
+a placebo group of non-recipients. But, to get a more concrete idea of
+exactly how effective this vaccine is, it’s worth looking at the actual
+numbers from the clinical trial and the trial definition of “vaccine
+efficacy.”
+
+**From the most recent publication in NEJM regarding the Pfizer BioNTech
+Covid-mRNA Vaccine:**
+
+Source: <https://www.nejm.org/doi/full/10.1056/NEJMoa2034577>
+
+“Among 36,523 participants who had no evidence of existing or prior
+SARS-CoV-2 infection, 8 cases of Covid-19 with onset at least 7 days
+after the second dose were observed among vaccine recipients and 162
+among placebo recipients. This case split corresponds to 95.0% vaccine
+efficacy (95% confidence interval \[CI\], 90.3 to 97.6; Table 2).”
+
+**How was vaccine efficacy calculated?**
+
+“Vaccine efficacy was estimated by 100×(1−IRR), where IRR is the
+calculated ratio of confirmed cases of Covid-19 illness per 1000
+person-years of follow-up in the active vaccine group to the
+corresponding illness rate in the placebo group.”
+
+**Let’s look at the actual numbers.**
+
+[![Figure 3. Efficacy of BNT162b2 against Covid-19 after the First
+Dose.](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2020/nejm_2020.383.issue-27/nejmoa2034577/20210108/images/img_xlarge/nejmoa2034577_f3.jpeg)](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577)
+
+In the vaccine group, only 9 out of 21,669 participants tested positive
+for Covid-19 during a roughly 100 day surveillance period after the 2nd
+vaccine dose.
+
+So, in this time period, the rate of infection in vaccine recipients was
+9 out of 21,669 – 0.04%. In other words, 99.96% of vaccine recipients
+did not have symptomatic Covid-19 during the surveillance period.
+Compare this to 172 out of 21,686 in the placebo group – 0.8%. This is
+still a low infection rate, but it is nearly 20 times the infection rate
+in the vaccine group.
+
+It is important to realize that many people were neither exposed nor
+tested during the surveillance period. Exposure was dependent on
+participant behavior, and testing was dependent on reporting of
+symptoms. There is no reason to believe these factors were unbalanced
+between the vaccine and placebo groups, but nonetheless, some caution
+must be used in interpretation of efficacy for these reasons.
+
+However, whichever way you slice this, the bottom line is that the
+vaccine does in fact appear to be remarkably effective at preventing
+Covid-19 infections.
 
 ## Allergic Reactions to the Covid-19 mRNA Vaccine
 
@@ -132,7 +198,8 @@ light within the next 4-8 weeks. Let us hope that none do.
 
 ------------------------------------------------------------------------
 
-## Covid-19 mRNA Vaccine Information – Information on how mRNA vaccines work, how they’re developed, and Moderna vaccine efficacy and safety data
+## Covid-19 mRNA Vaccine Information
+*Information on how mRNA vaccines work, how they’re developed, and Moderna vaccine efficacy and safety data*
 
 *Originally published in this
 [article](https://kornweissmedical.com/covid-19-mrna-vaccine-information/)
@@ -196,7 +263,7 @@ proteins), that recognize the viral protein. When an individual with
 antibodies encounters the actual virus, the antibodies bind to the virus
 and tag it for destruction by immune cells. This is the primary means by
 which the Moderna mRNA vaccine will generate immunity – by generating
-antibodies\[mfn\]\[1\]:, K. S. Corbett *et al.*, “Evaluation of the
+antibodies\[mfn\]\[1\]:K. S. Corbett *et al.*, “Evaluation of the
 mRNA-1273 Vaccine against SARS-CoV-2 in Nonhuman Primates,” *N. Engl. J.
 Med.*, vol. 383, no. 16, pp. 1544–1555, Oct. 2020, doi:
 [10.1056/NEJMoa2024671](https://doi.org/10.1056/NEJMoa2024671)\[/mfn\].
@@ -227,7 +294,7 @@ October 22, 2020. More than 7,000 of the participants are over age 65;
 (e.g. diabetes, obesity, cardiac disease); 11,000 participants are from
 “communities of color,” with 6,000 who “identify as Hispanic or
 LatinX,”; and over 3,000 who “identify as Black or African
-American”\[mfn\]\[2\]:, “Moderna’s COVID-19 Vaccine Candidate Meets its
+American”\[mfn\]\[2\]:“Moderna’s COVID-19 Vaccine Candidate Meets its
 Primary Efficacy Endpoint in the First Interim Analysis of the Phase 3
 COVE Study \| Moderna, Inc.” Accessed: Jan. 06, 2021. \[Online\].
 Available:
@@ -248,7 +315,7 @@ vaccination.
 
 According to researchers, this risk has been mitigated by ensuring the
 antibodies produced by vaccine recipients are “potently neutralizing,”
-and that Th2-biased CD4 T-cell responses are avoided\[mfn\]\[1\]:, K. S.
+and that Th2-biased CD4 T-cell responses are avoided\[mfn\]\[1\]:K. S.
 Corbett *et al.*, “Evaluation of the mRNA-1273 Vaccine against
 SARS-CoV-2 in Nonhuman Primates,” *N. Engl. J. Med.*, vol. 383, no. 16,
 pp. 1544–1555, Oct. 2020, doi:
@@ -297,7 +364,7 @@ least one “mild,” or “moderate” symptom from vaccination. The reported
 symptoms will be familiar to almost everyone: headache, myalgia
 (i.e. body or muscle aches), arthralgia (i.e. joint aches), injection
 site pain, and fatigue. Very few recipients had fever or
-chills\[mfn\]\[3\]:, E. J. Anderson *et al.*, “Safety and Immunogenicity
+chills\[mfn\]\[3\]:E. J. Anderson *et al.*, “Safety and Immunogenicity
 of SARS-CoV-2 mRNA-1273 Vaccine in Older Adults,” *N. Engl. J. Med.*,
 vol. 0, no. 0, p. null, Sep. 2020, doi:
 [10.1056/NEJMoa2028436](https://doi.org/10.1056/NEJMoa2028436)\[/mfn\].
@@ -324,7 +391,7 @@ highly technical) reasons that you can read about
 
 Based on animal and human data, a vaccine recipient will likely develop
 immunity by **6 or 7 weeks after the first of two
-injections**\[mfn\]\[1\]:, K. S. Corbett *et al.*, “Evaluation of the
+injections**\[mfn\]\[1\]:K. S. Corbett *et al.*, “Evaluation of the
 mRNA-1273 Vaccine against SARS-CoV-2 in Nonhuman Primates,” *N. Engl. J.
 Med.*, vol. 383, no. 16, pp. 1544–1555, Oct. 2020, doi:
 [10.1056/NEJMoa2024671](https://doi.org/10.1056/NEJMoa2024671)\[/mfn\].
