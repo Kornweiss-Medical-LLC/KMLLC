@@ -1,7 +1,7 @@
-# A Case of Amenorrhea in a Female Crossfit Athlete Successfully Treated with Non-Pharmacologic Interventions
+# A Case of Amenorrhea in a Female Recreational Athlete Successfully Treated with Non-Pharmacologic Interventions
 
-What follows is a real clinical case of a young female athlete who lost
-her menstrual period after several years of intense exercise and caloric
+What follows is a real clinical case of a female athlete who lost her
+menstrual period after several years of intense exercise and caloric
 restriction, and who then regained normal menses after enacting
 corrective measures. I have taken care to remove details which might
 make it possible to identify the patient. However, the patient did grant
@@ -9,6 +9,9 @@ me permission to share this case with any detail that I thought might
 provide benefit to the reader, including her actual lab values and
 clinical history. Her hope, and mine, is that the presentation of this
 case might help add context for anyone going through a similar process.
+Please understand that this article is not medical advice and that this
+patient’s case may not be applicable to your own. See the bottom of the
+page for a full disclaimer.
 
 ## Background
 
@@ -224,7 +227,7 @@ hypothalamus senses a need to increase metabolic rate, it can stimulate
 the release of TSH (thyroid stimulating hormone) from the pituitary
 gland, which then causes the [thyroid
 gland](https://en.wikipedia.org/wiki/Thyroid) to release thyroid
-hormone. Thyroid hormone then directly effects cells in various tissues
+hormone. Thyroid hormone then directly affects cells in various tissues
 to increase metabolic rate.
 
 In the case of reproduction, under favorable conditions, the
@@ -241,7 +244,7 @@ pregnancy. If this process does not occur, the uterine lining is shed,
 resulting in menstrual bleeding.
 
 [![hypothalamic-pituitary-gonadal
-axis](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)](https://commons.wikimedia.org/wiki/File:Figure_28_03_01.jpg)
+axis](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/9/98/Figure_28_03_01.jpg)
 
 Here’s a [video](https://www.youtube.com/watch?v=2_owp8kNMus) explaining
 the entire female reproductive system in detail in roughly 15 minutes;
@@ -306,7 +309,7 @@ into the following categories:
     tissues like the thyroid, adrenal glands, or pancreas - such as
     hypothyroidism or congenital adrenal hyperplasia.
 4.  **Gonadal** - caused by a problem with the ovaries such as
-    polycystic ovary syndrome or hyperandrogenism\[mfn\]\[1\]: A.
+    polycystic ovary syndrome or hyperandrogenism\[mfn\]\[1\]:A.
     Javed, R. Kashyap, and A. N. Lteif, “Hyperandrogenism in female
     athletes with functional hypothalamic amenorrhea: A distinct
     phenotype,” *Int J Womens Health*, vol. 7, pp. 103–111, Jan. 2015,
@@ -322,7 +325,7 @@ different ways.
 With all of this said, it is overwhelmingly likely in a patient who has
 previously had regular menses for years, that all of the anatomy is
 normal and that there are no inborn abnormalities that would prevent
-normal menstruation. This means that one of two thing has happened:
+normal menstruation. This means that one of two things has happened:
 
 1.  The previously normal anatomy has become abnormal (e.g. through
     injury, infection, tumor growth, or infarct - tissue death).
@@ -375,8 +378,8 @@ no endometrial abnormality on pelvic ultrasound, so Asherman’s Syndrome
 was unlikely. A normal 17-OH progesterone level made non-classical CAH
 unlikely as well.
 
-![FHA Differential Diagnosis Hormone
-Chart](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)
+[![FHA Differential Diagnosis Hormone
+Chart](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/fha_hormone_table.png)
 
 Source: [Gordon et
 al. 2017](https://academic.oup.com/view-large/81684225)
@@ -400,11 +403,11 @@ amenorrhea (FHA). Let’s break this term down:
 If FHA is a functional rather than a structural condition, the next
 logical question is, what causes it?
 
-Well, recall that certain conditions are required to stimulate GnRH
-release from the hypothalamus which has the downstream effects of
-generating a menstrual period. Chief among these conditions is adequate
-nutrition. The hypothalamus will shut down reproductive function if it
-senses insufficient energy intake. This makes sense from an evolutionary
+Recall that certain conditions are required to stimulate GnRH release
+from the hypothalamus which has the downstream effects of generating a
+menstrual period. Chief among these conditions is adequate nutrition.
+The hypothalamus will shut down reproductive function if it senses
+insufficient energy intake. This makes sense from an evolutionary
 perspective. A woman would be unable to support a pregnancy and a
 newborn during a period of starvation. Similarly, a relative lack of
 stress is required for similar reasons. If a woman’s life or health was
@@ -471,8 +474,8 @@ intake was to be made up of either fat or carbohydrate if desired.
 
 Specific food suggestions were based on the patient’s personal tastes
 and micronutrient requirements. These recommendations were: meat, fish,
-eggs, avocado, potato, rice, beets, carrots, dark green leaves, avocado,
-berries, nuts, olive oil, and a prenatal vitamin.
+eggs, potato, rice, beets, carrots, dark green leaves, avocado, berries,
+nuts, olive oil, and a prenatal vitamin.
 
 ### Exercise
 
@@ -485,7 +488,7 @@ trajectory of the recovery. This prescription was based on the patient’s
 desire to regain menses at the expense of her fitness if need be. It may
 be possible, though not necessarily advisable, for some individuals to
 regain menses without a two week rest period, and while still
-maintaining some moderate or high-intensity exercise\[mfn\]\[2\]: M.
+maintaining some moderate or high-intensity exercise\[mfn\]\[2\]:M.
 Warren and N. Perlroth, “The effects of intense exercise on the female
 reproductive system,” *J. Endocrinol.*, vol. 170, no. 1, pp. 3–11, Jul.
 2001, doi:
@@ -494,13 +497,13 @@ This aspect of treatment is controversial and variable on an individual
 basis. There is some evidence that intense exercise alone is not enough
 to induce amenorrhea, and that the more important factors are adequate
 energy intake and management of other physiologic and psychological
-stressors\[mfn\]\[3\]: M. E. Sophie Gibson, N. Fleming, C. Zuijdwijk,
-and T. Dumont, “Where Have the Periods Gone? The Evaluation and
-Management of Functional Hypothalamic Amenorrhea,” *J Clin Res Pediatr
-Endocrinol*, vol. 12, no. Suppl 1, pp. 18–27, Jan. 2020, doi:
-[10.4274/jcrpe.galenos.2019.2019.S0178](https://doi.org/10.4274/jcrpe.galenos.2019.2019.S0178)\[/mfn\].,
-\[mfn\]\[4\]: A. D. Genazzani, F. Ricchieri, C. Lanzoni, C. Strucchi,
-and V. M. Jasonni, “Diagnostic and therapeutic approach to hypothalamic
+stressors\[mfn\]\[3\]:M. E. Sophie Gibson, N. Fleming, C. Zuijdwijk, and
+T. Dumont, “Where Have the Periods Gone? The Evaluation and Management
+of Functional Hypothalamic Amenorrhea,” *J Clin Res Pediatr Endocrinol*,
+vol. 12, no. Suppl 1, pp. 18–27, Jan. 2020, doi:
+[10.4274/jcrpe.galenos.2019.2019.S0178](https://doi.org/10.4274/jcrpe.galenos.2019.2019.S0178);
+\[4\]:A. D. Genazzani, F. Ricchieri, C. Lanzoni, C. Strucchi, and V. M.
+Jasonni, “Diagnostic and therapeutic approach to hypothalamic
 amenorrhea,” *Ann. N. Y. Acad. Sci.*, vol. 1092, pp. 103–113, 2006, doi:
 [10.1196/annals.1365.009](https://doi.org/10.1196/annals.1365.009)\[/mfn\].
 
@@ -633,8 +636,8 @@ increasing significantly during the period of weight gain. The gold line
 represents LH levels, the red line estradiol. Menses resumed
 approximately eight weeks after these increases (the pink shaded area).
 
-![client hormone
-chart](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FMlMiUCimvQ.jpg?alt=media&token=6fca690e-d98b-4675-86dd-6a76b036cddf)
+[![client hormone
+chart](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fkmllc%2FMlMiUCimvQ.jpg?alt=media&token=6fca690e-d98b-4675-86dd-6a76b036cddf)](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/content/master/images/client_hormone_chart.jpg)
 *Units: weight in kg, estradiol in pg/ml, LH in mIU/mL, progesterone in
 ng/ml*
 
@@ -647,13 +650,13 @@ forties into the nineties. This is not necessarily true. Individuals may
 have different ranges and fluctuations for each of the hormone levels.
 For instance, estradiol levels can range from fifteen up into the
 several hundreds depending on the individual and the segment of the
-menstrual cycle in which the level is measured. So, to me, the most
-notable finding on this chart occurs in the green shaded area. Prior to
-this time period, the patient’s LH and estradiol levels were very low
-for a period of years regardless of when measurements were taken. Then,
-within several weeks of gaining weight and undertaking the other
-interventions discussed in this case report, LH went up nearly
-eight-fold, and estradiol doubled.
+menstrual cycle in which the level is measured. To me, the most notable
+finding on this chart occurs in the green shaded area. Prior to this
+time period, the patient’s LH and estradiol levels were very low for a
+period of years regardless of when measurements were taken. Then, within
+several weeks of gaining weight and undertaking the other interventions
+discussed in this case report, LH went up nearly eight-fold, and
+estradiol doubled.
 
 Applying this to yourself, or to a future patient might work by plotting
 out several random levels of LH and estradiol on a graph during a period
@@ -663,11 +666,10 @@ system. After that, levels should fluctuate daily and weekly as
 pulsatile release of LH is restored and hormones resume their usual
 monthly pattern. You can see the typical pattern of reproductive
 hormones throughout a menstrual cycle in this chart below (the chart
-represents one cycle, roughly 28
-days)[\*](https://commons.wikimedia.org/wiki/File:MenstrualCycle2_en.svg).
+represents one cycle, roughly 28 days).
 
 [![hormone levels - one menstrual
-cycle](https://upload.wikimedia.org/wikipedia/commons/2/2a/MenstrualCycle2_en.svg)](https://commons.wikimedia.org/wiki/File:MenstrualCycle2_en.svg)
+cycle](https://upload.wikimedia.org/wikipedia/commons/2/2a/MenstrualCycle2_en.svg)](https://upload.wikimedia.org/wikipedia/commons/2/2a/MenstrualCycle2_en.svg)
 
 My patient’s recovery of menstrual periods took approximately six months
 from day one of intervention. By the time I encountered this patient,
@@ -682,14 +684,14 @@ direction or not, and to provide reassurance.
 Six months is a long time to wait, and it can be difficult to tell at
 any point during the process if and when menses will resume. In some
 cases, menses might resume more quickly, and in others it might take
-much longer\[mfn\]\[5\]: “No Period. Now What? A book about regaining
+much longer\[mfn\]\[5\]:“No Period. Now What? A book about regaining
 missing periods.” Accessed: Jan. 07, 2021. \[Online\]. Available:
 <https://www.noperiodnowwhat.com/>\[/mfn\]. Even though some women gain
 weight, there can still be psychological stressors that prevent normal
 menstruation from resuming. Because of the complexity of treating FHA,
 professional societies recommend a multidisciplinary approach –
 physician, nutritionist, trainer, and psychologist - especially for
-competitive athletes\[mfn\]\[6\]: C. M. Gordon *et al.*, “Functional
+competitive athletes\[mfn\]\[6\]:C. M. Gordon *et al.*, “Functional
 hypothalamic amenorrhea: An endocrine society clinical practice
 guideline,” *J. Clin. Endocrinol. Metab.*, vol. 102, no. 5, pp.
 1413–1439, May 2017, doi:
@@ -704,6 +706,11 @@ a few questions that I’d like to answer in future articles:
 3.  Are medications useful and/or safe in the treatment of FHA?
 4.  What other problems occur as a result of energy deficiency,
     especially in athletes?
+
+If you read this far, thank you, and please feel free to send feedback
+or questions you’d like answered on this and similar topics.
+
+-Steve
 
 ### References
 
