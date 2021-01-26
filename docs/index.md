@@ -8,6 +8,8 @@ This site is for the purpose of drafting and sharing new content as it is create
 - [Resources](covid_19_resources.md)
 
 ## Articles / Posts
+- [January 26, 2021](diplopia&hesscharting.md)
+  - Diplopia and Hess Charting
 - [January 07, 2021](./blogpost_fha_case_study-github.md)
   - A case study - functional hypothalamic amenorrhea
 - [January 07, 2021](./covid-19-mrna-vaccine-information-compiled-processed.md)
