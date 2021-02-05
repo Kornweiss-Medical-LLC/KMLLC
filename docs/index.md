@@ -1,12 +1,6 @@
 <head>
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
-# Disclaimer
-This site is for the purpose of drafting and sharing new content as it is created. It is intended primarily for internal use, but is publicly accessible for ease of access. Use of any information contained here-in is at the user's own risk. This information is not medical advice. No doctor-patient relationship is formed by the mere fact of accessing this page or reading its contents.
-
-## Covid-19 Specific Content
-- [Resources](covid_19_resources.md)
-
 ## Articles / Posts
 - [February 05, 2021](coping_skills.md)
   - Coping Skills
