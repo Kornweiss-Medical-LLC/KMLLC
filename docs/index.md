@@ -2,6 +2,8 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
 ## Articles / Posts
+- [February 10, 2021](vaers_data_covid_vaccine_itp_021021.md)
+  - VAERS Data related to covid mrna vaccines and ITP
 - [February 05, 2021](coping_skills.md)
   - Coping Skills
 - [January 26, 2021](diplopia&hesscharting.md)
