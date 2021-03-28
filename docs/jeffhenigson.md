@@ -1,10 +1,15 @@
 # Read Your Medical Records or Suffer Like Jeff Henigson
 
 > “And yet despite this being extraordinary, you nevertheless believe that this is what you have managed to survive?”
+
 > My head jerked back. “Excuse me?”
+
 > “I am asking you.”
+
 > I was close to hanging up. “What exactly are you asking me?” I said.
+
 > “I am sorry. I am perhaps not clear. English is not my first language.” He paused. “May I share a story with you?”
+
 > I sighed and rolled my eyes. “Tell me your story.”
 
 *Source*: [My life was upended for 35 years by a cancer diagnosis. A doctor just told me I was misdiagnosed.](https://www.washingtonpost.com/lifestyle/2021/03/26/my-life-was-upended-35-years-by-cancer-diagnosis-doctor-just-told-me-i-was-misdiagnosed/)
