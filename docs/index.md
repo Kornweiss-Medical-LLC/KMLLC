@@ -2,6 +2,8 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
 ## Articles / Posts
+- [March 26, 2021]
+	- [Draft - Jeff Henigson Article](./Read%20Your%20Own%20Medical%20Records%20or%20Suffer%20the%20Fate%20of%20Jeff%20Henigson%202.md)
 - [February 10, 2021](vaers_data_covid_vaccine_itp_021021.md)
   - VAERS Data related to covid mrna vaccines and ITP
 - [February 05, 2021](coping_skills.md)
