@@ -57,6 +57,7 @@ Membership in my practice does not include the cost of third-party services like
 I order labs as I see fit, which usually includes twice yearly individualized lab analysis which might include a CBC, CMP, fasting insulin level, CRP, TSH, urinalysis, homocysteine, Lipid panel, direct LDL, Apo B, and any additional labs that pertain to the health of an individual client. My clients can request any lab they’re interested in and I will price it for them and advise on whether or not I think it will be helpful. Ultimately, it is their choice whether or not we order the test. When traveling, patients can request labs and have them done at any Labcorp or Quest in the country.
 
 **Prices**
+
 Here are just a few examples of lab prices in my practice:
 
 | Analyte                     | Price  |
