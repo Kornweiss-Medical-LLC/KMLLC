@@ -3,6 +3,7 @@
 </head>
 ## Articles / Posts
 - [March 29, 2021](./orderlabwork.md)
+  - Three Ways to Get the Blood Work You Want
 - [March 29, 2021](./losing_thirty_pounds.md)
   - Losing 30 pounds
 - [March 26, 2021](./jeffhenigson.md)
