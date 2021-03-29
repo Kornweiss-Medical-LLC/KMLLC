@@ -2,6 +2,8 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
 ## Articles / Posts
+- [March 29, 2021](./losing_thirty_pounds.md)
+  - Losing 30 pounds
 - [March 26, 2021](./jeffhenigson.md)
 	- Jeff Henigson Brain Tumor Misdiagnosis
 - [February 10, 2021](vaers_data_covid_vaccine_itp_021021.md)
