@@ -2,6 +2,7 @@
 <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
 </head>
 ## Articles / Posts
+- [March 29, 2021](./orderlabwork.md)
 - [March 29, 2021](./losing_thirty_pounds.md)
   - Losing 30 pounds
 - [March 26, 2021](./jeffhenigson.md)
