@@ -1,3 +1,4 @@
+# Three Ways to Get the Blood Work You Want
 Sadly, there are still many physicians who won't order lab tests at your request. There are a few reasons for this, some of which I’ve previously discussed in a Facebook [post](https://www.facebook.com/stevenkornweissmd/posts/188798642704956). Fortunately, you're no longer dependent upon such physicians. Direct-to-consumer labs are available at affordable prices, and there is an increasing array of options. In this article I explain two of my favorites. At the end, I compare my lab prices with these direct-to-consumer options and explain how labs work within my practice.
 
 ## Ownyourlabs.com
