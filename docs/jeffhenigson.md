@@ -23,11 +23,12 @@ I sighed and rolled my eyes. “Tell me your story.”
 
 ***
 
-I highly recommend reading the [article](https://www.washingtonpost.com/lifestyle/2021/03/26/my-life-was-upended-35-years-by-cancer-diagnosis-doctor-just-told-me-i-was-misdiagnosed/) in full. It’s a powerful story that gives you a tiny glimpse of what it’s like to live with a deadly diagnosis. It’s an expose of the dangers of a medical system that is built upon paternalistic roots. It’s a cautionary tale that will teach you the necessity of reading your own medical records, questioning everything, and assuming nothing.
+I highly recommend reading the [article](https://www.washingtonpost.com/lifestyle/2021/03/26/my-life-was-upended-35-years-by-cancer-diagnosis-doctor-just-told-me-i-was-misdiagnosed/) in full.
+
+When you’re done reading the article, you’re going to feel compelled to get your hands on your own medical records.
 
 ### How to Get Your Own Records
-
 If you go to a doctor, lab, hospital, or imaging center, you can and should request your records in full including all results, physician and nursing notes, and ***imaging on disc***. You may have to physically find the health information management department, medical records department, or radiology library. Many hospitals will now be providing easy digital access to physician and nursing notes due to a new government mandated initiative called “[open notes](https://www.opennotes.org/onc-federal-rule/).” This should make it easier for you to review your physician’s notes without having to track down your records via faxes and snail mail.
 
 ### Third-Party Medical Record Retrieval and Digitization Service
-I’m testing a new service from a company called [PicnicHealth](https://picnichealth.com/). Their [web service](https://app.picnichealth.com/onboard/account/get-started) will collect, digitize, and tabulate all of your medical records, labs, and actual imaging. The initial fee is $300. You sign a records release consent form and submit the names of the hospitals, labs, and doctors that you’ve visited in the past. In most cases, a partial name and location is all that’s needed for PicnicHealth’s team to track down your records. There is a $39/month fee that is used to keep your records up to date. Apparently this can be cancelled at any time. They advertise record retrieval and digitization within 4-6 weeks of submission. I am waiting for my records at this time. I’ll be sure to provide an update of my experience with this service in the future.
+I’m testing a new service from a company called [PicnicHealth](https://picnichealth.com/). Their [web service](https://app.picnichealth.com/onboard/account/get-started) will collect, digitize, and tabulate all of your medical records, labs, and imaging. After you sign a release form, pay $300, and submit the names of the hospitals, labs, and doctors that you’ve visited in the past, PicnicHealth’s team will track down and digitize your records within 4-6 weeks. For $39/month, they’ll keep your records up to date.
