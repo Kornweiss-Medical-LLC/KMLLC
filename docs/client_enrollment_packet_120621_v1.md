@@ -3,7 +3,7 @@
 
 This Client Enrollment Agreement (Agreement) is between Kornweiss Medical, a South Carolina Limited Liability Company (Practice, Us, Our, or We), and client, (Client, Patient, You, or Your) - collectively (the Parties). This Agreement includes Appendices A-C, Our Privacy Policy, and Our Authorization to Release Confidential Information all of which are attached.
 
-+++
+
 
 # Background
 The Practice is a medical practice, which delivers medical services through its physician, Steven Kornweiss, MD (Physician). In exchange for certain fees, the Practice agrees to provide You with the Services described in this Agreement on the terms and conditions contained in this Agreement. 
@@ -16,7 +16,7 @@ In this Agreement, “Client” means the person for whom the Physician shall pr
 ## 1.2. Services
 In this Agreement, “Services” means the collection of services offered to You by Us in this Agreement. These Services are listed in Appendix A.
 
-+++
+
 
 # 2. Agreement
 ## 2.1. Term
@@ -101,7 +101,7 @@ This Agreement shall be governed and construed under the laws of the State of So
 ## 2.20. Notice
 All written notices under this Agreement shall be delivered by email. 
 
-+++
+
 
 # Signatures
 *If not provided on this form, a legally binding signature is also indicated by checking the agreement box on the web-based client enrollment form.*
@@ -114,7 +114,7 @@ ___
 ## Physician Signature
 ___
 
-+++
+
 
 # Appendix A - Services
 *Kornweiss Medical LLC*
@@ -142,7 +142,7 @@ Client shall have direct access to Physician by email Monday-Friday from 9am-5pm
 ***Client Signature***
 ___
 
-+++
+
 
 # Appendix B - Client Information
 *Kornweiss Medical LLC*
@@ -169,7 +169,7 @@ ___
 ***Client Signature***
 ___
 
-+++
+
 
 # Appendix C  - Term & Fee Schedule
 *Kornweiss Medical LLC*
@@ -193,7 +193,7 @@ ___
 ___
 
 
-+++
+
 
 ## Sample Fee Schedule
 - Agreement signed: 1/1/21
@@ -209,7 +209,7 @@ ___
 |||**Total = $4000**|
 
 
-+++
+
 
 # Notice of Privacy Practices 
 *Kornweiss Medical LLC*
@@ -299,7 +299,7 @@ Greenville, SC 29607
 ***Client Signature***
 ___
 
-+++
+
 
 ### Authorization for Release of Confidential Information
 *Kornweiss Medical LLC*
