@@ -1,0 +1,30 @@
+**I'm back talking about blood pressure today and how even a “normal” blood pressure might not be low enough to maximize healthspan and lifespan.**
+
+## 3 Sources
+There are at least three interesting sources of evidence that suggest having blood pressures below what's considered normal is likely beneficial in delaying the onset of cardiovascular diseases including but not limited to MI and stroke.
+
+1. Actuarial Data
+2. Data from Centenarians
+3. A study of cumulative hypertension exposure
+
+Today I'll share the actuarial data.
+___
+## Actuarial Data
+A really fascinating study by the Society of Actuaries published in 1979 found that blood pressures in teenagers are usually 117/70 on average in men and 112/69 on average in women. For every decade of life, average blood pressure for life insurance applicants climbed up by 3-5 mm Hg systolic and 1-2 mm Hg systolic.
+
+Excess all-cause mortality for someone with average blood pressures in the 130s-140s/80s when compared to someone who is 98-127/68-82 is roughly an additional 20-25% risk of mortality during the period of the study.
+
+Mortality was lowest at the lowest BPs down to 90s/50s and climbed up to 180s/100s with the highest group having DOUBLE the risk of dying within the study period.
+
+These findings led the SOA to make the following statement:
+
+”*Hypertension is a condition having the following notable features:*
+1. *It is common*
+2. *It tends to progress*
+3. *Complications after the passage of time are often serious*
+4. *Mortality is increased exponentially as level of blood pressure rises*
+5. *Adequate treatment can lower blood pressure in a high percentage of cases with substantial reduction of morbidity and mortality.*
+
+*Hypertension is probably the major cardiovascular public health problem.*"
+
+- Study: https://bit.ly/3LU82G2
