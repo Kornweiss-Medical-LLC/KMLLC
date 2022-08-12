@@ -1,6 +1,10 @@
 <head>
-<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+<title>KMLLC</title>
+
+docs/images/kmllc-icon-black.png
+
 </head>
+
 ## Onboarding
 - [Client Enrollment Agreement](./client_enrollment_packet_120621_v1.md)
 - [Intake Interview Information](./intake_interview_information.md)
