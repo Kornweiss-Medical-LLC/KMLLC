@@ -1,7 +1,5 @@
-<head>
-<title>KMLLC</title>
-<img src=“docs/images/kmllc-icon-black.png”>
-</head>
+title: KMLLC
+logo: /docs/images/kmllc-icon-black.png
 
 ## Prospective Client Information
 - [Client Enrollment Agreement](./client_enrollment_packet_120621_v1.md)
