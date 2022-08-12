@@ -25,4 +25,4 @@ I usually order labs as “client bill,” which means that I will pay the Labco
 
 **Results**
 
-Your results will be accessible here: https://patient.labcorp.com/. Some tests may result within one or two days. Others may take several days or even longer than a week.
+Your results will be accessible via the [Labcorp Patient Portal](https://patient.labcorp.com/). Some tests may result within one or two days. Others may take several days or even longer than a week.
