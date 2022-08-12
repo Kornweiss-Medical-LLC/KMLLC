@@ -4,7 +4,11 @@
 
 ## Onboarding Information
 - [Intake Interview Information](./intake_interview_information.md)
+
+## Client Instructions
 - [Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
+- [Weight and Waist Circumference Instructions](./weight_waist_instructions.md)
+- [Labcorp Blood-draw Instructions](./labcorp.md)
 
 ## Medical Resources
 - [Laguna Medical Resources Research](./laguna_medical_resources_research.md)
