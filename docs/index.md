@@ -6,7 +6,7 @@
 - [Intake Interview Information](./intake_interview_information.md)
 - [Sample Health Report](./sample_health_report.pdf)
 
-## Primary Care Research
+## Resources
 - [Laguna Medical Resources Research](./laguna_medical_resources_research.md)
 
 ## Privacy Agreements
