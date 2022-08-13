@@ -1,3 +1,5 @@
+# Laguna Beach, CA Area Top Primary Care Options
+
 [Dr. Marta Long](https://www.martalongmd.com/) - Irvine, $400/mo
 - Graduated from Yale Medical School in 2003 and Yale Internal Medicine Residency in 2006. She worked for 6 years as an internal medicine physician in Virginia, then as Clinic Director for Sea Mar Community Health Centers in Seattle for 1 year, and then for Kaiser for another year. After this, she took a nearly 4 year sabbatical to care for family and to do volunteer work. Roughly 2 years ago she opened her private practice in Irvine.
 - Dr. Long's practice is a "mobile modern medicine" practice. She performs house calls. She also has an office and believes in private and attentive care. She's available 24/7 by phone and offers video consultations. She offers IV therapies, acupuncture, and in-house phlebotomy.
