@@ -3,7 +3,7 @@
 - [Sample Health Report](./sample_health_report.pdf)
 
 ## Onboarding Information
-- [Onboarding Purpose and Process](https://www.youtube.com/embed/PpSsxmy7ICE)
+- [Onboarding Purpose and Process](./onboarding.md)
 - [Intake Interview Information](./intake_interview_information.md)
 
 ## Client Instructions
