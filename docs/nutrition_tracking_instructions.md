@@ -27,7 +27,3 @@ Be sure to include condiments, sauces, dips, and added salt to your tracking.
 **Take Notes**
 
 The Cronometer app has a note feature that allows you to add notes to your daily nutrition journal. You can use this feature to add information about how certain foods make you feel.
-
-**Additional details and information**
-
-https://kornweissmedical.com/tracking-nutrition/
