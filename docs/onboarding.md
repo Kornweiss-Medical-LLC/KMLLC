@@ -2,8 +2,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PpSsxmy7ICE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\
-\
+<br>
+<br>
 
 **Checklist**
 - Sign Documents
@@ -31,7 +31,7 @@ This is a 90 minute Zoom Call which is used to assess your past and current heal
 
 I’ll ask you about past and current medical problems, surgeries, hospitalizations, doctor visits, allergies, immunizations, medications, supplements, nutrition, exercise, sleep, and stress management. I’ll assess your appetite for potential testing and interventions in order to determine the appropriate intensity of your individualized health plan.
 
-Please see additional information [here](./intake_interview_information)
+[Additional information](./intake_interview_information).
 
 **Initial Serologies (blood work)**
 
