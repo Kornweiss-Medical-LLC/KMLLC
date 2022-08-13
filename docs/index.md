@@ -16,3 +16,4 @@
 
 ## Privacy Agreements
 - [Typeform BAA](./typeform_baa_hipaa_kmllc.pdf)
+- [Google BAA](https://admin.google.com/terms/cloud_identity/3/8/en/hipaa_baa.html)
