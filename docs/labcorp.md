@@ -2,7 +2,7 @@
 
 **Schedule an Appointment**
 
-Choose a Labcorp Patient Service Center and schedule an appointment (https://www.labcorp.com/labs-and-appointments).
+[Choose a Labcorp Patient Service Center and schedule an appointment](https://www.labcorp.com/labs-and-appointments){:target=“_blank”}.
 
 *Note: Do not go as a walk-in, you will likely have a long wait.*
 
@@ -25,4 +25,4 @@ I usually order labs as “client bill,” which means that I will pay the Labco
 
 **Results**
 
-Your results will be accessible via the [Labcorp Patient Portal](https://patient.labcorp.com/). Some tests may result within one or two days. Others may take several days or even longer than a week.
+Your results will be accessible via the [Labcorp Patient Portal](https://patient.labcorp.com/){:target=“_blank”}. Some tests may result within one or two days. Others may take several days or even longer than a week.
