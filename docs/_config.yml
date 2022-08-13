@@ -4,4 +4,4 @@ logo: images/kmllc-icon-black.png
 google_analytics: G-YM2TDRZTCT
 
 plugins:
-	- jekyll-target-blank
+  - jekyll-target-blank
