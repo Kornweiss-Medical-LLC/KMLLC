@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Kornweiss Medical
 logo: images/kmllc-icon-black.png
 google_analytics: G-YM2TDRZTCT
+markdown: kramdown
 
 plugins:
   - jekyll-target-blank
