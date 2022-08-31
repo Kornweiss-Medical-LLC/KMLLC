@@ -5,17 +5,20 @@
 
 ---
 **Instructions**
+
 Please fill out this form for each first degree relative (all siblings, parents, and children) whether they are healthy or not.
 
 It's beneficial if you're also able to fill it out for second degree relatives (grandparents, aunts, uncles, cousins, nephews, nieces, half-siblings, and grandchildren).
+
 ___
+
 **Questions for Each Family Member**
-1. Your first and last initial
-2. Family member (e.g. mother, father, brother, sister, maternal grandmother (MGM), paternal grandfather (PGF), etc.)
-3. Is your family member living?
-4. If alive, how old if your family member. If deceased, at what age did they pass?
-5. If deceased, please indicate the cause of death, to the best of your knowledge, and in as much detail as possible.
-6. Please read each medical problem and indicate any that apply to your family member.
+- Your first and last initial
+- Family member (e.g. mother, father, brother, sister, maternal grandmother (MGM), paternal grandfather (PGF), etc.)
+- Is your family member living?
+- If alive, how old if your family member. If deceased, at what age did they pass?
+- If deceased, please indicate the cause of death, to the best of your knowledge, and in as much detail as possible.
+- Please read each medical problem and indicate any that apply to your family member.
 
 +++
 
@@ -60,11 +63,11 @@ ___
 
 +++
 
-7. Please indicate other problems you’re aware of whether or not they’re on the above list.
-8. For each condition listed in answer to the prior question, provide as much detail as possible about the diagnosis, the age of onset, circumstances, treatments, and outcomes.
-9. Where did the family member spend most of their life (Provide the most accurate geographical detail possible)?
-10. Did the family member smoke cigarettes?
-11. How many packs per day and for how many years (e.g. 1 pack per day for 20 years)?
-12. Did the family member drink alcohol?
-13. Indicate the amount of alcohol consumption (e.g. 1 glass of red wine nightly for 20 years).
-14. Provide any additional information you have about this family member's ethnicity, genetics, or any additional information about their life, health, and/or circumstances of aging and death that might be relevant to assessing their health - (e.g. occupation, diet, exposures, etc).
+- Please indicate other problems you’re aware of whether or not they’re on the above list.
+- For each condition listed in answer to the prior question, provide as much detail as possible about the diagnosis, the age of onset, circumstances, treatments, and outcomes.
+- Where did the family member spend most of their life (Provide the most accurate geographical detail possible)?
+- Did the family member smoke cigarettes?
+- How many packs per day and for how many years (e.g. 1 pack per day for 20 years)?
+- Did the family member drink alcohol?
+- Indicate the amount of alcohol consumption (e.g. 1 glass of red wine nightly for 20 years).
+- Provide any additional information you have about this family member's ethnicity, genetics, or any additional information about their life, health, and/or circumstances of aging and death that might be relevant to assessing their health - (e.g. occupation, diet, exposures, etc).
