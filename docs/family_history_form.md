@@ -26,9 +26,9 @@ updated: updated
 
 ---
 **Instructions**
-Answer these questions for each of your family members on paper, in a word processor, spreadsheet, or other method of your choosing.
+Please fill out this form for each first degree relative (all siblings, parents, and children) whether they are healthy or not.
 
-At a minimum, include all siblings, parents, and grandparents whether they are perfectly healthy or not.
+It's beneficial if you're also able to fill it out for second degree relatives (grandparents, aunts, uncles, cousins, nephews, nieces, half-siblings, and grandchildren).
 ___
 **Questions for Each Family Member**
 1. Your first and last initial
