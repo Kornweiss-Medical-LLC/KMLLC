@@ -5,7 +5,8 @@
 ## Onboarding Information
 - [Onboarding Purpose and Process](./onboarding.md)
 - [Intake Interview Information](./intake_interview_information.md)
-- [Family History Form](https://nl77ewb6aoz.typeform.com/to/etWGSFEZ)
+- [Family History Form - Electronic Version](https://nl77ewb6aoz.typeform.com/to/etWGSFEZ)
+- [Family History Form - Paper Version](./family_history_form.md)
 
 ## Client Instructions
 - [Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
