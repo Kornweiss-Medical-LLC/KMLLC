@@ -21,7 +21,6 @@ ___
 - If deceased, please indicate the cause of death, to the best of your knowledge, and in as much detail as possible.
 - Please read each medical problem and indicate any that apply to your family member.
 
-+++
 
 | Condition | Present (+)? | Age of Onset |
 |---|---:|---:|
@@ -62,7 +61,6 @@ ___
 | Inflammatory bowel disease<br> (e.g. Crohn's, Ulcerative Colitis) |  |  |
 | **Cancer** |  |  |
 
-+++
 
 - Please indicate other problems you’re aware of whether or not they’re on the above list.
 - For each condition listed in answer to the prior question, provide as much detail as possible about the diagnosis, the age of onset, circumstances, treatments, and outcomes.
