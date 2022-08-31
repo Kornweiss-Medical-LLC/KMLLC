@@ -17,6 +17,8 @@ ___
 5. If deceased, please indicate the cause of death, to the best of your knowledge, and in as much detail as possible.
 6. Please read each medical problem and indicate any that apply to your family member.
 
++++
+
 | Condition | Present (+)? | Age of Onset |
 |---|---:|---:|
 | **Cardiovascular and Cerebrovascular** |  |  |
@@ -56,7 +58,9 @@ ___
 | Inflammatory bowel disease<br> (e.g. Crohn's, Ulcerative Colitis) |  |  |
 | **Cancer** |  |  |
 
-7. Please indicate other problems you’re aware of whether or not they’re on the above list. 
++++
+
+7. Please indicate other problems you’re aware of whether or not they’re on the above list.
 8. For each condition listed in answer to the prior question, provide as much detail as possible about the diagnosis, the age of onset, circumstances, treatments, and outcomes.
 9. Where did the family member spend most of their life (Provide the most accurate geographical detail possible)?
 10. Did the family member smoke cigarettes?
