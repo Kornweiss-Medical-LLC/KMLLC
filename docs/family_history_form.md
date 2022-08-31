@@ -1,28 +1,7 @@
----
-doctype: Family History Form
-title: Family History Form
-company: Kornweiss Medical LLC
-me: Steven Kornweiss, MD
-myemail: steven@kornweissmedical.com
-myphone: 864-206-5225
-myfax: 587-200-3716
-client: client
-date: date
-updated: updated
-
----
-
-*[%doctype] for [%client]*\
-*Authored: [%date]*\
-*Updated: [%updated]*\
-*[%me]* | *[%company]* \
-*[%myemail]* | P *[%myphone]* | F *[%myfax]*
-
----
-
-# [%title]
-
-[Electronic Version](https://nl77ewb6aoz.typeform.com/to/etWGSFEZ)
+# Family History Form
+*Kornweiss Medical LLC*\
+*Steven Kornweiss, MD*\
+*[Electronic Version](https://nl77ewb6aoz.typeform.com/to/etWGSFEZ)*
 
 ---
 **Instructions**
