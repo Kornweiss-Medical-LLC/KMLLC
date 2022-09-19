@@ -12,6 +12,7 @@
 - [Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
 - [Weight and Waist Circumference Instructions](./weight_waist_instructions.md)
 - [Labcorp Blood-Draw Instructions](./labcorp.md)
+- [Blood Pressure Measurement Instructions](./bp_instructions.md)
 
 ## Third-Party Privacy Agreements
 - [Typeform BAA](./typeform_baa_hipaa_kmllc.pdf)
