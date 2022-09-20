@@ -1,5 +1,9 @@
 # Blood Pressure Measurement Instructions
 
+**Get a Good Device**
+- [WITHINGS BPM Connect](https://www.withings.com/us/en/bpm-connect)
+- [Omron Products](https://omronhealthcare.com/blood-pressure/?gclid=CjwKCAjwpqCZBhAbEiwAa7pXeaWhZZpT05poTC3pG42hhJJ-8aIIbP1U2WNGt1-SodQEM7YOXq06ahoChdQQAvD_BwE)
+
 **Empty Bladder**
 
 Empty your bladder and ensure at least 5 minutes of quiet rest before measurements.
