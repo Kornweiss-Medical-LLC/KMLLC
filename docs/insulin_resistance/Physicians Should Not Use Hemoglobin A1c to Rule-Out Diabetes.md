@@ -1,10 +1,26 @@
 # Physicians Should Not Use HbA1c Alone to Screen for Diabetes
 
+**Summary**
+
+In this article, I make the argument that the HbA1c test, despite its popularity, is a blunt and inadequate instrument for diagnosing diabetes. By the time an individual is diagnosed with diabetes based on an A1c greater than 6.5%, they are already at risk for complications like nephropathy and retinopathy.
+
+A serious approach to longevity requires early detection and prevention of disease, not identification of disease when it’s already reached an advanced state. To this end, I explore the utility of measuring fasting insulin levels to detect insulin resistance before an individual develops diabetes.
+
+I discuss the challenges in interpreting fasting insulin levels, but ultimately advocate for its use within a comprehensive approach to the assessment of metabolism, insulin resistance, and glucose tolerance.
+
+**Topics covered within the article:**
+
+- A brief description of the nature of type II diabetes and the history of its diagnostic criteria
+- An explanation of hemoglobin A1c, how it’s measured, what it represents, how its use is recommended by the guidelines, and its shortcomings
+- A discussion of insulin resistance as the precursor to type II diabetes
+- A brief history of the insulin assay, the utility of measuring fasting insulin levels, and how to interpret the results
+- An indication of a comprehensive strategy for recognizing and reversing insulin resistance
+
 **What is Type II Diabetes?**
 
-Type II diabetes is a disease of impaired glucose metabolism and is characterized by hyperglycemia. The most common cause of type II diabetes is the consumption of excess energy beyond what an individual is able to use or safely store. As such, it’s common for type II diabetes to be accompanied by obesity, fatty liver, dyslipidemia, and a host of other related biochemical abnormalities. These other derangements notwithstanding, over time, hyperglycemia itself is sufficient to damage essential organs like the heart, eyes, kidney, and brain, and is toxic to endothelium and peripheral nerves. Diabetes is associated with an increased risk for nearly every chronic disease; e.g. heart attack, stroke, dementia, and many cancers. Thus, any serious approach to preventing chronic disease must include a plan to identify the earliest indicators of diabetes.
+Type II diabetes is a disease of impaired glucose metabolism and is characterized by hyperglycemia. The most common cause of type II diabetes is the consumption of excess energy beyond what an individual is able to use or safely store. As such, it’s common for type II diabetes to be accompanied by obesity, fatty liver, dyslipidemia, and a host of other related biochemical abnormalities. Even absent other derangements, over time, hyperglycemia itself is sufficient to damage essential organs like the heart, eyes, kidney, and brain, and is toxic to endothelium and peripheral nerves. Diabetes is associated with an increased risk for nearly every chronic disease; e.g. heart attack, stroke, dementia, and many cancers. Thus, any serious approach to preventing chronic disease must include a plan to identify the earliest indicators of diabetes.
 
-**The First Diagnostic Criteria**
+**The First Diagnostic Criteria for Type II Diabetes**
 
 [The first diagnostic criteria](https://apps.who.int/iris/handle/10665/38442) for type II diabetes were offered by an expert committee who convened in Geneva in 1965. At the time, the diagnosis was based on oral glucose tolerance tests and fasting glucose levels. To be diagnosed with diabetes, a patient would need to have met one of the following criteria:
 
@@ -24,7 +40,7 @@ Even in 1965, the [expert committee](https://apps.who.int/iris/handle/10665/3844
 
 It’s clear that even in the 60s, experts were aware that diabetes was a major problem and that it should be diagnosed early before overt disease.
 
-Despite these prescient observations and recommendations, diagnostic criteria for diabetes have been anything but progressive. Only in 2021 did the United States Preventive Services Taskforce recommend screening all individuals at age 35 (the previous recommendations were age 45), despite that our own CDC [estimates](https://www.cdc.gov/diabetes/data/statistics-report/diagnosed-undiagnosed-diabetes.html) that 5% of US adults age 18-44 have diabetes and that 2% of these 5% are undiagnosed. Besides this failure to screen people at younger ages, the diagnostic criteria still depend on dichotomous thresholds for fasting glucose, OGTT results, and now, hemoglobin A1c.
+Despite these prescient observations and recommendations, diagnostic criteria for diabetes have been essentially unchanged for over 57 years. Only in 2021 did the United States Preventive Services Taskforce recommend screening all individuals at age 35 (the previous recommendation was age 45). This is in spite of the fact that the CDC [estimates](https://www.cdc.gov/diabetes/data/statistics-report/diagnosed-undiagnosed-diabetes.html) that 5% of US adults age 18-44 have diabetes and that almost half of them (2.1 million people) are undiagnosed. Besides this failure to screen people at younger ages, the diagnostic criteria still depend on similar dichotomous thresholds for fasting glucose, OGTT results, and now, hemoglobin A1c.
 
 **What is Hemoglobin A1c?**
 
@@ -33,9 +49,18 @@ Hemoglobin is the protein within red blood cells that carries oxygen. There are 
 ![[HPLC HbA1c -- Hinzmann et al. 2012 Int J Med Sci.](https://medsci.org/v09p0665.htm)](https://medsci.org/v09/p0665/ijmsv09p0665g05.jpg)
 
 
-**Why and In What Manner Does Hemoglobin A1c Correspond to Blood Glucose?**
+**What is the Relationship Between Hemoglobin A1c and Blood Glucose?**
 
-Red blood cell membranes allow glucose to freely enter the cytoplasm where it can bind to hemoglobin A1 to form what we call hemoglobin A1c. The percentage of total hemoglobin which is accounted for by hemoglobin A1c is accounted for by the average glucose exposure over the course of the lifetime of a red blood cell. The lifespan of a red blood cell from its birth in the bone marrow to degradation in the spleen is roughly [120 days](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581997/) such that at any given time, the mean age of a red blood cell is [38-60 days](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581997/). In theory, therefore, HbA1c represents average blood glucose levels over a three month period, with weighted effects correlating more closely with the last 30-60 days. For example, an A1c of 6.5% correlates with an estimated average glucose of 140 mg/dl for the three months leading up to the test.
+Red blood cell membranes allow glucose to freely enter the cytoplasm where it can bind to hemoglobin A1 to form what we call hemoglobin A1c. Higher levels of glucose in the blood will cause hemoglobin A1c levels to increase over the lifetime of a red blood cell. The lifespan of a red blood cell from its birth in the bone marrow to degradation in the spleen is roughly [120 days](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581997/) such that at any given time, the mean age of all red blood cells is [38-60 days](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581997/). In theory, therefore, HbA1c represents average blood glucose levels over a three to four month period. In reality, HbA1c reflects a weighted average blood glucose with more recent blood glucose levels affecting HbA1c more than more remote levels. [Fifty percent](https://pubmed.ncbi.nlm.nih.gov/8404444/) of the HbA1c is determined by average glucose levels from just the preceding month which is why one month of significant glucose lowering can have a significant effect on the A1c.
+
+Labs often report estimated average glucose (eAG) along with A1c. For example, an A1c of 6.5% [correlates](https://diabetesjournals.org/care/article/31/8/1473/28589/Translating-the-A1C-Assay-Into-Estimated-Average) with an eAG of 140 mg/dl.
+
+![Calculated average glucose by A1c % - [Nathan et al. 2008](https://diabetesjournals.org/care/article/31/8/1473/28589/Translating-the-A1C-Assay-Into-Estimated-Average)](https://ada.silverchair-cdn.com/ada/content_public/journal/care/31/8/10.2337_dc08-0545/4/m_zdc0080870710001.jpeg?Expires=1666969999&Signature=g0o2CFK99-li7v88iD6gpYpQwE1UqBCXdzD0Zfs3fKCEGC3iEZcBv-6lV4MOVyYB7G-rduSayP4MVIOAwrs~dl5yPAuyG1SUXP4p0I0VfhSs3gdJHos02LgitMnvFxRXw~ZuihjS-MkjVOyoTUlQp6bTCbOd7XZ3Hly096qy3AP6765kTcugxI5TU6AzaXETQwRSEe4BX6kEk9yQZEAf6I21LOvjTtPjXbFik8ql0vLdOJaPiJput3-P1TIaiPXvi~H3Io0ISys6UXI7e1MC7k6rge36A-4mUMRjqqPvhOVMyGhho~7UYzv634jNPS1Lh1UcPdnFgi~e7DQnQRtIwQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+
+A1c results can be affected by [hemoglobin variants](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912281/), [hemolysis](https://www.jstor.org/stable/24108176), anemia, medications, and other [physiologic variations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2581997/) and medical conditions. Despite these complexities, for most people, A1c [correlates](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2769865/) well with average glucose.
+
+Even when A1c is accurate, it cannot tell us what our glucose curve looks like, what our peaks or troughs look like, and how exactly we respond to different foods. It also doesn’t tell us how much carbohydrate or glucose we can dispose of before hyperglycemia occurs. While A1c tells us about average glucose, only glucose monitoring or glucose tolerance tests can give us more granular information.
 
 **How is the A1c Used?**
 
@@ -54,19 +79,11 @@ Here are the [2022 diagnostic criteria](https://doi.org/10.2337/dc22-S002) for t
 
 Of the above tests, the A1c has gained popularity for several reasons:
 
-1. **Convenience**
+1. **Convenience** - An A1c can be evaluated from a standard tube of blood. It’s a relatively inexpensive test. The results come back quickly.
 
-	An A1c can be evaluated from a standard tube of blood. It’s a relatively inexpensive test. The results come back quickly.
-\
-\
-2. **Ease of Interpretation**
+2. **Ease of Interpretation** - The guidelines for interpreting A1c are straightforward. An individual with an A1c under 6.5% does not have diabetes while someone with an A1c of 6.5% or above does have diabetes. While other factors could theoretically affect diagnosis, in practice, the approach is frequently this simple.
 
-	The guidelines for interpreting A1c are straightforward. An individual with an A1c under 6.5% does not have diabetes while someone with an A1c of 6.5% or above does have diabetes. While other factors could theoretically affect diagnosis, in practice, the approach is frequently this simple.
-\
-\
-3. **The Use of A1c Alone is Supported by Professional Guidelines**
-
-	To quote directly from the 2022 ADA guidelines, “Generally, FPG, 2-h PG during 75-g OGTT, and A1C are equally appropriate for diagnostic screening.”
+3. **The Use of A1c Alone is Supported by Professional Guidelines** - To quote directly from the 2022 ADA guidelines, “Generally, FPG, 2-h PG during 75-g OGTT, and A1C are equally appropriate for diagnostic screening.”
 
 
 **The 6.5% Threshold**
@@ -81,13 +98,11 @@ This means that one of the most common screening tests for diabetes is not predi
 
 **How widespread is the practice of screening with A1c alone?**
 
-Given the poor performance of the A1c which detects only 30% of cases of diabetes that would be detected using all three of the diagnostic tests (FPG, OGTT, and A1c), and given that the diagnostic threshold correlates with complications of the disease rather than with early disease or precursors, you would assume that most physicians would not use the A1c as their primary screening test. You would be wrong.
-
-According to a study conducted in 2019 by [Evron et al.](https://doi.org/10.2337/dc17-1726), out of nearly 10,000 patients in a major health insurance network in Michigan who were eligible to be screened for diabetes, only 11 (patients, not percent) were screened for diabetes with an OGTT over a 3 year time period. The rest were screened using either a glucose test (12%), an A1c (14%), or not at all.
+According to [Evron et al. 2019](https://doi.org/10.2337/dc17-1726), out of nearly 10,000 patients in a major health insurance network in Michigan who were eligible to be screened for diabetes, only 11 (patients, not percent) were screened for diabetes with an OGTT over a 3 year time period. The rest were screened using either a fasting plasma glucose (FPG) level (12%), an A1c (14%), or not at all (74%). Overall, this study demonstrated that screening was inadequate and that A1c and FPG were used while OGTT was hardly used at all.
 
 **The Pathophysiology that Precedes Diabetes**
 
-The [initial pathophysiology of type II diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995525/) is not hyperglycemia, it’s hyperinsulinemia. Insulin is the hormone that is released by the pancreas in response to energy consumption. In particular, when carbohydrates are consumed, the pancreas responds by releasing insulin. Insulin has a multitude of effects on different organs and cell-types, but its primary effects include:
+The [initial pathophysiology of type II diabetes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2995525/) is not hyperglycemia; it’s hyperinsulinemia. Insulin is the hormone that is released by the pancreas in response to energy consumption. In particular, when carbohydrates are consumed, the pancreas responds by releasing insulin. Insulin has a multitude of effects on different organs and cell-types, but its primary effects include:
 
 - signaling the liver to stop gluconeogenesis and glycogenolysis so that the liver does not release any additional glucose into circulation
 - signaling the liver, muscle, and other cell types to open channels to allow glucose to pass from the bloodstream into the cells
@@ -105,7 +120,7 @@ It was not possible to measure insulin levels until a genius named Rosalyn Yalow
 
 Today, it’s easy and inexpensive to order insulin levels. So, why isn’t this test used more often?
 
-There are two reasons it’s not commonly used to screen for diabetes. First, it’s just not standard practice. Most doctors follow the guidelines, and the guidelines don’t recommend using insulin levels. 
+There are two reasons it’s not commonly used to screen for diabetes. First, guidelines do not recommend using insulin levels. 
 
 In fact, professional associations like the American Association for Clinical Chemistry and American Diabetes Association have explicitly [recommended](https://pubmed.ncbi.nlm.nih.gov/21617152/) against using fasting insulin levels to screen for insulin resistance as recently as 2011. I apologize for the upcoming long quote, but this is so egregious in my opinion that I’d like to include the whole thing:
 
@@ -117,23 +132,21 @@ In other words, these authors suggest we should look only for consequences of di
 
 The second reason that insulin levels aren’t frequently measured is that they’re difficult to interpret. There are no guidelines for interpreting fasting insulin levels. The threshold for the upper limit of normal on the Labcorp insulin test is 24.9 µIU/mL. But, this test is used for multiple purposes, not just for screening for insulin resistance. For example, this test might be ordered to look for an insulin secreting tumor called an insulinoma, or to determine whether a patient is injecting insulin or not. The lab’s normal range is calibrated for a variety of situations, not specifically for insulin resistance.
 
-What complicates interpretation even further is the pathogenesis of type II diabetes. Early in the course of the disorder, most patients will have elevated insulin levels but normal fasting plasma glucose. Once a patient develops type II diabetes, they may have elevated insulin levels *and* elevated glucose levels for years. In some individuals, after many years, the pancreas may become deficient in producing insulin due to [glucolipotoxicity](https://pubmed.ncbi.nlm.nih.gov/19715772/). Depending on the patient’s diet and body composition, it’s plausible that such a patient, having been previously undiagnosed, could have normal fasting plasma glucose and normal fasting insulin levels, the former due to a low-carbohydrate diet, for instance, and the latter due to pancreatic insufficiency. Admittedly, I believe this would be a rare scenario, but it could happen. In this scenario, the physician might misinterpret the lab results and believe the patient has no insulin resistance at all, when in fact they have long-standing type II diabetes.
-
 Finally, there are technical considerations for insulin assays. The test cannot detect insulin which is bound to insulin autoantibodies, which some patients may produce unbeknownst to themselves and their physician.
 
 Even if insulin is measured at the right time in the right person and there are no complicating factors, it can still be difficult to determine if a certain fasting insulin level is predictive of insulin resistance.
 
 **Fasting Insulin Levels Can be Useful**
 
-In 1993, [Laakso et al](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.989.3023&rep=rep1&type=pdf). published a paper titled “How good a marker is insulin level for insulin resistance?” In this paper, they tested 50 subjects with normal glucose tolerance, 28 with impaired glucose tolerance, and 54 with non-insulin dependent diabetes (aka type II diabetes). Within their study, 100% of participants who had normal glucose tolerance but a fasting insulin level > 18 µIU/mL were in the most insulin resistant tertile of participants. Insulin resistance was determined using a [euglycemic hyperinsulinemic clamp technique](https://en.wikipedia.org/wiki/Glucose_clamp_technique), which is a the gold standard laboratory test for determining insulin resistance. 
+A 1993 study by [Laakso et al](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.989.3023&rep=rep1&type=pdf). Indicates how fasting insulin levels might be used. The authors tested a total of 132 subjects; 50 subjects with normal glucose tolerance, 28 with impaired glucose tolerance, and 54 with non-insulin dependent diabetes (aka type II diabetes). Within their study, 100% of participants who had normal glucose tolerance but a fasting insulin level > 18 µIU/mL were in the most insulin resistant tertile of participants as determined by [euglycemic hyperinsulinemic clamp](https://en.wikipedia.org/wiki/Glucose_clamp_technique), which is the gold standard laboratory test for determining insulin resistance. 
 
-In other words, based on this study, if your fasting insulin level is > 18 µIU/mL, you almost certainly have insulin resistance.
+In other words, based on this study, if an individual’s fasting insulin level is > 18 µIU/mL, he or she almost certainly has insulin resistance.
 
 Here is the key graphic for this study:
 
 ![Percentage of subjects in the most insulin-resistant tertile by fasting insulin level](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/KMLLC/03cf51f0e06a5ee34bb4b301302e2e011fe0752b/docs/insulin_resistance/laakso_1993_fasting_insulin_graph.png)
 
-Not only is there a threshold at 18, but there is a clear increase in the 9-13 µIU/mL range whereby subjects with fasting insulin levels above 13 µIU/mL have at least a 75% chance of being in the most insulin-resistance tertile of subjects.
+Not only is there a threshold at 18, but there is a clear increase in the 9-13 µIU/mL range whereby subjects with fasting insulin levels above 13 µIU/mL have at least a 75% chance of being in the most insulin-resistant tertile of subjects.
 
 This graph also demonstrates the limitations of the fasting insulin level. Focus your attention on the lines that are identified with triangles and boxes. These lines represent subjects who are known to have impaired glucose tolerance and type II diabetes respectively. These individuals are likely to be insulin resistant at any level of fasting insulin.
 
@@ -149,13 +162,13 @@ In the *fed* state, the pancreas releases insulin which signals the liver to dec
 
 It turns out that calculating a HOMA-IR score is quite simple.
 
-$\text{HOMA}\textrm{-}\text{IR} = \frac{FPG \cdot FPI}{405}$
+![](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/KMLLC/master/docs/insulin_resistance/homa.png)
 
 If the resulting score is less than 1, it’s unlikely that an individual has insulin resistance. Numbers above 1.9 are suggestive of early insulin resistance and above 2.9 signal significant insulin resistance.
 
-Another model which aims to accomplish a similar goal is called the QUICKI, or the Quantitative Insulin Sensitivity Check Index. This is similar to the HOMA-IR, except that the fasting insulin and fasting glucose levels are inverted and transformed logarithmically which gives the results more granularity and a finer ability to identify insulin resistance.
+Another model that aims to accomplish a similar goal is called the QUICKI, or the Quantitative Insulin Sensitivity Check Index. This is similar to the HOMA-IR, except that the fasting insulin and fasting glucose levels are inverted and transformed logarithmically which gives the results more granularity and a finer ability to identify insulin resistance.
 
-$\text{QUICKI}\textrm{ }\text{score} = \frac{1}{\log insulin} + \frac{1}{\log glucose}$
+![](https://raw.githubusercontent.com/Kornweiss-Medical-LLC/KMLLC/master/docs/insulin_resistance/quicki.png)
 
 - A score greater than 0.45 indicates likely normal insulin sensitivity.
 - A score between 0.3-0.45 suggests that insulin resistance is likely.
@@ -169,10 +182,14 @@ Progressive experts in the field are pushing the idea that we shouldn’t simply
 
 Even better than reversal is prevention. Insulin resistant individuals can benefit from early detection and targeted interventions in order to [reverse](https://journals.physiology.org/doi/full/10.1152/japplphysiol.01336.2005) insulin resistance and to surveil for and prevent progression to diabetes. There is strong [evidence](https://pubmed.ncbi.nlm.nih.gov/17383294/) that insulin resistance alone even without dysglycemia is detrimental to long-term health aside from the fact that it’s a harbinger for diabetes.
 
-Obtaining the most accurate and specific diagnosis possible is always the first step in any treatment plan. In order to diagnose insulin resistance, we should utilize the full battery of available tests and the patient’s full clinical context. This means taking a detailed family history, a detailed clinical history, reviewing nutrition logs, exercise logs, and quantifying body composition, fasting insulin, fasting plasma glucose, A1c, continuous glucose monitoring, relevant genetics, lipid phenotyping, and an OGTT with insulin levels if the individual is amenable.
+Obtaining the most accurate and specific diagnosis possible is always the first step in any treatment plan. In order to diagnose insulin resistance, we should utilize the full battery of available tests and the patient’s full clinical context. This means taking a detailed family history, a detailed clinical history, reviewing nutrition logs, exercise logs, and quantifying body composition, fasting insulin, fasting plasma glucose, A1c, continuous glucose monitoring, relevant genetics, lipid phenotyping, and an OGTT with insulin levels if the individual is willing.
 
 No single test or piece of information is enough on its own, but with all of this information, it becomes possible to obtain a better picture of an individual’s metabolic health and risk for insulin resistance. Obtaining this information early in life is also useful so that subsequent tests can be judged in comparison to past tests. The efficacy of interventions, or lack-thereof can also be better interpreted when more information is available.
 
 **Conclusion**
 
-The A1c has its place in broadly identifying individuals with long-standing hyperglycemia and diabetes, but, it doesn’t identify individuals with insulin resistance who have normal glycemic control. I recommend a more detailed diagnostic approach that offers the chance to detect insulin resistance before it becomes a danger and when it’s easier to reverse.
+The A1c has its place in broadly identifying individuals with long-standing hyperglycemia and diabetes, but it doesn’t identify individuals with insulin resistance who have normal glycemic control. I recommend a more detailed diagnostic approach that offers the chance to detect insulin resistance before it becomes a danger and when it’s easier to reverse.
+
+---
+
+Featured Photo by [Alexander Grey](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
