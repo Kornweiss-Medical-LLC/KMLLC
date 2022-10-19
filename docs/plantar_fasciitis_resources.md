@@ -4,20 +4,20 @@
 
 *Note: Please ignore the treatment options for plantar fasciitis mentioned in the video and focus only on the anatomy and causes of heel pain.*
 
-https://www.youtube.com/watch?v=KN9tz0K7l3E
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KN9tz0K7l3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 **Causes of Plantar Fasciitis**
 - Tight gastrocnemius or soles muscles that limit ankle mobility and create tension on the plantar fascia.
 - Restrictive footwear that doesn’t allow for activation of the muscles of the foot.
 - Asymmetric gait due to weakness of the gluteus medius
-- - Asymmetric gait or restricted rotation due to limitations of thoracic spine mobility.
+- Asymmetric gait or restricted rotation due to limitations of thoracic spine mobility.
 
 **Physical Therapy**
 
 Jeff Cavalier - “How to Fix Plantar Fasciitis”
 
-https://www.youtube.com/watch?t=462&v=72p58Iy6u7M&feature=youtu.be&ab_channel=ATHLEAN-X%E2%84%A2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/72p58Iy6u7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Footwear**
 
