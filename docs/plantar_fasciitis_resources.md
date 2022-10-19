@@ -6,6 +6,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KN9tz0K7l3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
 
 **Causes of Plantar Fasciitis**
 - Tight gastrocnemius or soles muscles that limit ankle mobility and create tension on the plantar fascia.
@@ -13,11 +14,15 @@
 - Asymmetric gait due to weakness of the gluteus medius
 - Asymmetric gait or restricted rotation due to limitations of thoracic spine mobility.
 
+<br>
+
 **Physical Therapy**
 
 Jeff Cavalier - “How to Fix Plantar Fasciitis”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72p58Iy6u7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
 
 **Footwear**
 
