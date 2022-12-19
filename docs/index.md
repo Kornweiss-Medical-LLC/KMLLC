@@ -5,6 +5,7 @@
 ## Onboarding Information
 - [Onboarding Purpose and Process](./onboarding.md)
 - [Intake Interview Information](./intake_interview_information.md)
+- [FamGenix Pedigree and Risk Assessment Platform Enrollment](https://account.famgenix.com/#/)
 - [Family History Form - Electronic Version](https://nl77ewb6aoz.typeform.com/to/etWGSFEZ)
 - [Family History Form - Paper Version](./family_history_form.md)
 
