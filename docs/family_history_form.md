@@ -14,15 +14,15 @@ It's beneficial if you're also able to fill it out for second degree relatives (
 ___
 
 **Questions for Each Family Member**
-- Your first and last initial
-- Family member (e.g. mother, father, brother, sister, maternal grandmother (MGM), paternal grandfather (PGF), etc.)
-- Is your family member living?
-- If alive, how old if your family member. If deceased, at what age did they pass?
+- Family member’s relationship to the patient (e.g. mother, father, brother, sister, maternal grandmother (MGM), paternal grandfather (PGF), etc.)
+- Initials
+- Is the family member living?
+- If alive, how old is the family member. If deceased, at what age did they pass?
 - If deceased, please indicate the cause of death, to the best of your knowledge, and in as much detail as possible.
 - Please read each medical problem and indicate any that apply to your family member.
 
 
-| Condition | Present (+)? | Age of Onset |
+| Condition | Yes/No or +/- | Age of Onset |
 |---|---:|---:|
 | **Cardiovascular and Cerebrovascular** |  |  |
 | Arrhythmia<br> (e.g. SVT, Atrial Fibrillation, or<br> Ventricular Tachycardia) |  |  |
@@ -62,8 +62,8 @@ ___
 | **Cancer** |  |  |
 
 
-- Please indicate other problems you’re aware of whether or not they’re on the above list.
-- For each condition listed in answer to the prior question, provide as much detail as possible about the diagnosis, the age of onset, circumstances, treatments, and outcomes.
+- Please indicate any additional health problems.
+- For each condition selected above, provide as much detail as possible about the diagnosis, age of onset, circumstances, treatments, and outcomes.
 - Where did the family member spend most of their life (Provide the most accurate geographical detail possible)?
 - Did the family member smoke cigarettes?
 - How many packs per day and for how many years (e.g. 1 pack per day for 20 years)?
