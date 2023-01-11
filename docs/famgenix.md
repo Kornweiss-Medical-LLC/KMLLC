@@ -8,7 +8,7 @@ If you’d like to learn more about FamGenix, follow this [link](https://famgeni
 
 ## Enroll in FamGenix Pedigree and Risk Assessment Platform
 
-- Visit the [FamGenix](https://account.famgenix.com/#/) website and click “sign up” to create an account.
+- Visit the [FamGenix](https://account.famgenix.com/#/){:target=“_blank” rel=“no opener”} website and click “sign up” to create an account.
 - During enrollment, use the clinician code: “KWEISS492”
 - Once your account is created, refer to the [family history form](./family_history_form) as a guide for entering information into FamGenix.
 
