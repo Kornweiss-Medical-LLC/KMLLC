@@ -12,7 +12,7 @@
 - [Weight and Waist Circumference Instructions](./weight_waist_instructions.md)
 - [Labcorp Blood-Draw Instructions](./labcorp.md)
 - [Blood Pressure Measurement Instructions](./bp_instructions.md)
-- [Lactate Protocol for Zone-2](https://www.cdc.gov/physicalactivity/basics/measuring/exertion.htm)
+- [Lactate Protocol for Zone-2](./lactate_protocol.md)
 
 ## Resources
 - [Plantar Fasciitis](./plantar_fasciitis_resources.md)
