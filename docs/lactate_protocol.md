@@ -28,7 +28,7 @@
 4. Measure blood lactate
 5. Record parameters: resistance setting, cadence, power, heart rate, duration, lactate, rating of perceived exertion.
 6. Lactate should be between 1.7-1.9 mmol/L
-7. If lactate is greater than 2 mmol/L, decrease the resistance 
+7. If lactate is greater than 2 mmol/L, decrease the resistance next time. If lactate is less than 1.7 mmol/L, increase resistance next time.
 
 **Protocol to find Zone-2 Using a Treadmill**
 1. Set the treadmill to a brisk but comfortable walking pace.
@@ -44,6 +44,7 @@
 4. Immediately measure blood lactate
 5. Record parameters: incline, speed, heart rate, duration, lactate, rating of perceived exertion.
 6. Lactate should be between 1.7-1.9 mmol/L
+7. If lactate is less than 1.7 mmol/L, increase the incline or speed next time. If lactate is greater than 2 mmol/L, decrease incline or speed next time.
 
 
 **Rating of Perceived Exertion (RPE)**
