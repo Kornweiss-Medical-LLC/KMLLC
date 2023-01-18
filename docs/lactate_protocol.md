@@ -18,14 +18,14 @@
 6. Measure the third drop.
 
 **Protocol to find Zone-2 Using a Stationary Bicycle or Trainer**
-1. Over a 10 minute period on your trainer, cycle at a comfortable cadence (suggested 65-80 rpm) and adjust the resistance upward gradually until you're at a difficulty that feels strenuous, but for which you’re certain you can maintain for at least 1 hour.
-2. Heart rate will be between 120-150 for most people in this zone.
+1. Over a 10 minute period on your trainer, cycle at a comfortable cadence (suggested 65-80 rpm) and adjust the resistance upward gradually until you're at a difficulty that feels strenuous, but which you’re certain you can maintain for at least 1 hour.
+2. Heart rate for most people will be between 120-150.
 3. You should be able to comfortably carry on a phone conversation, but you’ll require a breath in between every sentence or two.
 4. If you’re unable to converse comfortably, you’re cycling too intensely.
 5. If you’re having to slow down, you’re cycling too intensely.
-6. Continue at this pace for 45-60 minutes
+6. Settle on an effort to maintain steadily for for 45-60 minutes
 3. Get off the bike
-4. Measure blood lactate
+4. Measure blood lactate immediately
 5. Record parameters: resistance setting, cadence, power, heart rate, duration, lactate, rating of perceived exertion.
 6. Lactate should be between 1.7-1.9 mmol/L
 7. If lactate is greater than 2 mmol/L, decrease the resistance next time. If lactate is less than 1.7 mmol/L, increase resistance next time.
@@ -37,9 +37,10 @@
 4. Drop down 1-2% below this incline.
 5. For most individuals, this will be between 8-16%
 3. You should be able to comfortably carry on a phone conversation, but breathing in between every sentence or two.
-4. If you’re unable to converse comfortably, you’re cycling too intensely.
-5. If you’re having to slow down, you’re cycling too intensely.
-6. Continue at this pace for 45-60 minutes
+4. If you’re unable to converse comfortably, the incline is too steep or speed too fast.
+5. If you’re having to slow down, the incline is too steep or speed too fast.
+6. Adjust accordingly.
+7. Settle on an effort to maintain steadily for 45-60 minutes
 3. Get off the treadmill.
 4. Immediately measure blood lactate
 5. Record parameters: incline, speed, heart rate, duration, lactate, rating of perceived exertion.
