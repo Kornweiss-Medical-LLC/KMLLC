@@ -1,26 +1,15 @@
-# Onboarding Checklist
+**Onboarding Checklist**
+{{TOC}}
 
-1. Sign Client Enrollment Agreement
-2. Sign Authorization for Release of Confidential Information
-3. Provide a List of All Current and Prior Physicians / Healthcare Professionals
-4. Provide a Detailed Family History
-5. Download and Setup Cronometer
-6. Begin Tracking Your Nutrition
-7. Record and Track Your Weight and Waist Circumference
-8. Record and Track Blood Pressure
-9. Laboratory Testing
-10. Send in GB Insight Genetics Testing Kit
-11. Schedule Intake Interview
-
-## 1. Sign Client Enrollment Agreement
+## 1 - Sign Client Enrollment Agreement
 
 You’ll receive this agreement via email. Please sign at your earliest convenience. As with all other items on this list, write with any questions.
 
-## 2. Sign Authorization for Release of Confidential Information
+## 2 -  Sign Authorization for Release of Confidential Information
 
 You’ll receive this agreement via email. Please sign at your earliest convenience. This will allow us to obtain prior records for analysis and to collaborate with your other physicians and healthcare professionals.
 
-## 3. Provide a List of All Current and Prior Physicians / Healthcare Professionals
+## 3 - Provide a List of All Current and Prior Physicians / Healthcare Professionals
 
 Please list all physicians, their specialty, and location if possible. It’s not necessary to provide contact information, but you may do so if it’s convenient.
 
@@ -36,15 +25,14 @@ Spreadsheet:
 
 OR
 
-Plain Text:
-
+Plain Text:\
 Name, specialty, location, contact info, reason
 
-4. Provide a Detailed Family History
+## 4 - Provide a Detailed Family History
 
 [Instructions](./famgenix.md)
 
-## 5. Download and Setup Cronometer
+## 5 - Download and Setup Cronometer
 
 - You should have an invitation email from me to setup or access your Cronometer account.
 - Get the [mobile app](https://support.cronometer.com/hc/en-us/articles/360021677792-Mobile-Quick-Start-Guide) and/or login to the [web app](https://cronometer.com/).
@@ -55,11 +43,11 @@ Name, specialty, location, contact info, reason
 - Go to Settings --> Devices
 	- Connect your devices and apps (i.e. Withings BP Cuff, ŌURA Ring, Dexcom CGM, Apple Health, etc.)
 
-## 6. Begin Tracking Your Nutrition
+## 6 - Begin Tracking Your Nutrition
 
 [Instructions](./nutrition_tracking_instructions.md)
 
-## 7. Record and Track Your Weight and Waist Circumference
+## 7 - Record and Track Your Weight and Waist Circumference
 
 **Weight**
 - Weigh yourself at the same time each morning with an empty bladder.
@@ -76,11 +64,11 @@ Name, specialty, location, contact info, reason
 - Measure three times to ensure an accurate measurement. If the three are slightly different from one another, take the average of the three.
 - Record this in Cronometer.
 
-## 8. Record and Track Blood Pressure
+## 8 - Record and Track Blood Pressure
 
 [Instructions](./bp_instructions.md)
 
-## 9. Laboratory Testing
+## 9 - Laboratory Testing
 
 You’ll receive a lab order. We typically use Labcorp or Boston Heart, sometimes Quest. You’ll receive instructions in your email along with the lab order. Please review those instructions, and review these important items below:
 
@@ -110,13 +98,13 @@ Schedule your lab draw between 7am and 9am in order to have the highest chance o
 - Stop any supplement containing biotin for at least 72 hours prior to the lab draw, especially if taking >= 100 mg/day. (*[Source](https://www.aacc.org/science-and-research/aacc-academy-guidance/biotin-interference-in-laboratory-tests)*)
 
 
-## 10. Send in GB Insight Genetics Testing Kit
+## 10 - Send in GB Insight Genetics Testing Kit
 
 You’ll receive a buccal swab kit for genetics testing in the mail. Please follow the included instructions and return the sample in the pre-paid envelope.
 
 For more information on this testing, please visit the GB Insight [website](https://www.gbhealthwatch.com/gbinsight/resources.php?target=individuals).
 
-## 11. Schedule Intake Interview
+## 11 - Schedule Intake Interview
 
 Send us 3-5 90 minute time slots that will work for your intake interview via Zoom.
 
