@@ -5,9 +5,11 @@
 ## Onboarding Information
 - [Onboarding Purpose and Process](./onboarding.md)
 - [Intake Interview Information](./intake_interview_information.md)
+- [Onboarding Checklist]()
 - [Provide Detailed Family History](./famgenix.md)
 
 ## Client Instructions
+- [Download and Setup Cronometer](./cronometer_instructions.md)
 - [Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
 - [Weight and Waist Circumference Instructions](./weight_waist_instructions.md)
 - [Labcorp Blood-Draw Instructions](./labcorp.md)
