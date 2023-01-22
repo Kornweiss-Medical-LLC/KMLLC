@@ -4,10 +4,15 @@
 ## 1 - Sign Client Enrollment Agreement
 
 You’ll receive this agreement via email. Please sign at your earliest convenience. As with all other items on this list, write with any questions.
+\
+\
+
 
 ## 2 -  Sign Authorization for Release of Confidential Information
 
 You’ll receive this agreement via email. Please sign at your earliest convenience. This will allow us to obtain prior records for analysis and to collaborate with your other physicians and healthcare professionals.
+\
+\
 
 ## 3 - Provide a List of All Current and Prior Physicians / Healthcare Professionals
 
@@ -27,10 +32,14 @@ OR
 
 Plain Text:\
 Name, specialty, location, contact info, reason
+\
+\
 
 ## 4 - Provide a Detailed Family History
 
 [Instructions](./famgenix.md)
+\
+\
 
 ## 5 - Download and Setup Cronometer
 
@@ -42,10 +51,14 @@ Name, specialty, location, contact info, reason
 	- Don’t worry about setting up the other items, we’ll take care of the rest for you.
 - Go to Settings --> Devices
 	- Connect your devices and apps (i.e. Withings BP Cuff, ŌURA Ring, Dexcom CGM, Apple Health, etc.)
+\
+\
 
 ## 6 - Begin Tracking Your Nutrition
 
 [Instructions](./nutrition_tracking_instructions.md)
+\
+\
 
 ## 7 - Record and Track Your Weight and Waist Circumference
 
@@ -63,10 +76,14 @@ Name, specialty, location, contact info, reason
 - The tape should be flush against the skin without causing a depression.
 - Measure three times to ensure an accurate measurement. If the three are slightly different from one another, take the average of the three.
 - Record this in Cronometer.
+\
+\
 
 ## 8 - Record and Track Blood Pressure
 
 [Instructions](./bp_instructions.md)
+\
+\
 
 ## 9 - Laboratory Testing
 
@@ -96,6 +113,8 @@ Schedule your lab draw between 7am and 9am in order to have the highest chance o
 
 *Biotin*
 - Stop any supplement containing biotin for at least 72 hours prior to the lab draw, especially if taking >= 100 mg/day. (*[Source](https://www.aacc.org/science-and-research/aacc-academy-guidance/biotin-interference-in-laboratory-tests)*)
+\
+\
 
 
 ## 10 - Send in GB Insight Genetics Testing Kit
@@ -103,6 +122,8 @@ Schedule your lab draw between 7am and 9am in order to have the highest chance o
 You’ll receive a buccal swab kit for genetics testing in the mail. Please follow the included instructions and return the sample in the pre-paid envelope.
 
 For more information on this testing, please visit the GB Insight [website](https://www.gbhealthwatch.com/gbinsight/resources.php?target=individuals).
+\
+\
 
 ## 11 - Schedule Intake Interview
 
