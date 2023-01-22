@@ -4,11 +4,11 @@
 
 ## Onboarding Information
 - [Onboarding Purpose and Process](./onboarding.md)
+- [Onboarding Checklist](./onboarding_checklist.md)
 - [Intake Interview Information](./intake_interview_information.md)
-- [Onboarding Checklist]()
-- [Provide Detailed Family History](./famgenix.md)
 
 ## Client Instructions
+- [Provide Detailed Family History](./famgenix.md)
 - [Download and Setup Cronometer](./cronometer_instructions.md)
 - [Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
 - [Weight and Waist Circumference Instructions](./weight_waist_instructions.md)
@@ -16,7 +16,7 @@
 - [Blood Pressure Measurement Instructions](./bp_instructions.md)
 - [Lactate Protocol for Zone-2](./lactate_protocol.md)
 
-## Resources
+## Clinical Resources
 - [Plantar Fasciitis](./plantar_fasciitis_resources.md)
 - [Protein Comparison Chart](./protein_table.md)
 
