@@ -1,5 +1,18 @@
 **Onboarding Checklist**
-{{TOC}}
+
+1. Sign Client Enrollment Agreement
+2. Sign Authorization for Release of Confidential Information
+3. Provide a List of All Current and Prior Physicians / Healthcare Professionals
+4. Provide a Detailed Family History
+5. Download and Setup Cronometer
+6. Begin Tracking Your Nutrition
+7. Record and Track Your Weight and Waist Circumference
+8. Record and Track Blood Pressure
+9. Laboratory Testing
+10. Send in GB Insight Genetics Testing Kit
+11. Schedule Intake Interview
+
+---
 
 ## 1 - Sign Client Enrollment Agreement
 
@@ -7,12 +20,15 @@ You’ll receive this agreement via email. Please sign at your earliest convenie
 \
 \
 
+---
 
-## 2 -  Sign Authorization for Release of Confidential Information
+## 2 - Sign Authorization for Release of Confidential Information
 
 You’ll receive this agreement via email. Please sign at your earliest convenience. This will allow us to obtain prior records for analysis and to collaborate with your other physicians and healthcare professionals.
 \
 \
+
+---
 
 ## 3 - Provide a List of All Current and Prior Physicians / Healthcare Professionals
 
@@ -35,11 +51,14 @@ Name, specialty, location, contact info, reason
 \
 \
 
+---
 ## 4 - Provide a Detailed Family History
 
 [Instructions](./famgenix.md)
 \
 \
+
+---
 
 ## 5 - Download and Setup Cronometer
 
@@ -54,11 +73,15 @@ Name, specialty, location, contact info, reason
 \
 \
 
+---
+
 ## 6 - Begin Tracking Your Nutrition
 
 [Instructions](./nutrition_tracking_instructions.md)
 \
 \
+
+---
 
 ## 7 - Record and Track Your Weight and Waist Circumference
 
@@ -79,11 +102,15 @@ Name, specialty, location, contact info, reason
 \
 \
 
+---
+
 ## 8 - Record and Track Blood Pressure
 
 [Instructions](./bp_instructions.md)
 \
 \
+
+---
 
 ## 9 - Laboratory Testing
 
@@ -116,6 +143,8 @@ Schedule your lab draw between 7am and 9am in order to have the highest chance o
 \
 \
 
+---
+
 
 ## 10 - Send in GB Insight Genetics Testing Kit
 
@@ -124,6 +153,8 @@ You’ll receive a buccal swab kit for genetics testing in the mail. Please foll
 For more information on this testing, please visit the GB Insight [website](https://www.gbhealthwatch.com/gbinsight/resources.php?target=individuals).
 \
 \
+
+---
 
 ## 11 - Schedule Intake Interview
 
