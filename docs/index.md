@@ -19,6 +19,7 @@
 ## Clinical Resources
 - [Plantar Fasciitis](./plantar_fasciitis_resources.md)
 - [Protein Comparison Chart](./protein_table.md)
+- [Dental Hygiene](./dental_hygiene_resource.md)
 
 ## Third-Party Privacy Agreements
 - [Typeform BAA](./typeform_baa_hipaa_kmllc.pdf)
