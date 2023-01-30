@@ -28,13 +28,15 @@ You’ll receive this agreement via email. Please sign at your earliest convenie
 
 ## 3 - Provide a List of All Current and Prior Physicians / Healthcare Professionals
 
-Please list all physicians, their specialty, and location if possible. It’s not necessary to provide contact information, but you may do so if it’s convenient.
+Please list all physicians along with specialty and location if possible. It’s not necessary to provide contact information, but you may do so if it’s convenient.
 
-Please also include names of practices, hospitals, facilities, labs, imaging centers, and other healthcare professionals on this list (dentists, imaging centers, labs, etc.)
+Please also provide names of practices, hospitals, facilities, labs, imaging centers, and other healthcare professionals or facilities from whom you’ve received care (dentists, imaging centers, labs, etc.)
 
-You can create a spreadsheet or a simple text file will do. Here are suggested formats.
+You can create a spreadsheet, text file, or email.
 
-Spreadsheet:
+Here are suggested formats.
+
+*Spreadsheet:*
 
 |Name of Professional or Facility| Specialty | Location (city, state) | Contact Information (*optional) | Reason (*optional) |
 |---|---|---|---|---|
@@ -42,7 +44,7 @@ Spreadsheet:
 
 OR
 
-Plain Text:<br>
+*Plain Text:<br>*
 Name, specialty, location, contact info, reason
 
 ---
@@ -54,12 +56,10 @@ Name, specialty, location, contact info, reason
 
 ## 5 - Download and Setup Cronometer
 
-- You should have an invitation email from me to setup or access your Cronometer account.
-- Get the [mobile app](https://support.cronometer.com/hc/en-us/articles/360021677792-Mobile-Quick-Start-Guide) and/or login to the [web app](https://cronometer.com/).
-- Login to your account.
+- You’ll receive an invitation to setup or access your Cronometer account.
+- Download the [mobile app](https://support.cronometer.com/hc/en-us/articles/360021677792-Mobile-Quick-Start-Guide) and/or login to the [web app](https://cronometer.com/).
 - Go to Settings --> Profile
 	- Ensure your sex, birthday, height, and weight are entered correctly.
-	- Don’t worry about setting up the other items, we’ll take care of the rest for you.
 - Go to Settings --> Devices
 	- Connect your devices and apps (i.e. Withings BP Cuff, ŌURA Ring, Dexcom CGM, Apple Health, etc.)
 
@@ -67,48 +67,49 @@ Name, specialty, location, contact info, reason
 
 ## 6 - Begin Tracking Your Nutrition
 
-[Instructions](./nutrition_tracking_instructions.md)
+[Nutrition Tracking Instructions](./nutrition_tracking_instructions.md)
 
 ---
 
 ## 7 - Record and Track Your Weight and Waist Circumference
 
 **Weight**
-- Weigh yourself at the same time each morning with an empty bladder.
-- Record your weight manually in Cronometer.
-- It’s also possible to buy a connected scale (I prefer *[Withings Body+](https://www.withings.com/us/en/body-plus)*, which will send your weight to your smartphone.
-- You can share data with me via the *Withings* app, or you can connect to Apple Health, which in turn can be linked to Cronometer. This may take a few minutes to set up, but once set, all you’ll need to do is step on the scale and I’ll be able to monitor your weight via *Withings*, Apple Health, and/or Cronometer.
+- Buy a connected smart-scale (I prefer *[Withings Body+](https://www.withings.com/us/en/body-plus)*, which will send your weight to the Withings App, which can be connected to Apple Health and/or Cronometer.
+- OR use a non-smart-scale and record weights in Cronometer manually.
+- Weigh yourself at the same time each morning after emptying your bladder.
 
 **Waist Circumference**
 - Use a [tape measure](https://amzn.to/3dmrqzv) designed for anthropometry.
 - Measure yourself while standing up straight in a relaxed position.
-- Wrap the tape measure around your abdomen, drawing a line through the umbilicus (belly button).
-- Breathe in gently, and measure on the exhalation.
-- The tape should be flush against the skin without causing a depression.
+- Measure on a line that intersects your umbilicus (belly button).
+- Breathe in gently, and then measure on the exhalation.
+- The tape should be flush against the skin, but not so tight that it causes a depression.
 - Measure three times to ensure an accurate measurement. If the three are slightly different from one another, take the average of the three.
-- Record this in Cronometer.
+- Record this number in Cronometer.
 
 ---
 
 ## 8 - Record and Track Blood Pressure
 
-[Instructions](./bp_instructions.md)
+[Blood Pressure Tracking Instructions](./bp_instructions.md)
 
 ---
 
 ## 9 - Laboratory Testing
 
-You’ll receive a lab order. We typically use Labcorp or Boston Heart, sometimes Quest. You’ll receive instructions in your email along with the lab order. Please review those instructions, and review these important items below:
+You’ll receive a lab order by email along with instructions. We typically use Labcorp, Boston Heart, or Quest. Please review your order and the included instructions.
+
+Here are some key lab instructions to be aware of for future reference:
 
 **Women - Hormone Labs**
 
-For hormone testing, we like to test 7 days after ovulation, which means on average, day 21 of the menstrual cycle.
+For hormone testing, it’s important to test 7 days after ovulation, which means on average, day 21 of the menstrual cycle. This is the timing required to measure peak progesterone levels.
 
-However, women have shorter or longer cycles and differing lengths of follicular and luteal phases. Therefore, it helps to track your menstrual cycle using basal body temperature and/or by learning [how to check cervical mucous](https://www.plannedparenthood.org/learn/birth-control/fertility-awareness/whats-cervical-mucus-method-fams).
+It’s common for individuals to have shorter or longer cycles and differing lengths of follicular and luteal phases. Therefore, it helps to track your menstrual cycle using basal body temperature and/or by learning [how to check cervical mucous](https://www.plannedparenthood.org/learn/birth-control/fertility-awareness/whats-cervical-mucus-method-fams) in order to get the timing right.
 
 Perhaps the easiest way to track your menstrual cycle is by using the [ŌURA ring + Natural Cycles](https://www.naturalcycles.com/oura?campaignid=18571382315&adgroupid=145079492849&utm_content=627436183347_&utm_campaign=&utm_source=google&utm_medium=cpc&gclid=CjwKCAiA2rOeBhAsEiwA2Pl7Q2P4K-BnKHmKeVcxRamPZOxC0Rcknvl6jQd2lPf1OIe58vekXWlqNRoCqaIQAvD_BwE).
 
-Whichever way you track, try to have labs drawn 7 days after ovulation.
+Whichever way you track, the goal is to detect the day of ovulation and to have labs drawn 7 days after ovulation.
 
 **Men - Hormone Labs**
 
@@ -117,13 +118,13 @@ Schedule your lab draw between 7am and 9am in order to have the highest chance o
 **Men and Women**
 
 *Fasting*
-- Fast for at least 13 hours. Water only. Even black coffee can elevated triglycerides in some individuals.
+- Fast for at least 13 hours prior to your lab draw. Water only. Do not drink black coffee, as it can cause an elevation of triglycerides in some individuals.
 
 *Diet, Medications, Supplements*
-- Maintain a stable diet, supplementation regimen, and medication regimen for at least 3 weeks leading up to labs in order for lab work to accurately reflect your current regimen.
+- Maintain a stable diet, supplementation regimen, and medication regimen for at least 3 weeks leading up to lab draws in order for the results to accurately reflect your current regimen.
 
 *Biotin*
-- Stop any supplement containing biotin for at least 72 hours prior to the lab draw, especially if taking >= 100 mg/day. (*[Source](https://www.aacc.org/science-and-research/aacc-academy-guidance/biotin-interference-in-laboratory-tests)*)
+- Stop taking any supplement containing biotin at least 72 hours prior to the lab draw, especially if taking >= 100 mg/day. (*[Source](https://www.aacc.org/science-and-research/aacc-academy-guidance/biotin-interference-in-laboratory-tests)*)
 
 ---
 
